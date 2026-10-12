@@ -18,6 +18,10 @@ Rule: **do not add again** anything from the "Already in the sheet" list. Log ne
 - 2026-10-12 — mistakes & tips: dead zone, Cheetah, Feign Death (6 min = death), Hunter's Mark 100 yd, Well Fed → Mistakes & Tips
 - 2026-10-12 — Auto Shot: only 0.5 s standstill while moving; longer beta pause is a bug, Blizzard fixing → Essentials
 - 2026-10-12 — traps: on fire/frost-immune mobs use Explosive Trap → Forever Changes
+- 2026-10-12 — beta tuning: Oct 8 balance pass (14 buffs / 13 nerfs / 12 other, 347 items, Hunter 6 changes), newer Oct 10 update → Forever Changes
+- 2026-10-12 — dungeons: devs are fixing a dungeon-XP bug (Oct 8 podcast) → Zones & Dungeons
 
 ## Queue (to add in future runs)
-- (nothing for now)
+- Blizzard Weekly (Oct 9): battlegrounds, class deep dives, PvP updates
+- "Classic vs Forever" dataset: 136 new / 508 changed / 24 moved talents and spells (global)
+- Beta Known Issues Oct 8 (Skyborne druid forms, mounts/pets textures — not hunter)
