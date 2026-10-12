@@ -3,7 +3,7 @@
 Ściąga: https://rgx78.github.io/wow-forever-hunter/ · plik: `sciaga-hunter.html` (+ `index.html`)
 Zasada: **nie dodawaj ponownie** rzeczy z listy „Już w ściądze". Nowe rzeczy dopisuj tutaj z datą i źródłem.
 
-## Już w ściądze (stan na 2026-10-12)
+## Już w ściądze (stan na 2026-10-13)
 - 2026-10-12 — ściąga bazowa (Kargoz + stillsixty, The Forever Era, wow-forever.gg, wowclassicforever, wowforeverbuilds, wowf.io)
 - 2026-10-12 — trapy w walce (1 ogień + 1 mróz, osobne CD ~30 s) → Klucz / Zmiany Forever
 - 2026-10-12 — Summon Hawk (16 pkt BM, od 25 lvl) dzieli CD z Arcane Shot → Klucz / Talenty
@@ -16,6 +16,8 @@ Zasada: **nie dodawaj ponownie** rzeczy z listy „Już w ściądze". Nowe rzecz
 - 2026-10-12 — dungeony: nowe z poziomami (Hall of Thanes 13–18, Ruins of Lordaeron 15–20, Excavation Site 26–31, City of Dalaran 28–33, The Drowned City 35–40, Krol'dok 40–55, Alcaz 48–53, Blackmaw 55–60, Shapers Terrace 58–60); rajdy Barrow Deeps i Hyjal Summit (od 9.12.2026) → Strefy i dungeony
 - 2026-10-12 — questy w dungeonach: mniejszy bonus XP (od 1.10); campsite = buffy/naprawa → Strefy i dungeony
 - 2026-10-12 — błędy i tipy: dead zone, Cheetah, Feign Death (6 min = śmierć), Hunter's Mark 100 jd, Well Fed → Błędy i tipy
+- 2026-10-13 — Auto Shot: przestój tylko 0,5 s w ruchu, dłuższa pauza w becie = błąd, Blizzard naprawia → Klucz
+- 2026-10-13 — trapy: na ognioodporne/odporne na mróz moby użyj Explosive Trap → Zmiany Forever
 
 ## Kolejka (do dodania przy następnych przebiegach)
 - (nic na razie)
