@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="pl">
+<html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Raporty — ściąga huntera (WoW: Forever)</title>
+<title>Reports — Hunter Cheat Sheet (WoW: Forever)</title>
 <style>
   :root{ --bg:#14161c; --card:#1d212b; --line:#2c3242; --txt:#e8e6df; --gold:#e5b95c; --dim:#9aa0ac; }
   *{box-sizing:border-box}
@@ -26,12 +26,12 @@
 </head>
 <body>
 <div class="wrap">
-  <h1>📋 Raporty huntera</h1>
-  <p class="sub">Tu lądują wpisy, gdy robot 24/7 doda coś do <a href="./">ściągi</a>. Strona odświeża się sama co 5 minut.</p>
-  <div class="status" id="status">Wczytywanie…</div>
-  <div id="err">⚠️ Nie udało się pobrać raportów. Spróbuj odświeżyć stronę za chwilę.</div>
+  <h1>📋 Hunter Reports</h1>
+  <p class="sub">Entries appear here when the 24/7 robot adds something to the <a href="./">hunter cheat sheet</a>. This page refreshes itself every 5 minutes.</p>
+  <div class="status" id="status">Loading…</div>
+  <div id="err">⚠️ Could not load the reports. Try refreshing the page in a moment.</div>
   <div id="entries"></div>
-  <p class="foot">Wpis = aktualizacja ściągi z ostatniego przebiegu robota. Spokojne dni = brak wpisów (i bardzo dobrze 🙂).</p>
+  <p class="foot">An entry = a cheat-sheet update from the robot's latest run. Quiet days = no entries (and that's perfectly fine 🙂).</p>
 </div>
 <script>
 function esc(s){return s.replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");}
@@ -63,11 +63,11 @@ async function load(){
     if(!r.ok) throw new Error("HTTP "+r.status);
     const md=await r.text();
     const cnt=(md.match(/^## /gm)||[]).length;
-    document.getElementById("entries").innerHTML= cnt? render(md) : '<div class="empty">Na razie cisza — brak wpisów. To dobra wiadomość: nic się nie zmieniło. 😉</div>';
-    st.textContent="Sprawdzono: "+new Date().toLocaleString("pl-PL");
+    document.getElementById("entries").innerHTML= cnt? render(md) : '<div class="empty">All quiet for now — no entries yet. That\'s good news: nothing changed. 😉</div>';
+    st.textContent="Checked: "+new Date().toLocaleString("en-GB");
     err.style.display="none";
   }catch(e){
-    err.style.display="block"; st.textContent="Błąd: "+e.message;
+    err.style.display="block"; st.textContent="Error: "+e.message;
   }
 }
 load(); setInterval(load,300000);

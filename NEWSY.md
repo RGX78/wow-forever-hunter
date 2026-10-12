@@ -1,23 +1,23 @@
-# NEWSY — WoW Forever (hunter) — dziennik zmian ściągi
+# NEWS — WoW Forever (hunter) — cheat-sheet change log
 
-Ściąga: https://rgx78.github.io/wow-forever-hunter/ · plik: `sciaga-hunter.html` (+ `index.html`)
-Zasada: **nie dodawaj ponownie** rzeczy z listy „Już w ściądze". Nowe rzeczy dopisuj tutaj z datą i źródłem.
+Sheet: https://rgx78.github.io/wow-forever-hunter/ · file: `sciaga-hunter.html` (+ `index.html`)
+Rule: **do not add again** anything from the "Already in the sheet" list. Log new items here with date and source.
 
-## Już w ściądze (stan na 2026-10-13)
-- 2026-10-12 — ściąga bazowa (Kargoz + stillsixty, The Forever Era, wow-forever.gg, wowclassicforever, wowforeverbuilds, wowf.io)
-- 2026-10-12 — trapy w walce (1 ogień + 1 mróz, osobne CD ~30 s) → Klucz / Zmiany Forever
-- 2026-10-12 — Summon Hawk (16 pkt BM, od 25 lvl) dzieli CD z Arcane Shot → Klucz / Talenty
-- 2026-10-12 — Aimed Shot jako baseline od 20 lvl, dzieli CD z Multi-Shot → Zmiany Forever
-- 2026-10-12 — Lone Wolf (MM 11 pkt), Sniper Shot (31 pkt MM), Survival = melee (Strider Kick, Lacerating Strikes, Lacerate od 30) → Zmiany Forever
-- 2026-10-12 — pet: 100% crit / 10% AP, skalowanie ze sprzętem gracza; Aggressive wrócił (1.10); Furious Howl −40% → Zmiany Forever / Pet
-- 2026-10-12 — beta: cap 20→30 (od 1.10), beta do 21.10, premiera 4.11.2026 → nagłówek
-- 2026-10-12 — staty: broń dystansowa ~14 ranged AP za 1 DPS; hit i crit wspólne → Broń · staty · profesje
-- 2026-10-12 — profesje: Skinning+LW / Skinning+Mining / Cooking (bonus XP) → Broń · staty · profesje
-- 2026-10-12 — dungeony: nowe z poziomami (Hall of Thanes 13–18, Ruins of Lordaeron 15–20, Excavation Site 26–31, City of Dalaran 28–33, The Drowned City 35–40, Krol'dok 40–55, Alcaz 48–53, Blackmaw 55–60, Shapers Terrace 58–60); rajdy Barrow Deeps i Hyjal Summit (od 9.12.2026) → Strefy i dungeony
-- 2026-10-12 — questy w dungeonach: mniejszy bonus XP (od 1.10); campsite = buffy/naprawa → Strefy i dungeony
-- 2026-10-12 — błędy i tipy: dead zone, Cheetah, Feign Death (6 min = śmierć), Hunter's Mark 100 jd, Well Fed → Błędy i tipy
-- 2026-10-12 — Auto Shot: przestój tylko 0,5 s w ruchu, dłuższa pauza w becie = błąd, Blizzard naprawia → Klucz
-- 2026-10-12 — trapy: na ognioodporne/odporne na mróz moby użyj Explosive Trap → Zmiany Forever
+## Already in the sheet (as of 2026-10-12)
+- 2026-10-12 — base sheet (Kargoz + stillsixty, The Forever Era, wow-forever.gg, wowclassicforever, wowforeverbuilds, wowf.io)
+- 2026-10-12 — traps in combat (1 fire + 1 frost, separate ~30 s CDs) → Essentials / Forever Changes
+- 2026-10-12 — Summon Hawk (16 pt BM, from lvl 25) shares a CD with Arcane Shot → Essentials / Talents
+- 2026-10-12 — Aimed Shot baseline from lvl 20, shares a CD with Multi-Shot → Forever Changes
+- 2026-10-12 — Lone Wolf (MM 11 pt), Sniper Shot (31 pt MM), Survival = melee (Strider Kick, Lacerating Strikes, Lacerate from 30) → Forever Changes
+- 2026-10-12 — pet: 100% crit / 10% AP, scales with player gear; Aggressive back (1.10); Furious Howl −40% → Forever Changes / Pet
+- 2026-10-12 — beta: cap 20→30 (from 1.10), beta until 21.10, release 4.11.2026 → header
+- 2026-10-12 — stats: ranged weapon ~14 ranged AP per 1 DPS; hit and crit unified → Weapon · Stats · Professions
+- 2026-10-12 — professions: Skinning+LW / Skinning+Mining / Cooking (XP bonus) → Weapon · Stats · Professions
+- 2026-10-12 — dungeons: new ones with level ranges (Hall of Thanes 13–18, Ruins of Lordaeron 15–20, Excavation Site 26–31, City of Dalaran 28–33, The Drowned City 35–40, Krol'dok 40–55, Alcaz 48–53, Blackmaw 55–60, Shapers Terrace 58–60); raids Barrow Deeps and Hyjal Summit (from 9.12.2026) → Zones & Dungeons
+- 2026-10-12 — dungeon quests: smaller XP bonus (from 1.10); campsite = buffs/repair → Zones & Dungeons
+- 2026-10-12 — mistakes & tips: dead zone, Cheetah, Feign Death (6 min = death), Hunter's Mark 100 yd, Well Fed → Mistakes & Tips
+- 2026-10-12 — Auto Shot: only 0.5 s standstill while moving; longer beta pause is a bug, Blizzard fixing → Essentials
+- 2026-10-12 — traps: on fire/frost-immune mobs use Explosive Trap → Forever Changes
 
-## Kolejka (do dodania przy następnych przebiegach)
-- (nic na razie)
+## Queue (to add in future runs)
+- (nothing for now)

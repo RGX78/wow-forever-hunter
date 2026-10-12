@@ -1,11 +1,11 @@
-# RAPORTY — WoW Forever hunter (zdalny robot 24/7)
+# REPORTS — WoW Forever hunter (remote 24/7 robot)
 
-Wpisy pojawiaja sie, gdy serwer doda cos do sciagi.
+Entries appear here when the server adds something to the sheet.
 
-## 2026-10-12 18:30 — serwer podlaczony
-- Robot 24/7 uruchomiony na VPS (sprawdza co 8 h); raporty trafiaja na desktop przez relay.
+## 2026-10-12 18:30 — server connected
+- 24/7 robot started on the VPS (checks every 8 h); reports reach the desktop via relay.
 
-## 2026-10-12 19:33 — dodane do ściągi
-- Auto Shot: przestój w ruchu to tylko 0,5 s, a dłuższa pauza z bety to błąd, który Blizzard naprawia → zakładka "Klucz"
-- Trapy: na moby ognioodporne/odporne na mróz używaj Explosive Trap → zakładka "Zmiany Forever"
-- Data ściągi: 12.10.2026 (świeże źródło: wowclassicforever Hunter, stan 12.10)
+## 2026-10-12 19:33 — added to the sheet
+- Auto Shot: moving downtime is only 0.5 s; the longer beta pause is a bug that Blizzard is fixing → "Essentials" tab
+- Traps: use Explosive Trap on fire/frost-immune mobs → "Forever Changes" tab
+- Sheet date: 12.10.2026 (fresh source: wowclassicforever Hunter, state 12.10)
