@@ -26,6 +26,7 @@ Rule: **do not add again** anything from the "Already in the sheet" list. Log ne
 - 2026-10-13 — professions for class (Nadin Wins video, 4.10): eng for hunters (ammo + hit item), fishing Shiny Bauble start trick, FA bandages in combat, cooking +5% XP from start + fishing synergy → Weapon · Stats · Professions
 - 2026-10-13 — Wowhead Forever hub added to Sources [7] (+ hunter talent calc link); news: Truthseeker's Bow needs lvl 40, dungeon kill-XP buff coming → footer / Talents / Zones & Dungeons
 - 2026-10-13 — gun-only playthrough: bullets + Gun-skill tips in weapons; meta pet (The Rake, Claw 4) added → Weapon · Stats · Professions / Pet
+- 2026-10-13 — glossary of shortcuts (STV, BM, MM, AP, BiS, LW, ...) added to Essentials; STV expanded in the zones table → Essentials / Zones & Dungeons
 
 ## Queue (to add in future runs)
 - Blizzard Weekly (Oct 9): battlegrounds, class deep dives, PvP updates
