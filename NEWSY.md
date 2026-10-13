@@ -27,6 +27,7 @@ Rule: **do not add again** anything from the "Already in the sheet" list. Log ne
 - 2026-10-13 — Wowhead Forever hub added to Sources [7] (+ hunter talent calc link); news: Truthseeker's Bow needs lvl 40, dungeon kill-XP buff coming → footer / Talents / Zones & Dungeons
 - 2026-10-13 — gun-only playthrough: bullets + Gun-skill tips in weapons; meta pet (The Rake, Claw 4) added → Weapon · Stats · Professions / Pet
 - 2026-10-13 — glossary of shortcuts (STV, BM, MM, AP, BiS, LW, ...) added to Essentials; STV expanded in the zones table → Essentials / Zones & Dungeons
+- 2026-10-13 — map links added (header badge + Zones tab) → online zoomable map viewer (VPS mapa.html)
 
 ## Queue (to add in future runs)
 - Blizzard Weekly (Oct 9): battlegrounds, class deep dives, PvP updates
