@@ -28,3 +28,10 @@ Entries appear here when the server adds something to the sheet.
 
 ## 2026-10-13 08:05 — added to the sheet
 - Wowhead (wowhead.com/forever) added to the sources + hunter talent calculator link; news: Truthseeker's Bow now needs lvl 40 ("sorry Hunters") and a dungeon kill-XP buff is coming → footer / "Talents" / "Zones & Dungeons"
+
+## 2026-10-13 16:07 — added to the sheet
+- New client build 1.60.1.70338 (first listed Oct 12) changed only item-icon files — no talent or spell changes, so nothing new for the hunter in it → "Forever Changes" tab
+- Wyvern Sting is gone from the hunter entirely; Survival's 31-point talent is now Lacerating Strikes — Mongoose Bite leaves a 21 s bleed worth 40% of the bite's damage → "Forever Changes" tab
+- Summon Hawk has 4 ability ranks (at lvl 25, 36, 48 and 60) → "Forever Changes" tab
+- Also queued for future runs (from the wow-forever.gg Hunter deep dive): Careful Aim (Int→AP), Rapid Recuperation, Trueshot Aura move, Trap Mastery → Survival Tactics, Aspect of the Beast melee AP, talent counts
+- Sheet date: 13.10.2026 (source: wow-forever.gg Hunter / The Forever Era, Patch notes wowclassicforever — build list)

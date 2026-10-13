@@ -28,8 +28,16 @@ Rule: **do not add again** anything from the "Already in the sheet" list. Log ne
 - 2026-10-13 — gun-only playthrough: bullets + Gun-skill tips in weapons; meta pet (The Rake, Claw 4) added → Weapon · Stats · Professions / Pet
 - 2026-10-13 — glossary of shortcuts (STV, BM, MM, AP, BiS, LW, ...) added to Essentials; STV expanded in the zones table → Essentials / Zones & Dungeons
 - 2026-10-13 — map links added (header badge + Zones tab) → online zoomable map viewer (VPS mapa.html)
+- 2026-10-13 — new client build 1.60.1.70338 (first listed Oct 12) changed only item-icon files, no talent/spell changes → Forever Changes
+- 2026-10-13 — Wyvern Sting removed from the hunter; Survival 31-pt is now Lacerating Strikes (Mongoose Bite leaves a 21 s bleed for 40% of bite damage) → Forever Changes
+- 2026-10-13 — Summon Hawk has 4 ranks (25, 36, 48, 60) → Forever Changes
 
 ## Queue (to add in future runs)
+- MM mana talents (wow-forever.gg Hunter, build 1.60.1.69913): Careful Aim 5 ranks converts 20–100% Intellect → Attack Power; Rapid Recuperation 2 ranks turns Serpent Sting hits / Rapid Killing procs into regen windows; Efficiency widened to melee, 10%→15%
+- Trueshot Aura moved from 31-pt to 16-pt slot, ability ranks at 25 & 32, lost Barrage prerequisite (no longer 31-pt)
+- Trap Mastery renamed Survival Tactics and now applies to Feign Death as well as traps
+- Aspect of the Beast also grants +50 melee Attack Power, 4 ranks (30, 40, 50, 60)
+- Talent counts: BM 16 / MM 17 / SV 18 talents; 17 talents changed tier/ranks/reqs — MM first two tiers reshuffled
 - Blizzard Weekly (Oct 9): battlegrounds, class deep dives, PvP updates
 - "Classic vs Forever" dataset: 136 new / 508 changed / 24 moved talents and spells (global)
 - Beta Known Issues Oct 8 (Skyborne druid forms, mounts/pets textures — not hunter)
