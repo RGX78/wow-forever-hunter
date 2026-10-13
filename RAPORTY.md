@@ -22,3 +22,6 @@ Entries appear here when the server adds something to the sheet.
 
 ## 2026-10-13 04:30 — added to the sheet
 - Professions & camps deep dive from the Hazpataz video — full F–S rankings + the camp system (amenities at lvl 4/28/60, sit 60 s, cooking campfire prerequisite) → "Weapon · Stats · Professions" tab
+
+## 2026-10-13 04:45 — added to the sheet
+- Nadin Wins professions guide (4.10): hunter-relevant picks — engineering (craftable ammo + hit item), fishing start trick (Shiny Bauble), First Aid bandages work in combat, cooking +5% XP from the start → "Weapon · Stats · Professions" tab
