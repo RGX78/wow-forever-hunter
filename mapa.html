@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<title>Mapy Eastern Kingdoms — WoW: Forever</title>
+<style>
+  :root{--bg:#14161c;--panel:#1d212b;--line:#2c3242;--txt:#e8e6df;--gold:#e5b95c;--dim:#9aa0ac;}
+  *{box-sizing:border-box}
+  html,body{margin:0;height:100%;background:var(--bg);color:var(--txt);font:15px/1.5 "Segoe UI",system-ui,sans-serif;overflow:hidden}
+  body{display:flex;flex-direction:column;height:100vh}
+  #top{display:flex;flex-wrap:wrap;gap:8px;align-items:center;padding:10px 14px;background:var(--panel);border-bottom:1px solid var(--line)}
+  #top h1{font-size:16px;margin:0 10px 0 0;color:var(--gold)}
+  #top button{font:inherit;font-size:14px;padding:7px 14px;border-radius:8px;border:1px solid var(--line);background:transparent;color:var(--txt);cursor:pointer}
+  #top button.active{background:var(--gold);border-color:var(--gold);color:#1a1a1a;font-weight:600}
+  #stage{flex:1;position:relative;overflow:hidden;cursor:grab;background:#0f1116;touch-action:none}
+  #stage.drag{cursor:grabbing}
+  #img{position:absolute;top:0;left:0;transform-origin:0 0;will-change:transform;user-select:none;-webkit-user-drag:none;opacity:0;transition:opacity .25s}
+  #img.ready{opacity:1}
+  #hint{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);color:var(--dim);pointer-events:none}
+  #zoom{position:absolute;right:14px;bottom:14px;display:flex;gap:8px;z-index:5}
+  #zoom button{width:48px;height:48px;font-size:22px;border-radius:10px;border:1px solid var(--line);background:rgba(29,33,43,.92);color:var(--txt);cursor:pointer}
+  #credit{position:absolute;left:14px;bottom:14px;font-size:12px;color:var(--dim);z-index:5;max-width:70%}
+</style>
+</head>
+<body>
+<div id="top">
+  <h1>🗺️ Mapy Eastern Kingdoms</h1>
+  <button data-src="mapy/sturmbart_web.jpg" class="active">🎨 Sturmbart</button>
+  <button data-src="mapy/terrain_web.jpg">🌍 Terenowa</button>
+  <button data-src="mapy/trasa_web.jpg">🏹 Trasa 1–60</button>
+</div>
+<div id="stage">
+  <img id="img" alt="">
+  <div id="hint">Wczytywanie…</div>
+  <div id="zoom"><button id="zin">+</button><button id="zout">−</button><button id="zreset">⟲</button></div>
+  <div id="credit">Sturmbart (mapa artystyczna) · barrens.chat / warcrafttavern.com (terenowa) · ściąga: rgx78.github.io/wow-forever-hunter</div>
+</div>
+<script>
+(function(){
+var stage=document.getElementById('stage'),img=document.getElementById('img'),hint=document.getElementById('hint');
+var sc=1,tx=0,ty=0,nw=0,nh=0;
+function apply(){img.style.transform='translate('+tx+'px,'+ty+'px) scale('+sc+')';}
+function fit(){var sw=stage.clientWidth,sh=stage.clientHeight;if(!nw)return;var s=Math.min(sw/nw,sh/nh);sc=s;tx=(sw-nw*s)/2;ty=(sh-nh*s)/2;apply();}
+function load(src){hint.style.display='block';hint.textContent='Wczytywanie…';img.classList.remove('ready');var t=new Image();
+  t.onload=function(){img.src=src;nw=t.naturalWidth;nh=t.naturalHeight;img.classList.add('ready');hint.style.display='none';fit();};
+  t.onerror=function(){hint.textContent='Błąd wczytywania mapy — spróbuj odświeżyć';};
+  t.src=src;}
+var btns=document.querySelectorAll('#top button');
+btns.forEach(function(b){b.addEventListener('click',function(){btns.forEach(function(x){x.classList.remove('active');});b.classList.add('active');load(b.getAttribute('data-src'));});});
+stage.addEventListener('wheel',function(e){e.preventDefault();var r=stage.getBoundingClientRect();var mx=e.clientX-r.left,my=e.clientY-r.top;var f=e.deltaY<0?1.15:1/1.15;var ns=Math.min(9,Math.max(.15,sc*f));tx=mx-(mx-tx)*(ns/sc);ty=my-(my-ty)*(ns/sc);sc=ns;apply();},{passive:false});
+var dr=null;
+stage.addEventListener('pointerdown',function(e){dr={x:e.clientX,y:e.clientY,tx:tx,ty:ty};stage.classList.add('drag');try{stage.setPointerCapture(e.pointerId);}catch(_){}});
+stage.addEventListener('pointermove',function(e){if(!dr)return;tx=dr.tx+(e.clientX-dr.x);ty=dr.ty+(e.clientY-dr.y);apply();});
+stage.addEventListener('pointerup',function(){dr=null;stage.classList.remove('drag');});
+stage.addEventListener('pointercancel',function(){dr=null;stage.classList.remove('drag');});
+stage.addEventListener('dblclick',function(e){var r=stage.getBoundingClientRect();var mx=e.clientX-r.left,my=e.clientY-r.top;if(sc<1.5){var ns=2;tx=mx-(mx-tx)*(ns/sc);ty=my-(my-ty)*(ns/sc);sc=ns;apply();}else{fit();}});
+document.getElementById('zin').onclick=function(){var r=stage.getBoundingClientRect();var mx=r.width/2,my=r.height/2;var ns=Math.min(9,sc*1.25);tx=mx-(mx-tx)*(ns/sc);ty=my-(my-ty)*(ns/sc);sc=ns;apply();};
+document.getElementById('zout').onclick=function(){var r=stage.getBoundingClientRect();var mx=r.width/2,my=r.height/2;var ns=Math.max(.15,sc/1.25);tx=mx-(mx-tx)*(ns/sc);ty=my-(my-ty)*(ns/sc);sc=ns;apply();};
+document.getElementById('zreset').onclick=fit;
+window.addEventListener('resize',function(){if(nw)fit();});
+load('mapy/sturmbart_web.jpg');
+})();
+</script>
+</body>
+</html>
