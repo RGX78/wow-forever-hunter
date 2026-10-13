@@ -25,3 +25,6 @@ Entries appear here when the server adds something to the sheet.
 
 ## 2026-10-13 04:45 — added to the sheet
 - Nadin Wins professions guide (4.10): hunter-relevant picks — engineering (craftable ammo + hit item), fishing start trick (Shiny Bauble), First Aid bandages work in combat, cooking +5% XP from the start → "Weapon · Stats · Professions" tab
+
+## 2026-10-13 08:05 — added to the sheet
+- Wowhead (wowhead.com/forever) added to the sources + hunter talent calculator link; news: Truthseeker's Bow now needs lvl 40 ("sorry Hunters") and a dungeon kill-XP buff is coming → footer / "Talents" / "Zones & Dungeons"
