@@ -3,7 +3,7 @@
 Sheet: https://rgx78.github.io/wow-forever-hunter/ · file: `sciaga-hunter.html` (+ `index.html`)
 Rule: **do not add again** anything from the "Already in the sheet" list. Log new items here with date and source.
 
-## Already in the sheet (as of 2026-10-12)
+## Already in the sheet (as of 2026-10-13)
 - 2026-10-12 — base sheet (Kargoz + stillsixty, The Forever Era, wow-forever.gg, wowclassicforever, wowforeverbuilds, wowf.io)
 - 2026-10-12 — traps in combat (1 fire + 1 frost, separate ~30 s CDs) → Essentials / Forever Changes
 - 2026-10-12 — Summon Hawk (16 pt BM, from lvl 25) shares a CD with Arcane Shot → Essentials / Talents
@@ -20,8 +20,12 @@ Rule: **do not add again** anything from the "Already in the sheet" list. Log ne
 - 2026-10-12 — traps: on fire/frost-immune mobs use Explosive Trap → Forever Changes
 - 2026-10-12 — beta tuning: Oct 8 balance pass (14 buffs / 13 nerfs / 12 other, 347 items, Hunter 6 changes), newer Oct 10 update → Forever Changes
 - 2026-10-12 — dungeons: devs are fixing a dungeon-XP bug (Oct 8 podcast) → Zones & Dungeons
+- 2026-10-13 — respec price after launch (TechRadar): climbs quickly, only drops once a week; two specs max (no third); weekly balance updates at first → Talents
+- 2026-10-13 — addon Questie v12.1.0: Forever quest info inside dungeons + combat tooltip fix → Zones & Dungeons
 
 ## Queue (to add in future runs)
 - Blizzard Weekly (Oct 9): battlegrounds, class deep dives, PvP updates
 - "Classic vs Forever" dataset: 136 new / 508 changed / 24 moved talents and spells (global)
 - Beta Known Issues Oct 8 (Skyborne druid forms, mounts/pets textures — not hunter)
+- Non-hunter Blizzard news (skip unless hunter-relevant): Darkspear Islands 15v15 battleground, PvP progression (Honor/Rank Points/High Warlord–Grand Marshal), WoW Forever Podcast Ep. 3 (host Countdown To Classic), Twitch Drop Gold-Colored Grrgle housing decor (Oct 13–Nov 3), Midnight 12.1.5 content update (Oct 13), Student Art Contest 2026, Whoofle Bramblewing owl mount
+- The Forever Open: 1v1 duel tournament, lvl 30 beta, Horde only, $100,000 — qualifiers Oct 17, finals Oct 18

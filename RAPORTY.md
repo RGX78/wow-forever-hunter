@@ -14,3 +14,8 @@ Entries appear here when the server adds something to the sheet.
 - Beta tuning: Oct 8 balance pass changed 14 buffs, 13 nerfs and 12 other things across 347 items — Hunter got 6 changes; a newer update landed Oct 10 → "What's different from Classic" tab
 - Dungeons: devs are fixing a dungeon-XP bug (mentioned in the Oct 8 podcast) → "Zones & Dungeons" tab
 - Sheet date: 12.10.2026 (source: stillsixty News)
+
+## 2026-10-13 00:08 — added to the sheet
+- Respec price after launch: Blizzard told TechRadar it will not be cheap — the price climbs quickly and only drops back once a week; two specs stay the cap (no third spec); weekly balance updates planned at first → "Talents" tab
+- Addon Questie v12.1.0: shows quest info on the map and now also inside Forever dungeons, plus a fix for tooltips not showing in combat → "Zones & Dungeons" tab
+- Sheet date: 13.10.2026 (fresh source: wowclassicforever Latest updates + Questie commits)
