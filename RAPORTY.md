@@ -19,3 +19,6 @@ Entries appear here when the server adds something to the sheet.
 - Respec price after launch: Blizzard told TechRadar it will not be cheap — the price climbs quickly and only drops back once a week; two specs stay the cap (no third spec); weekly balance updates planned at first → "Talents" tab
 - Addon Questie v12.1.0: shows quest info on the map and now also inside Forever dungeons, plus a fix for tooltips not showing in combat → "Zones & Dungeons" tab
 - Sheet date: 13.10.2026 (fresh source: wowclassicforever Latest updates + Questie commits)
+
+## 2026-10-13 04:30 — added to the sheet
+- Professions & camps deep dive from the Hazpataz video — full F–S rankings + the camp system (amenities at lvl 4/28/60, sit 60 s, cooking campfire prerequisite) → "Weapon · Stats · Professions" tab

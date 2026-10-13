@@ -22,6 +22,7 @@ Rule: **do not add again** anything from the "Already in the sheet" list. Log ne
 - 2026-10-12 — dungeons: devs are fixing a dungeon-XP bug (Oct 8 podcast) → Zones & Dungeons
 - 2026-10-13 — respec price after launch (TechRadar): climbs quickly, only drops once a week; two specs max (no third); weekly balance updates at first → Talents
 - 2026-10-13 — addon Questie v12.1.0: Forever quest info inside dungeons + combat tooltip fix → Zones & Dungeons
+- 2026-10-13 — professions & camps (Hazpataz video, 21.09): F–S rankings + camp system (amenities at 4/28/60, sit 60 s, cooking campfire prerequisite, no-stack rules); enchanting = best all-round → Weapon · Stats · Professions
 
 ## Queue (to add in future runs)
 - Blizzard Weekly (Oct 9): battlegrounds, class deep dives, PvP updates
