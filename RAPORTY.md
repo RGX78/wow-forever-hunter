@@ -29,7 +29,13 @@ Entries appear here when the server adds something to the sheet.
 ## 2026-10-13 08:05 — added to the sheet
 - Wowhead (wowhead.com/forever) added to the sources + hunter talent calculator link; news: Truthseeker's Bow now needs lvl 40 ("sorry Hunters") and a dungeon kill-XP buff is coming → footer / "Talents" / "Zones & Dungeons"
 
-## 2026-10-13 16:07 — added to the sheet
+## 2026-10-14 09:00 — added to the sheet
+- Traps: all four trap cooldowns are doubled in the current beta client — 15 s → 30 s (so don't plan on chaining traps) → "Forever Changes" tab
+- Gun upgrades for a gun-only run: Skorn's Rifle (quest "The Demon Scarred Cloak", Skull Rock) and Calibrated Blunderbuss (quest "Old Ironforge Incursion", The Hall of Thanes 13–18) — both are guns, so your Gun skill never resets → "Weapon · Stats · Professions" tab
+- New client builds 1.60.1.70340 and 70391 (both Oct 13): no hunter talent or spell changes — they follow the Midnight 12.1.5 patch, not Forever → "Forever Changes" tab
+- Queued for future runs: Trueshot Aura ability ranks at 25 & 32; beta BM pet-talent number changes (Ferocity +10% crit, Unleashed Fury +15%, Lightning Reflexes +10% Agility) still need a careful Talents-tab diff
+- Sheet date: 14.10.2026 (source: wowclassicforever Hunter guide / wowf.io BM leveling / wowforeverbuilds / stillsixty Hunter)
+
 - New client build 1.60.1.70338 (first listed Oct 12) changed only item-icon files — no talent or spell changes, so nothing new for the hunter in it → "Forever Changes" tab
 - Wyvern Sting is gone from the hunter entirely; Survival's 31-point talent is now Lacerating Strikes — Mongoose Bite leaves a 21 s bleed worth 40% of the bite's damage → "Forever Changes" tab
 - Summon Hawk has 4 ability ranks (at lvl 25, 36, 48 and 60) → "Forever Changes" tab

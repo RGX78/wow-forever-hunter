@@ -3,7 +3,7 @@
 Sheet: https://rgx78.github.io/wow-forever-hunter/ · file: `sciaga-hunter.html` (+ `index.html`)
 Rule: **do not add again** anything from the "Already in the sheet" list. Log new items here with date and source.
 
-## Already in the sheet (as of 2026-10-13)
+## Already in the sheet (as of 2026-10-14)
 - 2026-10-12 — base sheet (Kargoz + stillsixty, The Forever Era, wow-forever.gg, wowclassicforever, wowforeverbuilds, wowf.io)
 - 2026-10-12 — traps in combat (1 fire + 1 frost, separate ~30 s CDs) → Essentials / Forever Changes
 - 2026-10-12 — Summon Hawk (16 pt BM, from lvl 25) shares a CD with Arcane Shot → Essentials / Talents
@@ -31,13 +31,14 @@ Rule: **do not add again** anything from the "Already in the sheet" list. Log ne
 - 2026-10-13 — new client build 1.60.1.70338 (first listed Oct 12) changed only item-icon files, no talent/spell changes → Forever Changes
 - 2026-10-13 — Wyvern Sting removed from the hunter; Survival 31-pt is now Lacerating Strikes (Mongoose Bite leaves a 21 s bleed for 40% of bite damage) → Forever Changes
 - 2026-10-13 — Summon Hawk has 4 ranks (25, 36, 48, 60) → Forever Changes
+- 2026-10-14 — traps: all four trap cooldowns doubled 15 s → 30 s in the current beta client (as of 14.10) → Forever Changes
+- 2026-10-14 — gun upgrades for a gun-only run: Skorn's Rifle (quest "The Demon Scarred Cloak", Skull Rock) and Calibrated Blunderbuss (quest "Old Ironforge Incursion", Hall of Thanes 13–18) → Weapon · Stats · Professions
+- 2026-10-14 — new client builds 1.60.1.70340 + 70391 (Oct 13) carry no hunter talent/spell changes (Midnight 12.1.5 patch) → Forever Changes
+- 2026-10-14 — MM mana talents confirmed in the sheet from the queue: Careful Aim (5 ranks, 20–100% Int → AP), Rapid Recuperation (2 ranks), Efficiency widened to melee 10%→15%; Trueshot Aura moved 31-pt → 16-pt (ranks at 25 & 32, no Barrage prereq); Trap Mastery → Survival Tactics (now also Feign Death); Aspect of the Beast +50 melee AP, 4 ranks (30/40/50/60) → already covered by the Talents tab
+- 2026-10-14 — BM pet-talent numbers in the beta client (wow-forever.gg Hunter, build 1.60.1.69913): Ferocity +15% → +10% pet/hawk crit, Unleashed Fury +20% → +15% pet/hawk damage, Lightning Reflexes +15% → +10% Agility, Bestial Discipline +20% pet Focus regen and 50% of your mana regen continues while casting, Intimidation's stun attack now gains 100% crit, Improved Wing Clip 5 ranks → 3 → Queue (not added — diff still too risky for the Talents tab)
 
 ## Queue (to add in future runs)
-- MM mana talents (wow-forever.gg Hunter, build 1.60.1.69913): Careful Aim 5 ranks converts 20–100% Intellect → Attack Power; Rapid Recuperation 2 ranks turns Serpent Sting hits / Rapid Killing procs into regen windows; Efficiency widened to melee, 10%→15%
-- Trueshot Aura moved from 31-pt to 16-pt slot, ability ranks at 25 & 32, lost Barrage prerequisite (no longer 31-pt)
-- Trap Mastery renamed Survival Tactics and now applies to Feign Death as well as traps
-- Aspect of the Beast also grants +50 melee Attack Power, 4 ranks (30, 40, 50, 60)
-- Talent counts: BM 16 / MM 17 / SV 18 talents; 17 talents changed tier/ranks/reqs — MM first two tiers reshuffled
+- Trueshot Aura ability ranks at 25 & 32 (moved from the 31-pt slot) — needs a Talents-tab line
 - Blizzard Weekly (Oct 9): battlegrounds, class deep dives, PvP updates
 - "Classic vs Forever" dataset: 136 new / 508 changed / 24 moved talents and spells (global)
 - Beta Known Issues Oct 8 (Skyborne druid forms, mounts/pets textures — not hunter)
