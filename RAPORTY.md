@@ -36,6 +36,7 @@ Entries appear here when the server adds something to the sheet.
 - Queued for future runs: Trueshot Aura ability ranks at 25 & 32; beta BM pet-talent number changes (Ferocity +10% crit, Unleashed Fury +15%, Lightning Reflexes +10% Agility) still need a careful Talents-tab diff
 - Sheet date: 14.10.2026 (source: wowclassicforever Hunter guide / wowf.io BM leveling / wowforeverbuilds / stillsixty Hunter)
 
+## 2026-10-13 16:07 — added to the sheet
 - New client build 1.60.1.70338 (first listed Oct 12) changed only item-icon files — no talent or spell changes, so nothing new for the hunter in it → "Forever Changes" tab
 - Wyvern Sting is gone from the hunter entirely; Survival's 31-point talent is now Lacerating Strikes — Mongoose Bite leaves a 21 s bleed worth 40% of the bite's damage → "Forever Changes" tab
 - Summon Hawk has 4 ability ranks (at lvl 25, 36, 48 and 60) → "Forever Changes" tab

@@ -18,7 +18,7 @@ PROCEDURE (in order, using terminal/file tools):
    a. Edit sciaga-hunter.html PRECISELY (keep the HTML style and structure; do NOT change section ids: t-ess, t-new, t-rot, t-tal, t-pet, t-gear, t-map, t-mis, nor the CSS). Volatile beta numbers: append "(as of DD.MM)".
    b. Set today's date: run `date +%d.%m.%Y` and use it EXACTLY. The sheet has exactly two date occurrences (header sub line + footer) — set both to today's date in the DD.MM.YYYY format. Use the same date in NEWSY.md and RAPORTY.md.
    c. Append to NEWSY.md: - YYYY-MM-DD — <what was added> (<source>) → <tab(s)>
-   d. Append to RAPORTY.md a section:
+   d. Append a NEW section at the very END of RAPORTY.md — append only: NEVER edit, replace, shorten or reuse an existing heading (once an agent overwrote the previous entry's heading, leaving its bullets orphaned). Safest: `cat >> RAPORTY.md <<'EOF'` with the block below, or a patch anchored on the file's LAST line:
       ## YYYY-MM-DD HH:MM — added to the sheet
       - <bullet 1>
       - <bullet 2>
