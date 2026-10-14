@@ -42,3 +42,11 @@ Entries appear here when the server adds something to the sheet.
 - Summon Hawk has 4 ability ranks (at lvl 25, 36, 48 and 60) → "Forever Changes" tab
 - Also queued for future runs (from the wow-forever.gg Hunter deep dive): Careful Aim (Int→AP), Rapid Recuperation, Trueshot Aura move, Trap Mastery → Survival Tactics, Aspect of the Beast melee AP, talent counts
 - Sheet date: 13.10.2026 (source: wow-forever.gg Hunter / The Forever Era, Patch notes wowclassicforever — build list)
+
+## 2026-10-14 08:08 — added to the sheet
+- Downranking is much weaker since the Oct 1 beta build: a low-rank shot/spell gets less from spell power and rarely triggers talents (a rank 1 Frostbolt at 60 can't trigger Frostbite). Use your top rank — added to "Forever Changes" and "Mistakes & Tips"
+- Raid gear is not fully horizontal: Blizzard told Inven that each new raid tier adds some power (kept narrow) and some BiS pieces from an older tier may stay best for a long time — added to "Forever Changes"
+- Server Slam / stress test (a few hours of open beta) looks set for Oct 19 — the Battle.net launcher lists a "WoW: Forever - Stress Test" game mode with that date; hours unconfirmed — added to "Forever Changes" + the footer
+- Temporary Economy Hold against gold buying: a suspect account gets trade, mail, guild bank and AH blocked until Blizzard checks (no permanent strike) — added to "Mistakes & Tips"
+- Queued for future runs: The Forever Open tournament (Oct 17–18, lvl 30 Horde, $100,000); beta BM pet-talent number changes still need a careful Talents-tab diff
+- Sheet date: 14.10.2026 (source: wowclassicforever — Latest updates, Oct 14 / Blizzard news blog)

@@ -36,6 +36,10 @@ Rule: **do not add again** anything from the "Already in the sheet" list. Log ne
 - 2026-10-14 — new client builds 1.60.1.70340 + 70391 (Oct 13) carry no hunter talent/spell changes (Midnight 12.1.5 patch) → Forever Changes
 - 2026-10-14 — MM mana talents confirmed in the sheet from the queue: Careful Aim (5 ranks, 20–100% Int → AP), Rapid Recuperation (2 ranks), Efficiency widened to melee 10%→15%; Trueshot Aura moved 31-pt → 16-pt (ranks at 25 & 32, no Barrage prereq); Trap Mastery → Survival Tactics (now also Feign Death); Aspect of the Beast +50 melee AP, 4 ranks (30/40/50/60) → already covered by the Talents tab
 - 2026-10-14 — BM pet-talent numbers in the beta client (wow-forever.gg Hunter, build 1.60.1.69913): Ferocity +15% → +10% pet/hawk crit, Unleashed Fury +20% → +15% pet/hawk damage, Lightning Reflexes +15% → +10% Agility, Bestial Discipline +20% pet Focus regen and 50% of your mana regen continues while casting, Intimidation's stun attack now gains 100% crit, Improved Wing Clip 5 ranks → 3 → Queue (not added — diff still too risky for the Talents tab)
+- 2026-10-14 — downranking is much weaker since the Oct 1 beta build: low-rank spells get less from spell power and rarely trigger talents (rank 1 Frostbolt at 60 can't trigger Frostbite) → Forever Changes / Mistakes & Tips
+- 2026-10-14 — raid gear is not fully horizontal: each new raid tier adds some power, kept narrow; some BiS pieces from an earlier tier may stay best for a long time (Blizzard to Inven) → Forever Changes
+- 2026-10-14 — Server Slam / stress test looks set for Oct 19 ("WoW: Forever - Stress Test" game mode on the Battle.net launcher) → Forever Changes / footer
+- 2026-10-14 — Temporary Economy Hold vs gold buying: trade, mail, guild bank and AH blocked on a suspect account (no permanent strike) → Mistakes & Tips
 
 ## Queue (to add in future runs)
 - Trueshot Aura ability ranks at 25 & 32 (moved from the 31-pt slot) — needs a Talents-tab line
