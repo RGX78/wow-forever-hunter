@@ -50,3 +50,9 @@ Entries appear here when the server adds something to the sheet.
 - Temporary Economy Hold against gold buying: a suspect account gets trade, mail, guild bank and AH blocked until Blizzard checks (no permanent strike) — added to "Mistakes & Tips"
 - Queued for future runs: The Forever Open tournament (Oct 17–18, lvl 30 Horde, $100,000); beta BM pet-talent number changes still need a careful Talents-tab diff
 - Sheet date: 14.10.2026 (source: wowclassicforever — Latest updates, Oct 14 / Blizzard news blog)
+
+## 2026-10-14 16:08 — added to the sheet
+- New client build 1.60.1.70374 is now listed (after 70340 and 70391) — no hunter talent or spell changes reported, so nothing new for the hunter in it → "Forever Changes" tab
+- Leatherworking leveling gear: your level-30 target head, chest and waist are crafted from the new rare leather recipes — Brawler's Leather Helm, Dusky Leather Armor, Stalker's Leather Belt. Skinning + Leatherworking is the best pair for this, and none of these are weapons, so a gun-only run is safe → "Weapon · Stats · Professions" tab
+- Queued for future runs: The Forever Open tournament (qualifiers Oct 17, finals Oct 18, lvl 30 Horde, $100,000); more wowf.io leveling route details (Pathfinding travel speed from 17)
+- Sheet date: 14.10.2026 (source: The Forever Era — build 1.60.1.70374; wowf.io BM Hunter leveling guide)
