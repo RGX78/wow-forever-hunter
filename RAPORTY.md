@@ -62,3 +62,10 @@ Entries appear here when the server adds something to the sheet.
 - No new hunter talent, spell, ability or hotfix content — latest beta build is still 1.60.1.70374 (1 new spell, 3 items), already noted on 14.10
 - Sheet left unchanged; date in the sheet NOT moved (no content change to carry it)
 - Source: wow_digest/dane/2026-10-15_delta.txt (wow-forever.gg, stillsixty, wowforeverbuilds, Blizzard news, wowf.io BM leveling)
+
+## 2026-10-15 08:08 — added to the sheet
+- Cross-region play is off the table for now: Blizzard told Fiamma at PAX Australia that realmless play works well in the beta, but playing across regions (EU ↔ US) has technical problems and needs time. The launch character cap hasn't been announced — added to "Forever Changes"
+- The Forever Open (the tournament that was waiting in the queue) is now in the sheet: a community 1v1 duel tournament with a $100,000 prize pool, October 17–18, level 30 Horde characters on the PvP ruleset, run by Tips Out, Esfand and Xaryu rather than Blizzard — added to "Forever Changes"
+- No hunter news in this delta: the newest beta client is still 1.60.1.70374 (its 1 new spell and 3 new items are already in the changelog), the latest Blizzard notes are still October 8, and the October 14 hotfix post has no hunter change. Nothing new was added to the Talents, Pet or Gear tabs
+- Sheet date moved to 15.10.2026 (both places: header line + footer)
+- Source: wow_digest/dane/2026-10-15_delta.txt (wowclassicforever — Latest updates, Oct 15/Oct 14; wow-forever.gg, stillsixty, The Forever Era)

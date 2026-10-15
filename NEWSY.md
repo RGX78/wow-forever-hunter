@@ -51,3 +51,7 @@ Rule: **do not add again** anything from the "Already in the sheet" list. Log ne
 - Beta Known Issues Oct 8 (Skyborne druid forms, mounts/pets textures — not hunter)
 - Non-hunter Blizzard news (skip unless hunter-relevant): Darkspear Islands 15v15 battleground, PvP progression (Honor/Rank Points/High Warlord–Grand Marshal), WoW Forever Podcast Ep. 3 (host Countdown To Classic), Twitch Drop Gold-Colored Grrgle housing decor (Oct 13–Nov 3), Midnight 12.1.5 content update (Oct 13), Student Art Contest 2026, Whoofle Bramblewing owl mount
 - The Forever Open: 1v1 duel tournament, lvl 30 beta, Horde only, $100,000 — qualifiers Oct 17, finals Oct 18
+
+- 2026-10-15 — cross-region play is not possible for now (Blizzard to Fiamma at PAX Australia): realmless works in the beta, but playing across regions has technical problems and needs time; the launch character cap is still unannounced → Forever Changes
+- 2026-10-15 — The Forever Open (community 1v1 duel tournament, $100,000, level 30 Horde, PvP ruleset, qualifiers Oct 17 / finals Oct 18, run by Tips Out, Esfand and Xaryu — not Blizzard) moved out of the queue and into the sheet → Forever Changes
+- 2026-10-15 — nothing new for the hunter: the newest beta client is still 1.60.1.70374, latest Blizzard notes still October 8, no hunter hotfix in the October 14 hotfix post
