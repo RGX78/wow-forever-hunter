@@ -56,3 +56,9 @@ Entries appear here when the server adds something to the sheet.
 - Leatherworking leveling gear: your level-30 target head, chest and waist are crafted from the new rare leather recipes — Brawler's Leather Helm, Dusky Leather Armor, Stalker's Leather Belt. Skinning + Leatherworking is the best pair for this, and none of these are weapons, so a gun-only run is safe → "Weapon · Stats · Professions" tab
 - Queued for future runs: The Forever Open tournament (qualifiers Oct 17, finals Oct 18, lvl 30 Horde, $100,000); more wowf.io leveling route details (Pathfinding travel speed from 17)
 - Sheet date: 14.10.2026 (source: The Forever Era — build 1.60.1.70374; wowf.io BM Hunter leveling guide)
+
+## 2026-10-15 08:00 — nothing added to the sheet
+- Delta 2026-10-15 vs 2026-10-14 checked (5 sections flagged). All changes are noise: countdown "beta last full day in 8 days → 7 days", "15 hours ago → a day ago" timestamps, one view counter 312→313, and older articles dropping off the 6000-char page cut
+- No new hunter talent, spell, ability or hotfix content — latest beta build is still 1.60.1.70374 (1 new spell, 3 items), already noted on 14.10
+- Sheet left unchanged; date in the sheet NOT moved (no content change to carry it)
+- Source: wow_digest/dane/2026-10-15_delta.txt (wow-forever.gg, stillsixty, wowforeverbuilds, Blizzard news, wowf.io BM leveling)
