@@ -44,6 +44,8 @@ Rule: **do not add again** anything from the "Already in the sheet" list. Log ne
 - 2026-10-14 — new client build 1.60.1.70374 listed on The Forever Era (after 70340/70391) — no hunter talent/spell changes reported → Forever Changes
 - 2026-10-14 — Leatherworking leveling gear: your lvl-30 target head/chest/waist are crafted from rare leather recipes — Brawler's Leather Helm, Dusky Leather Armor, Stalker's Leather Belt (wowf.io BM leveling) → Weapon · Stats · Professions
 
+- 2026-10-15 — addon Questie (v12.1.0): new commits add an optional "Show Spell IDs" tooltip setting and pass spell IDs through to the tooltip untouched (for bug reports); also small deDE tracker-menu translations -> Zones & Dungeons (Addon line)
+
 ## Queue (to add in future runs)
 - Trueshot Aura ability ranks at 25 & 32 (moved from the 31-pt slot) — needs a Talents-tab line
 - Blizzard Weekly (Oct 9): battlegrounds, class deep dives, PvP updates

@@ -69,3 +69,10 @@ Entries appear here when the server adds something to the sheet.
 - No hunter news in this delta: the newest beta client is still 1.60.1.70374 (its 1 new spell and 3 new items are already in the changelog), the latest Blizzard notes are still October 8, and the October 14 hotfix post has no hunter change. Nothing new was added to the Talents, Pet or Gear tabs
 - Sheet date moved to 15.10.2026 (both places: header line + footer)
 - Source: wow_digest/dane/2026-10-15_delta.txt (wowclassicforever — Latest updates, Oct 15/Oct 14; wow-forever.gg, stillsixty, The Forever Era)
+
+## 2026-10-15 16:07 — added to the sheet
+- Questie addon update (v12.1.0, commits from Oct 15): a new optional "Show Spell IDs" tooltip setting, spell IDs are now passed straight through to the tooltip (helps you report a bug correctly), plus small German tracker-menu translation fixes. It stays the go-to Forever quest addon — the line in "Zones & Dungeons" now says "as of 15.10" and mentions the new option
+- Everything else in this delta was noise: navigation menus, view counters, countdowns and "X hours ago" timestamps, plus Midnight 12.1.5 news that is a different game mode (not Forever). The October 14 hotfix post still has no hunter change, and Barrow Deeps / Hyjal Summit (opens Dec 9) are already on the sheet
+- No new hunter talent, spell, ability or gear changes — nothing added to the Talents, Pet or Gear tabs
+- Sheet date: 15.10.2026 (unchanged; the header and footer were already on today's date)
+- Source: wow_digest/dane/2026-10-15_delta.txt (Questie commits — GitHub; Blizzard news blog; stillsixty — News)
