@@ -84,3 +84,11 @@ Entries appear here when the server adds something to the sheet.
 - Rest of the delta was noise or non-hunter: page cut-offs, "X hours ago" timestamps, view counters, midnight 12.1.5 news (a different game mode), Paladin deep dive, PvP podcast Ep. 4, battleground Honor changes and the 1-million-characters milestone — all listed in the NEWSY queue, not in the sheet
 - Sheet date moved to 16.10.2026 (both places: header line + footer)
 - Source: wow_digest/dane/2026-10-16_delta.txt (Blizzard news blog + stillsixty blue tracker — Kaivax, Oct 15; Questie commits — GitHub; wow-foreverbuilds around-the-web; wow-forever.gg)
+
+## 2026-10-16 16:20 — added to the sheet
+- New beta client build 1.60.1.70425 was detected on October 16 (after 1.60.1.70374). No hunter talent or spell changes are reported for it, so nothing about your hunter changes — the "Recent beta tuning" note in "Forever Changes" now lists all of the recent builds (70340, 70391, 70374, 70425) in one place and says plainly that your hunter plays the same. The note's "as of" tag moved to 16.10
+- Everything else in this delta was noise or already on the sheet: the Oct 19 Stress Test and Questie changes were added earlier today; the wowclassicforever Hunter page line (Aggressive mode back, Lone Wolf no-pet penalty gone, Furious Howl −40%) was already in the Pet/Talents tabs since 12.10; the wowforeverbuilds articles are from Oct 4–10 and already covered
+- Not hunter-relevant (left in the NEWSY queue, not added to the sheet): Alterac Valley Honor lowered and other battlegrounds raised (Podcast Ep. 4), no RP-PvP ruleset planned, Paladin class deep dive, beta realm maintenance Oct 15 (realms are back up)
+- The newest Blizzard patch/development notes are still October 8; the October 15 hotfix post has no hunter entry
+- Sheet date: 16.10.2026 (unchanged — the header and footer were already on today's date)
+- Source: wow_digest/dane/2026-10-16_delta.txt (The Forever Era — new build detected Oct 16; wowclassicforever — Latest updates; wow-forever.gg; wowforeverbuilds)
