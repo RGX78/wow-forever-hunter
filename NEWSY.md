@@ -84,3 +84,4 @@ Rule: **do not add again** anything from the "Already in the sheet" list. Log ne
 - 2026-10-16 — sheet font dimmed step 1 (foreground #ece9e1→#d8d3c5, muted #b7b1a2→#a39d8f)
 - 2026-10-16 — sheet font another 20% dimmer (fg #ada99e, muted #827e72)
 - 2026-10-16 — Robcat's intermediate PvE guide (video) → Rotation tab: 10 tricks (Rapid Fire on CD, FD distance rule, freezing-trap interrupt + scorpid trick, ranged hit table, raptor-queue, spirit talents, distracting shot, aspect notes, hawk math); source [9] added
+- 2026-10-16 — skill icons added to the sheet: 38-icon quick-reference legend (Rotation tab) + inline icons in the leveling table; icons verified against Wowhead tooltip API (CDN: wow.zamimg.com)

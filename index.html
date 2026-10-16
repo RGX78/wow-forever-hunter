@@ -79,6 +79,10 @@
   ol.tal li { margin: 1px 0; }
   .note { font-size: 12px; color: var(--muted-foreground, #6b7280); margin: 6px 0 0; }
   pre { margin: 2px 0 0; padding: 7px 9px; border-radius: 8px; background: rgba(8,10,14,.5); border: 1px solid var(--border, rgba(255,255,255,.14)); font-size: 11px; line-height: 1.4; overflow-x: auto; }
+  .ico { width: 14px; height: 14px; border-radius: 3px; vertical-align: -2px; margin-right: 3px; }
+  .chips { display: flex; flex-wrap: wrap; gap: 6px; margin: 4px 0 10px; }
+  .chip { display: inline-flex; align-items: center; gap: 5px; border: 1px solid var(--border, #e5e7eb); border-radius: 7px; padding: 2px 7px 2px 3px; font-size: 11.5px; background: var(--card, transparent); }
+  .chip img { width: 16px; height: 16px; border-radius: 3px; }
   .foot { margin-top: 12px; padding-top: 8px; border-top: 1px solid var(--border, #e5e7eb); font-size: 11.5px; color: var(--muted-foreground, #6b7280); }
   .foot ol { margin: 4px 0 0; padding-left: 18px; }
   .foot li { margin: 1px 0; word-break: break-all; }
@@ -149,19 +153,60 @@
   </section>
 
   <section id="t-rot" class="tabsec">
+    <h3>Spell icons (quick reference)</h3>
+    <div class="chips">
+      <span class="chip"><img src="https://wow.zamimg.com/images/wow/icons/small/ability_whirlwind.jpg" alt="">Auto Shot</span>
+      <span class="chip"><img src="https://wow.zamimg.com/images/wow/icons/small/ability_impalingbolt.jpg" alt="">Arcane Shot</span>
+      <span class="chip"><img src="https://wow.zamimg.com/images/wow/icons/small/ability_hunter_quickshot.jpg" alt="">Serpent Sting</span>
+      <span class="chip"><img src="https://wow.zamimg.com/images/wow/icons/small/ability_upgrademoonglaive.jpg" alt="">Multi-Shot</span>
+      <span class="chip"><img src="https://wow.zamimg.com/images/wow/icons/small/inv_spear_07.jpg" alt="">Aimed Shot</span>
+      <span class="chip"><img src="https://wow.zamimg.com/images/wow/icons/small/spell_frost_stun.jpg" alt="">Concussive Shot</span>
+      <span class="chip"><img src="https://wow.zamimg.com/images/wow/icons/small/ability_hunter_runningshot.jpg" alt="">Rapid Fire</span>
+      <span class="chip"><img src="https://wow.zamimg.com/images/wow/icons/small/ability_golemstormbolt.jpg" alt="">Scatter Shot</span>
+      <span class="chip"><img src="https://wow.zamimg.com/images/wow/icons/small/spell_arcane_blink.jpg" alt="">Distracting Shot</span>
+      <span class="chip"><img src="https://wow.zamimg.com/images/wow/icons/small/ability_marksmanship.jpg" alt="">Volley</span>
+      <span class="chip"><img src="https://wow.zamimg.com/images/wow/icons/small/ability_hunter_snipershot.jpg" alt="">Hunter's Mark</span>
+      <span class="chip"><img src="https://wow.zamimg.com/images/wow/icons/small/ability_hunter_criticalshot.jpg" alt="">Scorpid Sting</span>
+      <span class="chip"><img src="https://wow.zamimg.com/images/wow/icons/small/ability_meleedamage.jpg" alt="">Raptor Strike</span>
+      <span class="chip"><img src="https://wow.zamimg.com/images/wow/icons/small/ability_rogue_trip.jpg" alt="">Wing Clip</span>
+      <span class="chip"><img src="https://wow.zamimg.com/images/wow/icons/small/ability_hunter_swiftstrike.jpg" alt="">Mongoose Bite</span>
+      <span class="chip"><img src="https://wow.zamimg.com/images/wow/icons/small/ability_warrior_challange.jpg" alt="">Counterattack</span>
+      <span class="chip"><img src="https://wow.zamimg.com/images/wow/icons/small/ability_druid_lacerate.jpg" alt="">Lacerate</span>
+      <span class="chip"><img src="https://wow.zamimg.com/images/wow/icons/small/ability_rogue_feigndeath.jpg" alt="">Feign Death</span>
+      <span class="chip"><img src="https://wow.zamimg.com/images/wow/icons/small/ability_rogue_feint.jpg" alt="">Disengage</span>
+      <span class="chip"><img src="https://wow.zamimg.com/images/wow/icons/small/ability_whirlwind.jpg" alt="">Deterrence</span>
+      <span class="chip"><img src="https://wow.zamimg.com/images/wow/icons/small/spell_fire_flare.jpg" alt="">Flare</span>
+      <span class="chip"><img src="https://wow.zamimg.com/images/wow/icons/small/ability_eyeoftheowl.jpg" alt="">Eyes of the Beast</span>
+      <span class="chip"><img src="https://wow.zamimg.com/images/wow/icons/small/ability_hunter_eagleeye.jpg" alt="">Eagle Eye</span>
+      <span class="chip"><img src="https://wow.zamimg.com/images/wow/icons/small/spell_nature_ravenform.jpg" alt="">Aspect of the Hawk</span>
+      <span class="chip"><img src="https://wow.zamimg.com/images/wow/icons/small/ability_hunter_aspectofthemonkey.jpg" alt="">Aspect of the Monkey</span>
+      <span class="chip"><img src="https://wow.zamimg.com/images/wow/icons/small/ability_mount_jungletiger.jpg" alt="">Aspect of the Cheetah</span>
+      <span class="chip"><img src="https://wow.zamimg.com/images/wow/icons/small/ability_mount_whitetiger.jpg" alt="">Aspect of the Pack</span>
+      <span class="chip"><img src="https://wow.zamimg.com/images/wow/icons/small/ability_mount_pinktiger.jpg" alt="">Aspect of the Beast</span>
+      <span class="chip"><img src="https://wow.zamimg.com/images/wow/icons/small/ability_hunter_beasttaming.jpg" alt="">Tame Beast</span>
+      <span class="chip"><img src="https://wow.zamimg.com/images/wow/icons/small/ability_hunter_mendpet.jpg" alt="">Mend Pet</span>
+      <span class="chip"><img src="https://wow.zamimg.com/images/wow/icons/small/ability_hunter_beastsoothe.jpg" alt="">Revive Pet</span>
+      <span class="chip"><img src="https://wow.zamimg.com/images/wow/icons/small/ability_hunter_beasttraining.jpg" alt="">Feed Pet</span>
+      <span class="chip"><img src="https://wow.zamimg.com/images/wow/icons/small/ability_devour.jpg" alt="">Intimidation</span>
+      <span class="chip"><img src="https://wow.zamimg.com/images/wow/icons/small/ability_druid_ferociousbite.jpg" alt="">Bestial Wrath</span>
+      <span class="chip"><img src="https://wow.zamimg.com/images/wow/icons/small/spell_fire_flameshock.jpg" alt="">Immolation Trap</span>
+      <span class="chip"><img src="https://wow.zamimg.com/images/wow/icons/small/spell_frost_chainsofice.jpg" alt="">Freezing Trap</span>
+      <span class="chip"><img src="https://wow.zamimg.com/images/wow/icons/small/spell_frost_freezingbreath.jpg" alt="">Frost Trap</span>
+      <span class="chip"><img src="https://wow.zamimg.com/images/wow/icons/small/spell_fire_selfdestruct.jpg" alt="">Explosive Trap</span>
+    </div>
     <h3>What you do at each level</h3>
     <table>
       <tr><th>Lvl</th><th>What you do</th></tr>
       <tr><td class="k">1–4</td><td>Kite (shots on the move!), grind in Coldridge Valley; melee weave from the start; white weapon (lvl 3); gathering/skinning from the start.</td></tr>
-      <tr><td class="k">4–6</td><td>Serpent Sting + auto + Raptor; Aspect of the Monkey.</td></tr>
-      <tr><td class="k">6</td><td>Arcane Shot (rank 1); Hunter's Mark before the pull (100&nbsp;yd / 2 min).</td></tr>
-      <tr><td class="k">8–10</td><td>Concussive Shot — kiting; buy ammo in bulk.</td></tr>
-      <tr><td class="k">10</td><td><b>Pet ASAP</b> (the "Taming the Beast" quest from the trainer), Aspect of the Hawk, 1st talent point (Deadly Aspects).</td></tr>
-      <tr><td class="k">12–16</td><td>Mend Pet (12), Immolation Trap (16) + going into melee (macro Raptor + trap).</td></tr>
-      <tr><td class="k">18–20</td><td>Multi-Shot (18); at 20: Aimed Shot, Freezing Trap, Aspect of the Cheetah (travel!).</td></tr>
-      <tr><td class="k">25–28</td><td>25: Summon Hawk (BM); 26: Rapid Fire; 28: Frost Trap (−60% movement).</td></tr>
-      <tr><td class="k">30</td><td>Feign Death (escape) + Lacerate (new bleed).</td></tr>
-      <tr><td class="k">40+</td><td>Bestial Wrath (BM), Volley, Aspect of the Pack; then Intimidation/BW on every double pull.</td></tr>
+      <tr><td class="k">4–6</td><td><img class="ico" src="https://wow.zamimg.com/images/wow/icons/small/ability_hunter_quickshot.jpg" alt="">Serpent Sting + auto + Raptor; <img class="ico" src="https://wow.zamimg.com/images/wow/icons/small/ability_hunter_aspectofthemonkey.jpg" alt="">Aspect of the Monkey.</td></tr>
+      <tr><td class="k">6</td><td><img class="ico" src="https://wow.zamimg.com/images/wow/icons/small/ability_impalingbolt.jpg" alt="">Arcane Shot (rank 1); <img class="ico" src="https://wow.zamimg.com/images/wow/icons/small/ability_hunter_snipershot.jpg" alt="">Hunter's Mark before the pull (100&nbsp;yd / 2 min).</td></tr>
+      <tr><td class="k">8–10</td><td><img class="ico" src="https://wow.zamimg.com/images/wow/icons/small/spell_frost_stun.jpg" alt="">Concussive Shot — kiting; buy ammo in bulk.</td></tr>
+      <tr><td class="k">10</td><td><b>Pet ASAP</b> (the "Taming the Beast" quest from the trainer), <img class="ico" src="https://wow.zamimg.com/images/wow/icons/small/spell_nature_ravenform.jpg" alt="">Aspect of the Hawk, 1st talent point (Deadly Aspects).</td></tr>
+      <tr><td class="k">12–16</td><td><img class="ico" src="https://wow.zamimg.com/images/wow/icons/small/ability_hunter_mendpet.jpg" alt="">Mend Pet (12), <img class="ico" src="https://wow.zamimg.com/images/wow/icons/small/spell_fire_flameshock.jpg" alt="">Immolation Trap (16) + going into melee (macro Raptor + trap).</td></tr>
+      <tr><td class="k">18–20</td><td><img class="ico" src="https://wow.zamimg.com/images/wow/icons/small/ability_upgrademoonglaive.jpg" alt="">Multi-Shot (18); at 20: <img class="ico" src="https://wow.zamimg.com/images/wow/icons/small/inv_spear_07.jpg" alt="">Aimed Shot, <img class="ico" src="https://wow.zamimg.com/images/wow/icons/small/spell_frost_chainsofice.jpg" alt="">Freezing Trap, <img class="ico" src="https://wow.zamimg.com/images/wow/icons/small/ability_mount_jungletiger.jpg" alt="">Aspect of the Cheetah (travel!).</td></tr>
+      <tr><td class="k">25–28</td><td>25: Summon Hawk (BM); 26: <img class="ico" src="https://wow.zamimg.com/images/wow/icons/small/ability_hunter_runningshot.jpg" alt="">Rapid Fire; 28: <img class="ico" src="https://wow.zamimg.com/images/wow/icons/small/spell_frost_freezingbreath.jpg" alt="">Frost Trap (−60% movement).</td></tr>
+      <tr><td class="k">30</td><td><img class="ico" src="https://wow.zamimg.com/images/wow/icons/small/ability_rogue_feigndeath.jpg" alt="">Feign Death (escape) + <img class="ico" src="https://wow.zamimg.com/images/wow/icons/small/ability_druid_lacerate.jpg" alt="">Lacerate (new bleed).</td></tr>
+      <tr><td class="k">40+</td><td><img class="ico" src="https://wow.zamimg.com/images/wow/icons/small/ability_druid_ferociousbite.jpg" alt="">Bestial Wrath (BM), <img class="ico" src="https://wow.zamimg.com/images/wow/icons/small/ability_marksmanship.jpg" alt="">Volley, <img class="ico" src="https://wow.zamimg.com/images/wow/icons/small/ability_mount_whitetiger.jpg" alt="">Aspect of the Pack; then <img class="ico" src="https://wow.zamimg.com/images/wow/icons/small/ability_devour.jpg" alt="">Intimidation/BW on every double pull.</td></tr>
     </table>
     <h3>Thresholds (power spikes)</h3>
     <table>
