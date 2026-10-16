@@ -92,3 +92,11 @@ Entries appear here when the server adds something to the sheet.
 - The newest Blizzard patch/development notes are still October 8; the October 15 hotfix post has no hunter entry
 - Sheet date: 16.10.2026 (unchanged — the header and footer were already on today's date)
 - Source: wow_digest/dane/2026-10-16_delta.txt (The Forever Era — new build detected Oct 16; wowclassicforever — Latest updates; wow-forever.gg; wowforeverbuilds)
+
+## 2026-10-16 16:45 — added to the sheet
+- Blizzard published the official beta change log for build 1.60.1.70425 (Dev Notes, Kaivax, updated Oct 15). No hunter class changes, but one fix matters in the field: creatures now regenerate health properly when out of combat, so a mob you pulled and left low (and your own pet) no longer stays weakened — added as a note in "Forever Changes", right after the "Recent beta tuning" line
+- The rest of that change log is not hunter-relevant: fog brightness at low shadow settings, a Kirin Tor reputation fix for Horde, and Horde characters holding the Night Watchman's Torch
+- Everything else in this delta was already handled earlier today (16.10, 08:00 and 16:20 runs): the Oct 19 Stress Test, the Questie WRIGGLE map fix, and the build 1.60.1.70425 detection. Nothing new for hunter talents, spells, abilities or gear
+- Not hunter-relevant (kept in the NEWSY queue, not added): Paladin class deep dive, PvP Podcast Ep. 4, battleground Honor changes, no RP-PvP ruleset, Darkspear Islands battleground, Cozy Sleeping Bag questline
+- Sheet date: 16.10.2026 (unchanged — the header and footer were already on today's date)
+- Source: wow_digest/dane/2026-10-16_delta.txt (Blue tracker Forever — Kaivax Dev Notes, Oct 16; Blizzard news blog; stillsixty; The Forever Era)

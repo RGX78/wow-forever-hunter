@@ -72,3 +72,5 @@ Rule: **do not add again** anything from the "Already in the sheet" list. Log ne
 - 2026-10-16 — Macros tab added: beginner how-to + 9 macros from Dave The Gamer's hunter guide (pet all-in-one, feeding, Cheetah, panic trap, @cursor flare, mouseover scatter, Aimed Shot opener, oh-no button, melee combo) with Forever notes → new tab "Macros"
 - 2026-10-16 — Macros tab expanded: +9 pet-control & combat macros (pull macro, mouseover pet attack, pet recall, Growl toggle, modifier all-in-one, safe FD, Hawk/Cheetah flip, revive+stand, smart feeding; sources: Wowhead + r/classicwow + petrvecera) → Macros tab
 - 2026-10-16 — look: cheat sheet + reports get a WoW-art background (bg/hero.jpg); sheet switched to a dark glass theme with gold accents
+
+- 2026-10-16 — official Blizzard beta change log for build 1.60.1.70425 (Kaivax, Dev Notes updated 15.10): no hunter class changes, but "creatures now regenerate health properly when out of combat" — a field-relevant fix (mobs/pets no longer stay damaged after you disengage) added as a note in "Forever Changes" next to the "Recent beta tuning" line -> Forever Changes
