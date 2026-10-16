@@ -56,6 +56,7 @@
   ol.tal { margin: 0 0 4px; padding-left: 20px; }
   ol.tal li { margin: 1px 0; }
   .note { font-size: 12px; color: var(--muted-foreground, #6b7280); margin: 6px 0 0; }
+  pre { margin: 2px 0 0; padding: 7px 9px; border-radius: 8px; background: var(--card, #f6f7f9); border: 1px solid var(--border, #e5e7eb); font-size: 11px; line-height: 1.4; overflow-x: auto; }
   .foot { margin-top: 12px; padding-top: 8px; border-top: 1px solid var(--border, #e5e7eb); font-size: 11.5px; color: var(--muted-foreground, #6b7280); }
   .foot ol { margin: 4px 0 0; padding-left: 18px; }
   .foot li { margin: 1px 0; word-break: break-all; }
@@ -76,6 +77,7 @@
     <button class="active" data-tab="t-ess">⚡ Essentials</button>
     <button data-tab="t-new">🆕 Forever Changes</button>
     <button data-tab="t-rot">🔄 Rotation &amp; Thresholds</button>
+    <button data-tab="t-mac">⌨️ Macros</button>
     <button data-tab="t-tal">🌳 Talents</button>
     <button data-tab="t-pet">🐗 Pet</button>
     <button data-tab="t-gear">🎒 Weapon · Stats · Professions</button>
@@ -148,6 +150,59 @@
       <tr><td class="k">60</td><td>Top ranks + Tranquilizing Shot from a tome (Tome of Tranquilizing Shot).</td></tr>
     </table>
     <p class="note">1–10 without a pet: Serpent → Arcane → auto; if a mob reaches you — Raptor Strike on CD in melee.</p>
+  </section>
+
+  <section id="t-mac" class="tabsec">
+    <h3>How to create a macro (30&nbsp;s)</h3>
+    <ul class="ess">
+      <li><b>Esc → Macros → New</b> (or type <b>/macro</b>) → pick an icon + name → paste the code into the big box → <b>Save</b> → drag the icon onto your action bar.</li>
+      <li><b>/cast</b> = use an ability · <b>[brackets]</b> = conditions: <i>[@cursor]</i> (at the mouse), <i>[combat]</i>, <i>[@pet,dead]</i>, <i>[@mouseover,harm]</i> · <b>#showtooltip</b> = correct icon + tooltip.</li>
+      <li>A macro runs its lines top to bottom — one button can do several things. <b>/stopmacro [condition]</b> stops the rest if the condition is true.</li>
+      <li>Edit names to match what your character has (food, potions, ranks). Where a name has a rank like <i>Mongoose Bite(Rank 4)</i> you can drop the rank to always cast your best one.</li>
+    </ul>
+
+    <h3>Macros for every hunter (use these!)</h3>
+    <table>
+      <tr><th style="width:40%">What it does</th><th>Code (copy-paste)</th></tr>
+      <tr><td><b>Pet all-in-one</b><br><span class="note">One button: heal → revive → call your pet.</span></td><td><pre>#showtooltip
+/use [@pet,nodead,exists] Mend Pet
+/stopmacro [@pet,nodead,exists]
+/use [@pet,dead,exists] Revive Pet
+/castsequence reset=2 Call Pet, Revive Pet</pre></td></tr>
+      <tr><td><b>Pet feeding</b><br><span class="note">Feeds the pet when you press it. Edit the food name to what you carry!</span></td><td><pre>#showtooltip Feed Pet
+/cast [pet, nodead] Feed Pet
+/use [pet, nodead] Roasted Quail</pre></td></tr>
+      <tr><td><b>Cheetah toggle</b><br><span class="note">Run speed on/off without cancelling itself. Travel only — any hit dazes you 4&nbsp;s.</span></td><td><pre>#showtooltip
+/cast !Aspect of the Cheetah</pre></td></tr>
+      <tr><td><b>Panic trap</b><br><span class="note">Pet passive, Feign Death if in combat (lvl&nbsp;30+), then the trap. Swap the trap name — Explosive / Freezing / Frost.</span></td><td><pre>#showtooltip Explosive Trap
+/petpassive
+/cast [combat] Feign Death;
+/cast Explosive Trap</pre></td></tr>
+      <tr><td><b>Flare at mouse</b><br><span class="note">Drops the flare where your cursor is — no aiming. <i>[@cursor]</i> works for any ground spell, traps too!</span></td><td><pre>#showtooltip
+/cast [@cursor] Flare</pre></td></tr>
+      <tr><td><b>Mouseover Scatter Shot</b><br><span class="note">Scatters the enemy under your cursor without switching target; also dismounts you. (Needs the Scatter Shot talent.)</span></td><td><pre>#showtooltip
+/petpassive
+/petfollow
+/cast [@mouseover,harm][] Scatter Shot
+/dismount [mounted]</pre></td></tr>
+      <tr><td><b>Aimed Shot opener</b><br><span class="note">In Forever every hunter learns Aimed Shot at&nbsp;20! Keeps Auto Shot running; the last line is for a wolf pet — drop it for any other pet.</span></td><td><pre>#showtooltip Aimed Shot
+/cleartarget [dead][help]
+/targetenemy [noexists]
+/cast Aimed Shot
+/cast !Auto Shot
+/cast Furious Howl(Rank 4)</pre></td></tr>
+      <tr><td><b>Oh-no button</b><br><span class="note">Deterrence + Aspect of the Monkey + potion in one press. Edit the potion name.</span></td><td><pre>#showtooltip
+/cast Deterrence
+/cast Aspect of the Monkey
+/use Major Healing Potion</pre></td></tr>
+      <tr><td><b>Melee combo</b><br><span class="note">When a mob is in your face: starts the swing and fires everything. Counterattack needs SV talents; in Forever Mongoose Bite leaves the Lacerating Strikes bleed.</span></td><td><pre>#showtooltip Raptor Strike
+/cleartarget [dead][help]
+/cast Counterattack
+/cast Mongoose Bite(Rank 4)
+/cast Raptor Strike
+/startattack</pre></td></tr>
+    </table>
+    <p class="note">Source: Dave The Gamer — "Hunter Macro Ultimate Guide" (YouTube) · Forever notes by Orion. Macros are optional — <b>pet all-in-one + Cheetah + panic trap</b> cover 90% of leveling.</p>
   </section>
 
   <section id="t-tal" class="tabsec">
@@ -316,7 +371,7 @@
   </section>
 
   <p class="foot">Updated: 16.10.2026 — beta (cap 30, until 21.10; Server Slam / stress test ~19.10), release 4.11.2026 (1–60). Details (numbers, talents) may still change — ask Orion for the latest.</p>
-  Sources: [1] stillsixty · [2] The Forever Era · [3] wow-forever.gg · [4] wowclassicforever · [5] wowforeverbuilds · [6] wowf.io · [7] Wowhead
+  Sources: [1] stillsixty · [2] The Forever Era · [3] wow-forever.gg · [4] wowclassicforever · [5] wowforeverbuilds · [6] wowf.io · [7] Wowhead · [8] Dave The Gamer (YouTube)
   <ol>
     <li>https://www.stillsixty.com/leveling/hunter — stillsixty — Hunter 1–60</li>
     <li>https://theforeverera.com/en/guides/classes/hunter/ — The Forever Era — Hunter (talents, BiS, tips)</li>
@@ -325,6 +380,7 @@
     <li>https://wowforeverbuilds.com/guide/beast-mastery-hunter-pve-guide — wowforeverbuilds — BM PvE 60</li>
     <li>https://wowf.io/en/leveling/hunter/beast-mastery — wowf.io — BM leveling</li>
     <li>https://www.wowhead.com/forever — Wowhead — Forever hub (news, guides, hunter level-30 overviews, talent calculator)</li>
+    <li>https://www.youtube.com/watch?v=flUUqPJyA3E — Dave The Gamer — Hunter Macro Ultimate Guide (Classic; a hunter is a hunter — macros work in Forever too)</li>
   </ol></p>
 </div>
 

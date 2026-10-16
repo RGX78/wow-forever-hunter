@@ -69,3 +69,4 @@ Rule: **do not add again** anything from the "Already in the sheet" list. Log ne
 - Permanent Economy Holds vs gold buying only temporary (Kaivax, Oct 13) — already in the sheet from 14.10
 
 - 2026-10-16 — beta client build 1.60.1.70425 detected on Oct 16 (after 70374) — no hunter talent/spell changes; the "Recent beta tuning" note in the sheet now lists all these builds and says the hunter plays the same (as of 16.10) -> Forever Changes
+- 2026-10-16 — Macros tab added: beginner how-to + 9 macros from Dave The Gamer's hunter guide (pet all-in-one, feeding, Cheetah, panic trap, @cursor flare, mouseover scatter, Aimed Shot opener, oh-no button, melee combo) with Forever notes → new tab "Macros"
