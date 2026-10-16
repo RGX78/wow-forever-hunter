@@ -79,3 +79,4 @@ Rule: **do not add again** anything from the "Already in the sheet" list. Log ne
 - 2026-10-16 — Growl "why": Pet + Mistakes tabs now explain the dungeon rule (pet taunt steals the tank's mob → dead pet, ping-pong, healer cost; manual-Growl emergency tip)
 - 2026-10-16 — Growl rule clarified in the Pet tab: solo / open world = ON (pet is the tank), dungeon with a real tank = OFF
 - 2026-10-16 — turtle row: noted as the classic pick for soloing elites / solo dungeon attempts
+- 2026-10-16 — Forever Open: watch links added (twitch.tv/esfandtv + twitch.tv/xaryu, cast Xaryu & Asmongold, prize split)
