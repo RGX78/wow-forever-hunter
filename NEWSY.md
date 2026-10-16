@@ -81,3 +81,4 @@ Rule: **do not add again** anything from the "Already in the sheet" list. Log ne
 - 2026-10-16 — turtle row: noted as the classic pick for soloing elites / solo dungeon attempts
 - 2026-10-16 — Forever Open: watch links added (twitch.tv/esfandtv + twitch.tv/xaryu, cast Xaryu & Asmongold, prize split)
 - 2026-10-16 — sheet look: brighter step 1 (overlay .85→.62, glass panel .72→.55, brighter border) — easy to adjust further
+- 2026-10-16 — sheet font dimmed step 1 (foreground #ece9e1→#d8d3c5, muted #b7b1a2→#a39d8f)
