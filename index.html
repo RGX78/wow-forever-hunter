@@ -4,11 +4,33 @@
 <meta charset="utf-8">
 <title>WoW Forever — Dwarf Hunter 1–60 (pack)</title>
 <style>
-  :root { color-scheme: light dark; }
+  :root {
+    color-scheme: dark;
+    --foreground: #ece9e1;
+    --muted-foreground: #b7b1a2;
+    --border: rgba(255,255,255,.16);
+    --card: rgba(255,255,255,.05);
+    --accent: #e5b95c;
+  }
   * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background-color: #0d0f14;
+    background-image: linear-gradient(rgba(11,13,18,.85), rgba(11,13,18,.85)), url(bg/hero.jpg);
+    background-position: center, center 38%;
+    background-size: cover, cover;
+    background-attachment: fixed, fixed;
+    background-repeat: no-repeat, no-repeat;
+  }
   .sheet {
     width: 700px;
-    color: var(--foreground, #1f2937);
+    margin: 18px auto;
+    padding: 16px 18px;
+    border-radius: 14px;
+    background: rgba(13,15,21,.72);
+    border: 1px solid rgba(255,255,255,.10);
+    backdrop-filter: blur(4px);
+    color: var(--foreground, #ece9e1);
     font-size: 13.5px;
     line-height: 1.45;
   }
@@ -30,7 +52,7 @@
     background: transparent; color: var(--muted-foreground, #4b5563);
   }
   .tabs button:hover { color: var(--foreground, #111827); border-color: var(--accent, #2563eb); }
-  .tabs button.active { background: var(--accent, #2563eb); border-color: var(--accent, #2563eb); color: #fff; }
+  .tabs button.active { background: var(--accent, #e5b95c); border-color: var(--accent, #e5b95c); color: #1c1c1c; }
 
   .tabsec { display: block; }
   .sheet.js .tabsec { display: none; }
@@ -56,7 +78,7 @@
   ol.tal { margin: 0 0 4px; padding-left: 20px; }
   ol.tal li { margin: 1px 0; }
   .note { font-size: 12px; color: var(--muted-foreground, #6b7280); margin: 6px 0 0; }
-  pre { margin: 2px 0 0; padding: 7px 9px; border-radius: 8px; background: var(--card, #f6f7f9); border: 1px solid var(--border, #e5e7eb); font-size: 11px; line-height: 1.4; overflow-x: auto; }
+  pre { margin: 2px 0 0; padding: 7px 9px; border-radius: 8px; background: rgba(8,10,14,.5); border: 1px solid var(--border, rgba(255,255,255,.14)); font-size: 11px; line-height: 1.4; overflow-x: auto; }
   .foot { margin-top: 12px; padding-top: 8px; border-top: 1px solid var(--border, #e5e7eb); font-size: 11.5px; color: var(--muted-foreground, #6b7280); }
   .foot ol { margin: 4px 0 0; padding-left: 18px; }
   .foot li { margin: 1px 0; word-break: break-all; }
