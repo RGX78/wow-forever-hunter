@@ -28,4 +28,4 @@ PROCEDURE (in order, using terminal/file tools):
    g. Reply: ADDED: <short list>
 6. If there is a lot of news: add the 1-3 most important items, move the rest to the "## Queue (to add in future runs)" section in NEWSY.md and mention it in the reply.
 
-RULES: Never invent news — only what is in the sources/delta. Keep it simple (Robert is a beginner). Do not change section ids, CSS or the file structure. Robert's hunter plays GUN-ONLY (no bows/crossbows) — prefer gun/rifle options in any weapon advice.
+RULES: Never invent news — only what is in the sources/delta. Keep it simple (Robert is a beginner). Do not change section ids, CSS or the file structure. Robert's hunter plays GUN-ONLY (no bows/crossbows) — prefer gun/rifle options in any weapon advice. When a new fact supersedes an older line in the sheet, UPDATE or DELETE the old line — never leave two contradictory notes side by side (e.g. an old "not confirmed yet" next to a new "confirmed"); the sheet is a reference, not a changelog.
