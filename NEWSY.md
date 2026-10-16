@@ -57,3 +57,13 @@ Rule: **do not add again** anything from the "Already in the sheet" list. Log ne
 - 2026-10-15 — cross-region play is not possible for now (Blizzard to Fiamma at PAX Australia): realmless works in the beta, but playing across regions has technical problems and needs time; the launch character cap is still unannounced → Forever Changes
 - 2026-10-15 — The Forever Open (community 1v1 duel tournament, $100,000, level 30 Horde, PvP ruleset, qualifiers Oct 17 / finals Oct 18, run by Tips Out, Esfand and Xaryu — not Blizzard) moved out of the queue and into the sheet → Forever Changes
 - 2026-10-15 — nothing new for the hunter: the newest beta client is still 1.60.1.70374, latest Blizzard notes still October 8, no hunter hotfix in the October 14 hotfix post
+
+- 2026-10-16 — stress test Oct 19 now CONFIRMED by Blizzard (blue post Kaivax, Oct 15): the Forever servers open for a Stress Test on October 19 and anyone can log in — no subscription, no Game Time, no invitation and no beta access needed (few hours only, exact hours unannounced) -> Forever Changes
+- 2026-10-16 — addon Questie: new commit "Put WRIGGLE. hide on map" (Oct 15) hides that quest marker from the map; the "Show Spell IDs" tooltip option and the deDE tracker fixes stayed -> Zones & Dungeons (Addon line, now "as of 16.10")
+- 2026-10-16 — nothing new for hunter talents/spells/gear: the newest beta client is still 1.60.1.70374 (Oct 13, 1 spell + 3 items, no class changes), latest Blizzard patch notes/development notes still October 8, October 14 hotfix post has no hunter change
+
+## Queue (to add in future runs)
+- Blizzard to lower Alterac Valley Honor and raise all other battlegrounds' Honor (Wowhead, Oct 15) — PvP only, not hunter
+- Beta passed 1 million characters created (Massively Overpowered, Oct 15)
+- Blizzard confirmed no RP-PVP ruleset planned for Forever (Wowhead, Oct 15)
+- Permanent Economy Holds vs gold buying only temporary (Kaivax, Oct 13) — already in the sheet from 14.10

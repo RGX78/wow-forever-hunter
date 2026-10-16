@@ -76,3 +76,11 @@ Entries appear here when the server adds something to the sheet.
 - No new hunter talent, spell, ability or gear changes — nothing added to the Talents, Pet or Gear tabs
 - Sheet date: 15.10.2026 (unchanged; the header and footer were already on today's date)
 - Source: wow_digest/dane/2026-10-15_delta.txt (Questie commits — GitHub; Blizzard news blog; stillsixty — News)
+
+## 2026-10-16 08:00 — added to the sheet
+- The October 19 stress test is now official (blue post by Kaivax, Oct 15): on October 19 the Forever servers open for a Stress Test and anyone can log in — no subscription, no Game Time, no invitation and no beta access needed. It runs only a few hours and the exact hours are not announced yet — added to "Forever Changes" with a note that it is a good moment to test your UI and pet taming for free
+- Questie picked up one more map change (commit Oct 15): the WRIGGLE quest marker is hidden from the map. The "Show Spell IDs" tooltip option stays. The Addon line in "Zones & Dungeons" now says "as of 16.10"
+- Nothing new for the hunter: the newest beta client is still 1.60.1.70374 (Oct 13 — 1 new spell, 3 new items, no class changes), the latest Blizzard patch/development notes are still October 8, and the October 14 hotfix post has no hunter entry. Nothing added to the Talents, Pet or Gear tabs
+- Rest of the delta was noise or non-hunter: page cut-offs, "X hours ago" timestamps, view counters, midnight 12.1.5 news (a different game mode), Paladin deep dive, PvP podcast Ep. 4, battleground Honor changes and the 1-million-characters milestone — all listed in the NEWSY queue, not in the sheet
+- Sheet date moved to 16.10.2026 (both places: header line + footer)
+- Source: wow_digest/dane/2026-10-16_delta.txt (Blizzard news blog + stillsixty blue tracker — Kaivax, Oct 15; Questie commits — GitHub; wow-foreverbuilds around-the-web; wow-forever.gg)
