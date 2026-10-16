@@ -75,3 +75,4 @@ Rule: **do not add again** anything from the "Already in the sheet" list. Log ne
 
 - 2026-10-16 — official Blizzard beta change log for build 1.60.1.70425 (Kaivax, Dev Notes updated 15.10): no hunter class changes, but "creatures now regenerate health properly when out of combat" — a field-relevant fix (mobs/pets no longer stay damaged after you disengage) added as a note in "Forever Changes" next to the "Recent beta tuning" line -> Forever Changes
 - 2026-10-16 — Pet tab: "Pet buffs" block — happiness numbers (125/100/75%), no player stat buffs on pets (gear scaling instead), family buffs (Wolf/Tallstrider/Fox), Bestial Wrath/Intimidation, loyalty & training points (sources: topbuilds.gg, expcarry.com, wowforeverpets.com)
+- 2026-10-16 — Pet tab: turtle row expanded (Forever Shell Shield values −50%/+60%, +13% armor, diet, Dash at 30, Alliance tame spots Ghamoo-ra/Highland Tortoise; sources: wclbox, forg.gg)
