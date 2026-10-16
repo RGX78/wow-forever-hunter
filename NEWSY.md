@@ -78,3 +78,4 @@ Rule: **do not add again** anything from the "Already in the sheet" list. Log ne
 - 2026-10-16 — Pet tab: turtle row expanded (Forever Shell Shield values −50%/+60%, +13% armor, diet, Dash at 30, Alliance tame spots Ghamoo-ra/Highland Tortoise; sources: wclbox, forg.gg)
 - 2026-10-16 — Growl "why": Pet + Mistakes tabs now explain the dungeon rule (pet taunt steals the tank's mob → dead pet, ping-pong, healer cost; manual-Growl emergency tip)
 - 2026-10-16 — Growl rule clarified in the Pet tab: solo / open world = ON (pet is the tank), dungeon with a real tank = OFF
+- 2026-10-16 — turtle row: noted as the classic pick for soloing elites / solo dungeon attempts
