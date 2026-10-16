@@ -202,7 +202,47 @@
 /cast Raptor Strike
 /startattack</pre></td></tr>
     </table>
-    <p class="note">Source: Dave The Gamer — "Hunter Macro Ultimate Guide" (YouTube) · Forever notes by Orion. Macros are optional — <b>pet all-in-one + Cheetah + panic trap</b> cover 90% of leveling.</p>
+    <h3>More macros — pet control &amp; combat (community classics)</h3>
+    <table>
+      <tr><th style="width:40%">What it does</th><th>Code (copy-paste)</th></tr>
+      <tr><td><b>Pull &amp; send pet</b><br><span class="note">One button opener: targets the next enemy, marks it, sends the pet and keeps Auto Shot going.</span></td><td><pre>#showtooltip Hunter's Mark
+/cleartarget [dead][help]
+/targetenemy [noexists]
+/cast Hunter's Mark
+/petattack
+/cast !Auto Shot</pre></td></tr>
+      <tr><td><b>Send pet at mouseover</b><br><span class="note">Your pet attacks the mob under the cursor — you keep your own target. Dash = cats (your Rake); swap for Charge (boar) / Dive (bird) or delete that line.</span></td><td><pre>#showtooltip Attack
+/dismount [mounted]
+/petattack [@mouseover,harm,nodead][@target,harm,nodead]
+/cast Dash</pre></td></tr>
+      <tr><td><b>Call the pet back</b><br><span class="note">Pet returns and goes passive. Bind to mouse wheel down (wheel up = attack) — the community's favourite setup.</span></td><td><pre>#showtooltip
+/petpassive
+/petfollow</pre></td></tr>
+      <tr><td><b>Growl on / off</b><br><span class="note">Toggle pet taunt: OFF in dungeons so the tank keeps aggro, back ON solo.</span></td><td><pre>#showtooltip Growl
+/petautocasttoggle Growl</pre></td></tr>
+      <tr><td><b>All-in-one pet (modifier)</b><br><span class="note">Press = pet comes back + passive · Shift = revive or mend · Alt = dismiss. The quiet hero of pet macros.</span></td><td><pre>#showtooltip Call Pet
+/cast [nomod, nopet] Call Pet
+/cast [mod:shift, @pet, dead][mod:shift, nopet] Revive Pet; [mod:shift, nochanneling] Mend Pet
+/cast [mod:alt, nochanneling] Dismiss Pet
+/petpassive [nomod]
+/petfollow [nomod]</pre></td></tr>
+      <tr><td><b>Safe Feign Death</b><br><span class="note">Pet stops, you drop threat. Press again right after, to stand up. (From lvl&nbsp;30.)</span></td><td><pre>#showtooltip Feign Death
+/petpassive
+/petfollow
+/stopattack
+/cast Feign Death</pre></td></tr>
+      <tr><td><b>Hawk ⇄ Cheetah flip</b><br><span class="note">Press to swap between +damage and +speed aspect while questing. The <i>!</i> stops them toggling off.</span></td><td><pre>#showtooltip
+/castsequence !Aspect of the Hawk, !Aspect of the Cheetah</pre></td></tr>
+      <tr><td><b>Revive + stand</b><br><span class="note">You'll often be drinking/sitting when the pet dies — this stands you up first, no error messages.</span></td><td><pre>#showtooltip Revive Pet
+/stand
+/cast Revive Pet</pre></td></tr>
+      <tr><td><b>Smart feeding</b><br><span class="note">Feeds the right food per pet type — cats eat fish! Edit to what you carry.</span></td><td><pre>#showtooltip Feed Pet
+/cast Feed Pet
+/use [pet:Cat] Spotted Yellowtail
+/use [pet:Wolf] Roasted Quail</pre></td></tr>
+    </table>
+    <p class="note"><b>Pro tips:</b> add <i>/cast !Auto Shot</i> at the end of any shot macro — it keeps your auto-shot flowing. <i>[dead][help]</i> guards stop you targeting corpses or allies. These are Classic-tested community macros — the macro language is the same in Forever.</p>
+    <p class="note">Source: Dave The Gamer — "Hunter Macro Ultimate Guide" (YouTube) · Wowhead Classic macro guide (Sh3rro) · r/classicwow macro threads · petrvecera/wow-classic-hunter-scripts (GitHub) · Forever notes by Orion. Macros are optional — <b>pet all-in-one + Cheetah + panic trap</b> cover 90% of leveling.</p>
   </section>
 
   <section id="t-tal" class="tabsec">
