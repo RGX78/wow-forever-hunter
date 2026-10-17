@@ -90,3 +90,4 @@ Rule: **do not add again** anything from the "Already in the sheet" list. Log ne
 ## 2026-10-17 entries
 - 2026-10-17 — new beta client build 1.60.1.70450 detected Oct 16 (after 70425) — no hunter talent/spell changes reported; the "Recent beta tuning" note in the sheet now lists it and is dated (as of 17.10) (The Forever Era / wow-ui-source) -> Forever Changes
 - 2026-10-17 — addon Questie, new commits Oct 16: adds the Zephras Isle class trainers and the rest of the new (so far known) trainers, plus quest-log sync fixes (slow logins, quest items used up) — folded into the existing Questie line in Zones and Dungeons, marked (as of 17.10) (Questie commits) -> Zones and Dungeons (Addon line)
+- 2026-10-16 — pet family icons added (Pet tab): 7 families in the table + Wolf/Tallstrider in the family-buffs note (emoji replaced with in-game icons)
