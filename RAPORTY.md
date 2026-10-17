@@ -100,3 +100,10 @@ Entries appear here when the server adds something to the sheet.
 - Not hunter-relevant (kept in the NEWSY queue, not added): Paladin class deep dive, PvP Podcast Ep. 4, battleground Honor changes, no RP-PvP ruleset, Darkspear Islands battleground, Cozy Sleeping Bag questline
 - Sheet date: 16.10.2026 (unchanged — the header and footer were already on today's date)
 - Source: wow_digest/dane/2026-10-16_delta.txt (Blue tracker Forever — Kaivax Dev Notes, Oct 16; Blizzard news blog; stillsixty; The Forever Era)
+
+## 2026-10-17 00:07 — added to the sheet
+- New beta client build 1.60.1.70450 detected Oct 16 (after 70425) — no hunter talent or spell changes reported. Updated the "Recent beta tuning" note in Forever Changes to list it and re-dated the note to (as of 17.10). Your hunter still plays exactly the same
+- Addon Questie, new commits Oct 16: adds the Zephras Isle class trainers and the rest of the new (so far known) trainers, plus quest-log sync fixes (after slow logins, and when quest items are used up). Folded into the existing Questie line in Zones & Dungeons, now marked (as of 17.10)
+- Sheet dates set to 17.10.2026 (header sub line + footer)
+- Not hunter-relevant (left in the NEWSY queue, not added): Blizzard hotfixes Oct 15 headline (no hunter content in the delta), wow-ui-source 12.1.5 build 70448 (Midnight, not Forever)
+- Source: wow_digest/dane/2026-10-17_delta.txt (The Forever Era — build detection; wow-ui-source forever branch; Questie commits; Blizzard news blog; stillsixty)

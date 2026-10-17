@@ -86,3 +86,7 @@ Rule: **do not add again** anything from the "Already in the sheet" list. Log ne
 - 2026-10-16 — Robcat's intermediate PvE guide (video) → Rotation tab: 10 tricks (Rapid Fire on CD, FD distance rule, freezing-trap interrupt + scorpid trick, ranged hit table, raptor-queue, spirit talents, distracting shot, aspect notes, hawk math); source [9] added
 - 2026-10-16 — skill icons added to the sheet: 38-icon quick-reference legend (Rotation tab) + inline icons in the leveling table; icons verified against Wowhead tooltip API (CDN: wow.zamimg.com)
 - 2026-10-16 — talent icons added (Talents tab): 20 talents iconified; source: classicwowforever.com talents DB (Forever beta) + cross-checked vs Wowhead tooltip API
+
+## 2026-10-17 entries
+- 2026-10-17 — new beta client build 1.60.1.70450 detected Oct 16 (after 70425) — no hunter talent/spell changes reported; the "Recent beta tuning" note in the sheet now lists it and is dated (as of 17.10) (The Forever Era / wow-ui-source) -> Forever Changes
+- 2026-10-17 — addon Questie, new commits Oct 16: adds the Zephras Isle class trainers and the rest of the new (so far known) trainers, plus quest-log sync fixes (slow logins, quest items used up) — folded into the existing Questie line in Zones and Dungeons, marked (as of 17.10) (Questie commits) -> Zones and Dungeons (Addon line)
