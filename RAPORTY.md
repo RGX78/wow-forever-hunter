@@ -115,3 +115,11 @@ Entries appear here when the server adds something to the sheet.
 - Not hunter-relevant (left in the NEWSY queue, not added): talent calculator rebuild (Mage/Shaman), Elemental Mastery and Lava Burst for Shaman, Arcane Wrath / Frost Blast, battleground Honor changes, four-to-ten new dungeons article, Horde access to Dalaran
 - Sheet date: 17.10.2026 (header sub line + footer)
 - Source: wow_digest/dane/2026-10-17_delta.txt (wowclassicforever — Latest updates and patch notes; wow-forever.gg — build 1.60.1.70450 report; Blizzard news blog)
+
+## 2026-10-17 16:07 — no sheet change (nothing new for the hunter)
+- This is the third scan today. Compared today's snapshot with the earlier one: only two sources moved — the Blizzard news blog and stillsixty (blue posts) — and the delta itself says every hunter guide source is unchanged.
+- Real changes since the earlier run: Blizzard blue posts "Datamined in the Latest Beta Build" (art assets only), "Druid cat form quest" (hotfix so druids can loot the Cat Form relics), "Beta Realm Maintenance – October 15" (realms back up), plus the WoW Weekly Highlights post and Podcast Ep. 4 (already in the sheet).
+- Already in the sheet from earlier today, so not added again: stress test moved to October 21, the October 15 dwarf racials, beta build 1.60.1.70450, Questie class-trainer commits.
+- Newest beta build is still 1.60.1.70450 — no hunter talent, spell or gear change.
+- Sheet untouched, so the date stays 17.10.2026 (header sub line + footer). Nothing added to the queue — everything new was non-hunter.
+- Source: wow_digest/dane/2026-10-17_delta.txt (Blizzard news blog; stillsixty — Blue posts)
