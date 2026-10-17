@@ -107,3 +107,11 @@ Entries appear here when the server adds something to the sheet.
 - Sheet dates set to 17.10.2026 (header sub line + footer)
 - Not hunter-relevant (left in the NEWSY queue, not added): Blizzard hotfixes Oct 15 headline (no hunter content in the delta), wow-ui-source 12.1.5 build 70448 (Midnight, not Forever)
 - Source: wow_digest/dane/2026-10-17_delta.txt (The Forever Era — build detection; wow-ui-source forever branch; Questie commits; Blizzard news blog; stillsixty)
+
+## 2026-10-17 08:07 — added to the sheet
+- Stress test moved: it is now October 21 (not Oct 19) — 19:00 CEST in Europe / 2:00 p.m. PDT in the Americas, on the launch servers, open to any WoW account for a few hours, and every character is deleted afterwards. Replaced the old Oct 19 line in "Forever Changes" (dated as of 17.10) and fixed the footer, which also said "~19.10"
+- Races: the October 15 beta racials are now final on the race pages — Ruthless, Earth Fury and Savage replace the weapon racials; the dwarf keeps bonus vs beasts + Stoneform. Expanded the "Races" row in "Forever Changes" and dated it (as of 17.10)
+- Nothing new for hunter talents, spells or gear today: the newest beta build is still 1.60.1.70450 with no player changes, and the Oct 15 notes bring no hunter class changes. The "Ranged weapon stills you" note (Auto Shot / wands need you to stand still) is NOT added yet — it is already covered by the existing Auto Shot line, but if it turns out to be a real change rather than a bug it goes into the queue next run
+- Not hunter-relevant (left in the NEWSY queue, not added): talent calculator rebuild (Mage/Shaman), Elemental Mastery and Lava Burst for Shaman, Arcane Wrath / Frost Blast, battleground Honor changes, four-to-ten new dungeons article, Horde access to Dalaran
+- Sheet date: 17.10.2026 (header sub line + footer)
+- Source: wow_digest/dane/2026-10-17_delta.txt (wowclassicforever — Latest updates and patch notes; wow-forever.gg — build 1.60.1.70450 report; Blizzard news blog)
