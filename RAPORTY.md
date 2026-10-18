@@ -128,3 +128,7 @@ Entries appear here when the server adds something to the sheet.
 - New note "Layering on the servers (as of 18.10)" in Forever Changes: your layer may not have the rare pet / quest mob you are looking for — get a group invite from a player on that layer, then tame. Layering is temporary (Wowhead, Oct 17).
 - No new hunter class/gear news today: beta build still 1.60.1.70450, latest Blizzard notes Oct 15, blue tracker unchanged since Oct 16.
 - Sheet header and footer date set to 18.10.2026; section ids and CSS untouched; index.html synced.
+
+## 2026-10-18 08:07 — nothing added to the sheet
+- Checked the newest delta (2026-10-18). Compared with the earlier run today, only the Blizzard news page had changes; behind them are the Oct 21 stress test, "datamined art assets not intended for this version", the Druid cat form hotfix and the Oct 15 beta maintenance — none is hunter news.
+- Wowhead is only linking "Some Powerful Hunter Pet Abilities Nerfed" (Oct 16) with no numbers in the sources, so the pet tab was left alone. Nothing invented, nothing added. Sheet and dates stay at 18.10.2026.
