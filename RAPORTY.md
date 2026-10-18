@@ -132,3 +132,10 @@ Entries appear here when the server adds something to the sheet.
 ## 2026-10-18 08:07 — nothing added to the sheet
 - Checked the newest delta (2026-10-18). Compared with the earlier run today, only the Blizzard news page had changes; behind them are the Oct 21 stress test, "datamined art assets not intended for this version", the Druid cat form hotfix and the Oct 15 beta maintenance — none is hunter news.
 - Wowhead is only linking "Some Powerful Hunter Pet Abilities Nerfed" (Oct 16) with no numbers in the sources, so the pet tab was left alone. Nothing invented, nothing added. Sheet and dates stay at 18.10.2026.
+
+## 2026-10-18 16:07 — added to the sheet
+- Lone Wolf (Forever Changes table): added that keeping a pet costs you nothing — the talent only gives +20% while you have NO pet, but there is no penalty for playing with a pet. Source: The Forever Era hunter guide (updated Oct 2, build 1.60.1.70450), which lists the hunter changes as Aggressive pet mode back, Lone Wolf no penalty, Furious Howl −40%
+- Questie line in Zones & Dungeons: new commit Oct 18 reworks the waypoint arrows (the on-screen arrow that points to your quest spot) — they look and work much better. Line re-dated (as of 18.10)
+- No other hunter news: beta build still 1.60.1.70450, stress test still Oct 21, newest Blizzard posts are Midnight/Mists of Pandaria/Podcast items, no hunter patch notes
+- Dates in the sheet left at 18.10.2026 (header sub line + footer); section ids and CSS untouched; index.html synced
+- Source: wow_digest/dane/2026-10-18_delta.txt (The Forever Era — Hunter guide; Questie commits; Blizzard news blog)
