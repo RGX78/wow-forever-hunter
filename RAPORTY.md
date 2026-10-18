@@ -123,3 +123,8 @@ Entries appear here when the server adds something to the sheet.
 - Newest beta build is still 1.60.1.70450 — no hunter talent, spell or gear change.
 - Sheet untouched, so the date stays 17.10.2026 (header sub line + footer). Nothing added to the queue — everything new was non-hunter.
 - Source: wow_digest/dane/2026-10-17_delta.txt (Blizzard news blog; stillsixty — Blue posts)
+
+## 2026-10-18 00:10 — added to the sheet
+- New note "Layering on the servers (as of 18.10)" in Forever Changes: your layer may not have the rare pet / quest mob you are looking for — get a group invite from a player on that layer, then tame. Layering is temporary (Wowhead, Oct 17).
+- No new hunter class/gear news today: beta build still 1.60.1.70450, latest Blizzard notes Oct 15, blue tracker unchanged since Oct 16.
+- Sheet header and footer date set to 18.10.2026; section ids and CSS untouched; index.html synced.
