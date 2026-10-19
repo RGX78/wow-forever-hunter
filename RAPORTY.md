@@ -145,3 +145,11 @@ Entries appear here when the server adds something to the sheet.
 - Questie commits from Oct 18 are quest-log sync fixes only; the sheet already covers the addon, so no change
 - No hunter talent/spell/gear news today: beta build still 1.60.1.70450, newest Blizzard notes still Oct 15. The "racial and class changes" headline (Oct 17) had no hunter numbers in the sources, so it was not added
 - Dates in the sheet header and footer set to 19.10.2026
+
+## 2026-10-19 08:07 — added to the sheet
+- Auto Shot (Essentials): the old line said the shooting pause is a bug Blizzard is fixing — that is gone. The Oct 15 beta notes say Auto Shot and wands need you to stand still before they fire. New line: Auto Shot needs a short standstill, so shoot then move (as of 19.10)
+- Raids (Zones & Dungeons): both Forever raids open December 9 — Barrow Deeps (10 players) and Hyjal Summit (20 players). The old line is worded the same, just plainer: "open Dec 9"
+- Skipped as not hunter news: Paladin class deep dive (last of the series), battleground solo-queue protection not planned (premade rule is already in the sheet from the earlier run today), Questie commits from Oct 19 (keyboard/UI fixes only, addon section already up to date)
+- Not added: Massively Overpowered headline about "sweeping racials and class changes" — it is only a link, no hunter numbers in the sources
+- Dates in the sheet header and footer set to 19.10.2026; section ids and CSS untouched; index.html synced
+- Source: wow_digest/dane/2026-10-19_delta.txt (wowclassicforever patch notes / Latest updates; stillsixty Raids; Questie commits; Blizzard news blog)
