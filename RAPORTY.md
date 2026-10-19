@@ -153,3 +153,12 @@ Entries appear here when the server adds something to the sheet.
 - Not added: Massively Overpowered headline about "sweeping racials and class changes" — it is only a link, no hunter numbers in the sources
 - Dates in the sheet header and footer set to 19.10.2026; section ids and CSS untouched; index.html synced
 - Source: wow_digest/dane/2026-10-19_delta.txt (wowclassicforever patch notes / Latest updates; stillsixty Raids; Questie commits; Blizzard news blog)
+
+## 2026-10-19 16:10 — added to the sheet
+- World PvP (Forever Changes): on PvP realms low-level players get no protection, and Blizzard says none is planned (WoW: Forever Podcast episode 4). New table row "World PvP" with a tip to level on a normal PvE realm if you don't want that
+- Travel planner (Zones): the site map now has one-click routes between starting zones (Teldrassil → Elwynn Forest, Tirisfal Glades → Durotar) — useful if you want to start next to a friend of another race
+- Questie (Zones, Addon line): Oct 19 commits add an Alchemy trainer for Forever and Hallow's End event hours for Era
+- Skipped as not hunter news: Paladin class deep dive (last of the series, talent data only), the Oct 19 podcast article (only repeats the premade and world PvP rules already in the sheet), Questie UI/keyboard fixes
+- Nothing new for hunter talents, spells or gear: newest beta build is still 1.60.1.70450, newest Blizzard notes still Oct 15, stress test still Oct 21
+- Dates in the sheet header and footer already read 19.10.2026 — unchanged; section ids and CSS untouched; index.html synced
+- Source: wow_digest/dane/2026-10-19_delta.txt (wowclassicforever Latest updates Oct 19; Questie commits)
