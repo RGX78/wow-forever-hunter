@@ -139,3 +139,9 @@ Entries appear here when the server adds something to the sheet.
 - No other hunter news: beta build still 1.60.1.70450, stress test still Oct 21, newest Blizzard posts are Midnight/Mists of Pandaria/Podcast items, no hunter patch notes
 - Dates in the sheet left at 18.10.2026 (header sub line + footer); section ids and CSS untouched; index.html synced
 - Source: wow_digest/dane/2026-10-18_delta.txt (The Forever Era — Hunter guide; Questie commits; Blizzard news blog)
+
+## 2026-10-19 00:08 — added to the sheet
+- Battlegrounds: a premade group now only meets other premades (Wowhead, Oct 18) — new row "Premade groups" in the Forever Changes table, tab t-new
+- Questie commits from Oct 18 are quest-log sync fixes only; the sheet already covers the addon, so no change
+- No hunter talent/spell/gear news today: beta build still 1.60.1.70450, newest Blizzard notes still Oct 15. The "racial and class changes" headline (Oct 17) had no hunter numbers in the sources, so it was not added
+- Dates in the sheet header and footer set to 19.10.2026
