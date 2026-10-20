@@ -162,3 +162,13 @@ Entries appear here when the server adds something to the sheet.
 - Nothing new for hunter talents, spells or gear: newest beta build is still 1.60.1.70450, newest Blizzard notes still Oct 15, stress test still Oct 21
 - Dates in the sheet header and footer already read 19.10.2026 — unchanged; section ids and CSS untouched; index.html synced
 - Source: wow_digest/dane/2026-10-19_delta.txt (wowclassicforever Latest updates Oct 19; Questie commits)
+
+## 2026-10-20 00:07 — added to the sheet
+
+- Essentials: new note — dying is cheaper than Blizzard first said. A death costs 25% durability now, not 50%, so the repair bill after a death is half. Confirmed in the game files by the Oct 10 datamine (wowforeverbuilds). Pets are not affected — a pet death still costs happiness.
+- Zones & Dungeons: Questie line updated with the Oct 19–20 commits — Camp Narache location strings, smarter "next quest" pick in the journal, and the leftover "Of Mice and Milk" quest hidden (dated "as of 20.10").
+- Checked but not added: Blizzard news page (Midnight 12.1.5, Hallow's End, Mage/Shaman deep dives, Rexxar bundle for modern WoW — not Forever hunter news), stillsixty navigation only, and the Dalaran-for-Horde / ten-dungeons items are already covered in the sheet.
+- No hunter talent, spell or gear changes in this delta — newest beta build is still 1.60.1.70450.
+- Dates in the sheet header and footer set to 20.10.2026; section ids, CSS and structure untouched; index.html refreshed.
+
+- Source: wow_digest/dane/2026-10-20_delta.txt (wowforeverbuilds news Oct 10 datamine; Questie commits Oct 19)

@@ -115,3 +115,6 @@ Rule: **do not add again** anything from the "Already in the sheet" list. Log ne
 - 2026-10-19 — World PvP: on PvP realms there is no protection for low-level players and none is planned (WoW: Forever Podcast ep. 4) — new table row "World PvP" in Forever Changes, dated (as of 19.10) → Forever Changes (t-new)
 - 2026-10-19 — travel planner: one-click routes between starting zones (e.g. Teldrassil → Elwynn Forest, Tirisfal Glades → Durotar) — new note in Zones, dated (as of 19.10) (wowclassicforever Latest updates, Oct 19) → Zones & Dungeons (t-map)
 - 2026-10-19 — Questie commits Oct 19: Alchemy trainer for Forever + Hallow's End event hours for Era added to the existing Questie line (as of 19.10) → Zones & Dungeons (Addon line)
+
+- 2026-10-20 — death cost: a death now costs 25% gear durability instead of 50% (repair after dying = half the old price); the Oct 10 change log missed it, the files confirm it (wowforeverbuilds / Daybreak Forever datamine, Oct 10) → Essentials (t-ess)
+- 2026-10-20 — Questie commits Oct 19–20: Camp Narache location strings, quest journal "next quest" logic tweak, leftover "Of Mice and Milk" quest hidden — added to the existing Questie line (as of 20.10) → Zones & Dungeons (Addon line)
