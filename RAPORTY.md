@@ -172,3 +172,12 @@ Entries appear here when the server adds something to the sheet.
 - Dates in the sheet header and footer set to 20.10.2026; section ids, CSS and structure untouched; index.html refreshed.
 
 - Source: wow_digest/dane/2026-10-20_delta.txt (wowforeverbuilds news Oct 10 datamine; Questie commits Oct 19)
+
+## 2026-10-20 08:07 — added to the sheet
+- Zones & Dungeons: new zone **Riverglades** (from Blizzard's leveling video) — Alliance hub Brotherhood of the Horse at Farholde Keep, Horde-side Bolder'ok ogres, two Twilight's Hammer strongholds and an ogre fighting ring. Also: Mount Hyjal opens after five years sealed and gives Guardians of Hyjal reputation (as of 20.10).
+- Zones & Dungeons: the raid bullet now says Hyjal Summit's road is Mount Hyjal; both raids still open Dec 9 at level 60.
+- Zones & Dungeons (Addon line): Questie commits Oct 20 — fix for a quest-log error when handing in a quest right after finishing it, plus missing TOC translations.
+- Checked but not added: Blizzard front page (Midnight 12.1.5, Hallow's End, Owl pet bundle, Rexxar bundle for modern WoW — none of it is Forever hunter news), the Oct 19 Paladin deep dive and the Oct 19 podcast article (not hunter / already covered), stillsixty navigation only.
+- No hunter talent, spell or gear changes in this delta — newest beta build is still 1.60.1.70450.
+- Dates in the sheet header and footer already read 20.10.2026 — unchanged; section ids, CSS and structure untouched; index.html refreshed.
+- Source: wow_digest/dane/2026-10-20_delta.txt (wowclassicforever Latest updates Oct 20; Questie commits)
