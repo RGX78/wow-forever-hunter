@@ -181,3 +181,12 @@ Entries appear here when the server adds something to the sheet.
 - No hunter talent, spell or gear changes in this delta — newest beta build is still 1.60.1.70450.
 - Dates in the sheet header and footer already read 20.10.2026 — unchanged; section ids, CSS and structure untouched; index.html refreshed.
 - Source: wow_digest/dane/2026-10-20_delta.txt (wowclassicforever Latest updates Oct 20; Questie commits)
+
+## 2026-10-20 16:07 — added to the sheet
+
+- Forever Changes: the "Free stress test" note is refreshed and now marked (as of 20.10). Blizzard's own news page lists the stress test as the next Forever event — "for a limited time on October 21, all interested players…" (post updated Oct 16) — so Oct 21 at 19:00 CEST is locked in. The note now ends with the full release date, Nov 4.
+- The old (as of 17.10) wording was replaced, not copied — there is still exactly one stress-test note in the sheet, no double or contradictory lines.
+- Checked but not added: the Blizzard front page (Midnight 12.1.5, Hallow's End, owl mount, Rexxar bundle for modern WoW) and the Oct 16 hotfix post (Midnight / Classic Era / SoD / TBC / Hardcore — no Forever hunter change). The stillsixty page was navigation only (menus, category lists, raid countdowns).
+- No hunter talent, spell, gear or addon changes in this delta — newest beta build is still 1.60.1.70450, so nothing to fix on the Talents or Rotation tabs.
+- Dates in the sheet header and footer already read 20.10.2026 — unchanged; section ids, CSS and structure untouched; index.html refreshed.
+- Source: wow_digest/dane/2026-10-20_delta.txt (Blizzard news blog; stillsixty news page)
