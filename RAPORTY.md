@@ -190,3 +190,22 @@ Entries appear here when the server adds something to the sheet.
 - No hunter talent, spell, gear or addon changes in this delta — newest beta build is still 1.60.1.70450, so nothing to fix on the Talents or Rotation tabs.
 - Dates in the sheet header and footer already read 20.10.2026 — unchanged; section ids, CSS and structure untouched; index.html refreshed.
 - Source: wow_digest/dane/2026-10-20_delta.txt (Blizzard news blog; stillsixty news page)
+
+
+## 2026-10-21 00:10 — added to the sheet
+- Onyxia's Lair (Zones & Dungeons): Blizzard's new "Forever Raid Overview" adds a third level-60 raid. Onyxia's Lair opens December 9 together with Barrow Deeps (10 players) and Hyjal Summit (20 players), and the door needs the Drakefire Amulet, which you get from the Alliance Onyxia attunement quest chain. Blizzard did not give a player count for Onyxia yet, so the sheet says that. The old raids bullet was rewritten in place — there is still just one raids line, no "both raids" left over.
+- Early name reservation (Forever Changes): from October 27 to November 3 you can reserve names for up to three characters before launch. New note, because on Nov 4 everyone grabs names at the same time — worth doing if you want a specific hunter name.
+- Stress test note refreshed (Forever Changes): it now says TODAY instead of "Oct 21", and adds that October 21 is the beta's last full day (wow-forever.gg: "Beta last full day in 1 day"). Same times: 19:00 CEST / 2:00 p.m. PDT, anyone can log in, characters are wiped after. Old wording replaced, not copied.
+- Questie (Zones & Dungeons, Addon line): the Oct 20 commits are only polish and fixes — quest icons no longer vanish right after being drawn on a re-used map frame, no error when you quick-accept or turn in a quest, objective tracker no longer causes "secret aura" taint, and a quest-log cache fix when you turn in a quest right after finishing it.
+- Checked but NOT added: Blizzard's "Explore the New Dungeons of World of Warcraft: Forever" says nine new dungeons (13–60), which matches the nine already listed; wowforeverbuilds' older "ten dungeons" item counts one dungeon no source names, so the list stays at nine. Also skipped: Midnight 12.1.5, Hallow's End, the Rexxar transmog bundle (modern WoW only), the Paladin deep dive, the PvP podcast episode, the Sept/Oct PvP rank and Darkspear Islands items (picked up earlier or not hunter news), and the Oct 20 hotfix post (Midnight / Era / SoD / TBC / Hardcore — no Forever hunter change).
+- No hunter talent, spell or gear changes in this delta — newest beta build is still 1.60.1.70450 (spells 0 added / 0 removed / 0 changed).
+- Dates in the sheet header and footer set to 21.10.2026; section ids, CSS and structure untouched; index.html refreshed.
+- Source: wow_digest/dane/2026-10-21_delta.txt (Blizzard news — Raid Overview, character names, stress test; wow-forever.gg news; Questie commits)
+
+
+## 2026-10-21 08:07 — added to the sheet
+- Questie (Zones & Dungeons, Addon line): the newest Questie commit (Oct 21) adds one meaningful Forever fix — the addon now counts the reputation bonus from the Diplomat talent in the Legacy Tree, so the reputation numbers it shows match what you really earn. Folded into the one Questie line, which stays dated (as of 21.10).
+- Checked but NOT added: the Blizzard news list, stillsixty and wowforeverbuilds were navigation/teasers only — the Forever items in them (name reservation Oct 27–Nov 3, raid overview with Onyxia's Lair, nine new dungeons, Oct 4–10 datamine stories) are already in the sheet or were handled in earlier runs. The Rexxar bundle and Midnight 12.1.5 are modern WoW, not Forever.
+- No hunter talent, spell or gear changes in this delta — newest beta build is still 1.60.1.70450, so the Talents and Rotation tabs are untouched.
+- Dates in the sheet header and footer already read 21.10.2026 — unchanged; section ids, CSS and structure untouched; index.html refreshed.
+- Source: wow_digest/dane/2026-10-21_delta.txt (Questie commits; Blizzard news blog; stillsixty news; wowforeverbuilds news)
