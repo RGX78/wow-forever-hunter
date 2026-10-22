@@ -209,3 +209,9 @@ Entries appear here when the server adds something to the sheet.
 - No hunter talent, spell or gear changes in this delta — newest beta build is still 1.60.1.70450, so the Talents and Rotation tabs are untouched.
 - Dates in the sheet header and footer already read 21.10.2026 — unchanged; section ids, CSS and structure untouched; index.html refreshed.
 - Source: wow_digest/dane/2026-10-21_delta.txt (Questie commits; Blizzard news blog; stillsixty news; wowforeverbuilds news)
+
+## 2026-10-22 00:07 — added to the sheet
+- Beta is over: Blizzard (Kaivax, Oct 21) said the WoW Forever beta goes offline right after the Oct 21 stress test, and every stress-test character was deleted. The old "Free stress test — TODAY, Oct 21" note in Forever Changes is gone and replaced by that, dated (as of 22.10). No beta client to log into — next login is launch on Nov 4.
+- Footer updated: "beta (cap 30) ended 21.10 (stress test done, characters wiped), release 4.11.2026".
+- No hunter talent, spell or gear changes in this delta; newest beta build is still 1.60.1.70450.
+- Not added because the sheet already has it: Camping system article (campfires/campsites), name reservation Oct 27–Nov 3, raid overview (Dec 9), nine new dungeons. Questie commits were licence/typo housekeeping only.
