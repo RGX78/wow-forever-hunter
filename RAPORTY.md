@@ -215,3 +215,9 @@ Entries appear here when the server adds something to the sheet.
 - Footer updated: "beta (cap 30) ended 21.10 (stress test done, characters wiped), release 4.11.2026".
 - No hunter talent, spell or gear changes in this delta; newest beta build is still 1.60.1.70450.
 - Not added because the sheet already has it: Camping system article (campfires/campsites), name reservation Oct 27–Nov 3, raid overview (Dec 9), nine new dungeons. Questie commits were licence/typo housekeeping only.
+
+## 2026-10-22 19:40 — no sheet changes
+- Checked the newest delta (2026-10-22): only navigation, menus and teasers plus site items from Oct 10–20 that are already in the sheet.
+- No hunter news today: no class/ability/talent change, no new beta build (still 1.60.1.70450, beta is offline), no Questie change for Forever.
+- "Hotfixes: October 21" covers Midnight / Classic Era / SoD / TBC / Hardcore — nothing for Forever. The Camping article, name reservation (Oct 27–Nov 3), raid overview and the Midnight 12.1.5 update were already handled in earlier runs.
+- Sheet and index.html untouched; dates in the sheet stay 22.10.2026.
