@@ -221,3 +221,13 @@ Entries appear here when the server adds something to the sheet.
 - No hunter news today: no class/ability/talent change, no new beta build (still 1.60.1.70450, beta is offline), no Questie change for Forever.
 - "Hotfixes: October 21" covers Midnight / Classic Era / SoD / TBC / Hardcore — nothing for Forever. The Camping article, name reservation (Oct 27–Nov 3), raid overview and the Midnight 12.1.5 update were already handled in earlier runs.
 - Sheet and index.html untouched; dates in the sheet stay 22.10.2026.
+
+## 2026-10-22 16:10 — added to the sheet
+- Beta is back online (Forever Changes): Blizzard's Zorbrix posted on Oct 22 that the beta did not come back after the Oct 21 stress test and they are fixing it — it "will return shortly", and fully closing the Battle.net app forces the update. Stress-test characters are still gone, so the first real characters start at launch on Nov 4.
+- Launch rulesets (Forever Changes): at launch you do not pick a realm, you pick a ruleset — Normal, PvP, Roleplaying or Hardcore, with Hardcore coming sometime after launch. Each ruleset is its own big pool for groups, dungeons, raids and chat. The "World PvP" row still said "PvP realms" and "normal realm", so it was rewritten in place — the sheet now uses ruleset wording everywhere, no old realm lines left.
+- Roleplay-PvP ruleset (Forever Changes): Aggrend said on Oct 22 that Blizzard was unsure about it on the podcast and is now working on adding it, no date yet. Only matters if you want roleplay plus open-world PvP; for your gun hunter, Normal (PvE) is still the safe pick.
+- Footer updated: it said the beta "ended 21.10", which is no longer true — now it says the beta came back shortly after the 21.10 stress test with characters wiped, release 4.11.2026.
+- Checked but NOT added: "Hotfixes: October 21" (Midnight / Classic Era / SoD / TBC / Hardcore — no Forever hunter change), the Fall Savings sale, and the October 20 bag of items already in the sheet (name reservation Oct 27–Nov 3, raid overview with Dec 9 unlocks, new dungeons, Camping system).
+- No hunter talent, spell or gear changes in this delta — newest beta build is still 1.60.1.70450. The Forever Era hunter guide was only re-dated to October 22, its numbers did not change.
+- Dates in the sheet header and footer read 22.10.2026; section ids, CSS and structure untouched; index.html refreshed.
+- Source: wow_digest/dane/2026-10-22_delta.txt (stillsixty blue tracker, The Forever Era news + blue tracker, Blizzard news "Choose Your Ruleset", Wowhead Oct 22)
