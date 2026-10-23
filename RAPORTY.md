@@ -231,3 +231,13 @@ Entries appear here when the server adds something to the sheet.
 - No hunter talent, spell or gear changes in this delta — newest beta build is still 1.60.1.70450. The Forever Era hunter guide was only re-dated to October 22, its numbers did not change.
 - Dates in the sheet header and footer read 22.10.2026; section ids, CSS and structure untouched; index.html refreshed.
 - Source: wow_digest/dane/2026-10-22_delta.txt (stillsixty blue tracker, The Forever Era news + blue tracker, Blizzard news "Choose Your Ruleset", Wowhead Oct 22)
+
+## 2026-10-23 06:20 — added to the sheet
+- Beta is fully over (Forever Changes): Blizzard published an "End of Beta Special" podcast — Countdown To Classic and Meeix talking with Aggrend, Clay Stone, Ana Resendez and Michael Nuthals — and the beta ended with the Oct 21 stress test, characters wiped. The next time you log in is launch on Nov 4.
+- Removed a stale line: the sheet still said the beta "did not come back online, will return shortly" (Zorbrix, Oct 22). That is no longer true — the beta is done. The two old beta notes are now one shorter note, so there are no two stories on the same tab.
+- Launch date (Forever Changes): Blizzard's news page says again "Start your new journey November 4" — the name-reservation note (Oct 27 – Nov 3, up to three names) now says the launch day is confirmed. Reserve your hunter name there before Nov 4.
+- Raids (Zones & Dungeons): stillsixty's Raids page confirms what the sheet already had — Barrow Deeps (10 players, 60) and Hyjal Summit (20 players, 60), both opening December 9, plus Onyxia's Lair with a countdown. Nothing new to play with, so only the date on that line was refreshed.
+- Checked but NOT added: "Hotfixes: October 21" (Midnight / Classic Era / SoD / TBC / Hardcore — no Forever hunter change), "BCCA: The Gods of Zul'Aman Now Live" (that is Burning Crusade Classic, not Forever), the Fall Savings sale, and the wow-ui-source 12.1.5 builds (Midnight, not Forever).
+- No hunter talent, spell or gear changes today. The Forever Era hunter guide was only re-dated to Oct 23, its numbers did not change. Newest Forever beta build is still 1.60.1.70450. Questie had no new commits.
+- Dates in the sheet header and footer now read 23.10.2026; section ids, CSS and structure untouched; index.html refreshed.
+- Source: wow_digest/dane/2026-10-23_delta.txt (Blizzard news, stillsixty — News + Raids, wowforeverbuilds, wow-ui-source)
