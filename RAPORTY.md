@@ -251,3 +251,9 @@ Entries appear here when the server adds something to the sheet.
 - No hunter talent, spell or gear changes today; Questie had no new commits.
 - Dates in the sheet header and footer read 23.10.2026; section ids, CSS and structure untouched; index.html refreshed.
 - Source: wow_digest/dane/2026-10-23_delta.txt (The Forever Era blue tracker, stillsixty blue tracker, wowforeverbuilds Around the web, Blizzard news)
+
+## 2026-10-23 16:07 — added to the sheet
+- Beta is over: the "Beta ends today" note was rewritten to "Beta is over (as of 23.10)" — the final shutdown was Friday Oct 23 at 10:00 a.m. PDT / 19:00 CEST, so after that time the beta servers are closed; the next login is the launch on Nov 4 → "Forever Changes" tab
+- Kept the rest of the beta story in one place: Oct 21 stress test (characters wiped), the last-24 h Beta Celebration (Azuregos, Kazzak) and the "End of Beta Special" podcast
+- Nothing new for the hunter: no class/ability/talent change, newest Forever beta build still 1.60.1.70532; BCCA Zul'Aman, Fall Savings and the Oct 21 hotfixes are not Forever
+- Sheet date: 23.10.2026 (source: Blizzard news blog)
