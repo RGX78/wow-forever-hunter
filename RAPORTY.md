@@ -273,3 +273,11 @@ Entries appear here when the server adds something to the sheet.
 - No Questie commits since v12.2.0 (Oct 23), so the Addon line in "Zones & Dungeons" stays as it is.
 - The sheet was not edited, so its dates stay 24.10.2026; index.html was already identical.
 - Source: wow_digest/dane/2026-10-24_delta.txt (Blizzard news, stillsixty, wow-forever.gg, wowclassicforever patch notes + Hunter page)
+
+## 2026-10-24 16:07 — added to the sheet
+- Small but useful cleanup in "Forever Changes": the "Recent beta tuning" note used to say "Numbers may still move before release". The beta is now closed, so that line would just confuse you — it now says the beta-client numbers you read on the sheet (`newest build 1.60.1.70532`) are **not expected to change much before launch on Nov 4**, with a reminder that Blizzard can still change things in patch notes.
+- No hunter class news today: the fresh delta only repeats things this morning's run already handled. No talent, spell or gear number changed, and the newest Forever client is still 1.60.1.70532.
+- No addon news: Questie has no commits newer than v12.2.0 (Oct 23), so the "Addon" line in Zones and Dungeons stays as it is.
+- Checked but NOT added: "BCCA: The Gods of Zul'Aman Now Live" (Burning Crusade Classic, not Forever), the Midnight motion comic "Singularity", Hallow's End, Fall Savings, "Unlock a Year of World of Warcraft", the Rexxar bundle, and "Hotfixes: October 23" (Midnight, Mists, Season of Discovery, TBC Classic, Classic Era, Hardcore — nothing for Forever). The Hunter pages on stillsixty / The Forever Era / wowforeverbuilds / wowforeversite / wowclassicforever only show menu text, teasers, raid countdowns and ability names already on the sheet.
+- Dates in the sheet header and footer read 24.10.2026; section ids, CSS and structure untouched; index.html refreshed.
+- Source: wow_digest/dane/2026-10-24_delta.txt (Blizzard news, wow-forever.gg, The Forever Era, stillsixty, wowforeverbuilds, wowforeversite)
