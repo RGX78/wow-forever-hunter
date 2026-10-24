@@ -265,3 +265,11 @@ Entries appear here when the server adds something to the sheet.
 - Checked but NOT added: "BCCA: The Gods of Zul'Aman Now Live" (that is Burning Crusade Classic, not Forever), the Midnight motion comic "Singularity", the Fall Savings sale, "Unlock a Year of World of Warcraft", the Rexxar bundle (a transmog set and toy for modern WoW characters, not Forever), the WoW Weekly recap, and the wow-ui-source 12.1.5 (70575) build (Midnight, not Forever).
 - Dates in the sheet header and footer now read 24.10.2026; section ids, CSS and structure untouched; index.html refreshed.
 - Source: wow_digest/dane/2026-10-24_delta.txt (Blizzard news, The Forever Era blue tracker, Questie commits, wow-ui-source)
+
+## 2026-10-24 08:07 — no sheet change
+- Nothing new for your hunter: the fresh delta only repeats what this morning's run already handled — the Blizzard news list (End of Beta Special podcast, name reservation Oct 27–Nov 3, Nov 4 launch, Hallow's End, Fall Savings, Rexxar bundle) and "Hotfixes: October 23", which covers Midnight, Mists, Season of Discovery, TBC Classic, Classic Era and Hardcore but says nothing about Forever.
+- The beta is still closed and the newest Forever client is still 1.60.1.70532 (wow-forever.gg: "no player changes"), so no hunter talent, spell or gear numbers changed today.
+- Dungeons and raids were confirmed again but with no new details: nine new dungeons (13–60) and the three level 60 raids — Barrow Deeps, Hyjal Summit, Onyxia's Lair — all opening December 9. The sheet already has all of it, including the Drakefire Amulet for Onyxia's Lair.
+- No Questie commits since v12.2.0 (Oct 23), so the Addon line in "Zones & Dungeons" stays as it is.
+- The sheet was not edited, so its dates stay 24.10.2026; index.html was already identical.
+- Source: wow_digest/dane/2026-10-24_delta.txt (Blizzard news, stillsixty, wow-forever.gg, wowclassicforever patch notes + Hunter page)
