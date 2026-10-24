@@ -257,3 +257,11 @@ Entries appear here when the server adds something to the sheet.
 - Kept the rest of the beta story in one place: Oct 21 stress test (characters wiped), the last-24 h Beta Celebration (Azuregos, Kazzak) and the "End of Beta Special" podcast
 - Nothing new for the hunter: no class/ability/talent change, newest Forever beta build still 1.60.1.70532; BCCA Zul'Aman, Fall Savings and the Oct 21 hotfixes are not Forever
 - Sheet date: 23.10.2026 (source: Blizzard news blog)
+
+## 2026-10-24 09:20 — added to the sheet
+- Beta is officially closed: Blizzard (Kaivax, Oct 23) posted "Thank You For Testing the WoW Forever Beta" — in their words, "The WoW Forever Beta is now closed". They thanked players for five weeks of testing and said the team now has a few days of focused work on priority issues and the game service, so everything is ready for launch on November 4. The "Beta is over" note in Forever Changes now starts with this confirmation and is dated (as of 24.10); the old "ends today" wording is gone, so the tab tells one beta story instead of two.
+- No hunter class change: the beta is shut, so there is nothing to test and no new hunter talent or spell numbers. The newest Forever client is still 1.60.1.70532. The Oct 23 hotfixes cover Midnight, Mists, Season of Discovery, TBC Classic, Classic Era and Hardcore — nothing for Forever.
+- Addon news for your hunter: Questie released v12.2.0 (Oct 23). It brings back the Forever profession trainers that had gone missing from the addon's NPC list, and adds Binjy Featherwhistle as a Riding trainer for Forever. Handy when you want to know where to learn a profession or riding — the "Addon" line in Zones and Dungeons now says v12.2.0 (as of 24.10).
+- Checked but NOT added: "BCCA: The Gods of Zul'Aman Now Live" (that is Burning Crusade Classic, not Forever), the Midnight motion comic "Singularity", the Fall Savings sale, "Unlock a Year of World of Warcraft", the Rexxar bundle (a transmog set and toy for modern WoW characters, not Forever), the WoW Weekly recap, and the wow-ui-source 12.1.5 (70575) build (Midnight, not Forever).
+- Dates in the sheet header and footer now read 24.10.2026; section ids, CSS and structure untouched; index.html refreshed.
+- Source: wow_digest/dane/2026-10-24_delta.txt (Blizzard news, The Forever Era blue tracker, Questie commits, wow-ui-source)
