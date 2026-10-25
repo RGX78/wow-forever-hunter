@@ -281,3 +281,11 @@ Entries appear here when the server adds something to the sheet.
 - Checked but NOT added: "BCCA: The Gods of Zul'Aman Now Live" (Burning Crusade Classic, not Forever), the Midnight motion comic "Singularity", Hallow's End, Fall Savings, "Unlock a Year of World of Warcraft", the Rexxar bundle, and "Hotfixes: October 23" (Midnight, Mists, Season of Discovery, TBC Classic, Classic Era, Hardcore — nothing for Forever). The Hunter pages on stillsixty / The Forever Era / wowforeverbuilds / wowforeversite / wowclassicforever only show menu text, teasers, raid countdowns and ability names already on the sheet.
 - Dates in the sheet header and footer read 24.10.2026; section ids, CSS and structure untouched; index.html refreshed.
 - Source: wow_digest/dane/2026-10-24_delta.txt (Blizzard news, wow-forever.gg, The Forever Era, stillsixty, wowforeverbuilds, wowforeversite)
+## 2026-10-25 00:07 — added to the sheet
+- Small sheet cleanup first: the top badge still said "beta cap 30". The beta was capped at 30, but it is closed now and the game launches on Nov 4, so the badge reads **"WoW Forever · launches 4.11"**.
+- Your name reservation starts in **2 days**: Oct 27 to Nov 3, up to three characters. If you want a specific hunter name, reserve it — on Nov 4 everyone grabs names at the same moment. The note now says how close it is.
+- One more dungeon was missing from the "New Forever dungeons" line: **Forty Man** (level 60). It is in Blizzard's own "Explore the New Dungeons" list, so it is now in the sheet.
+- No hunter class news today: no talent, spell or gear number changed, and the newest Forever beta client is still 1.60.1.70532.
+- Checked but NOT added: Hallow's End, the WoW Weekly recap, "The Gods of Zul'Aman" (Burning Crusade Classic Anniversary, not Forever), the Midnight motion comic "Singularity", "Unlock a Year of World of Warcraft", Fall Savings, and "Hotfixes: October 23" (Midnight, Mists, Season of Discovery, TBC Classic, Classic Era, Hardcore — nothing for Forever). Questie's Oct 24 commit only updates its quest blacklist, so the addon line stays at v12.2.0.
+- Dates in the sheet header and footer read 25.10.2026; section ids, CSS and structure untouched; index.html refreshed.
+- Source: wow_digest/dane/2026-10-25_delta.txt (Blizzard news, stillsixty, wowforeverbuilds, Questie commits)
