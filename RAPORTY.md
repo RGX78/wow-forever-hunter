@@ -289,3 +289,12 @@ Entries appear here when the server adds something to the sheet.
 - Checked but NOT added: Hallow's End, the WoW Weekly recap, "The Gods of Zul'Aman" (Burning Crusade Classic Anniversary, not Forever), the Midnight motion comic "Singularity", "Unlock a Year of World of Warcraft", Fall Savings, and "Hotfixes: October 23" (Midnight, Mists, Season of Discovery, TBC Classic, Classic Era, Hardcore — nothing for Forever). Questie's Oct 24 commit only updates its quest blacklist, so the addon line stays at v12.2.0.
 - Dates in the sheet header and footer read 25.10.2026; section ids, CSS and structure untouched; index.html refreshed.
 - Source: wow_digest/dane/2026-10-25_delta.txt (Blizzard news, stillsixty, wowforeverbuilds, Questie commits)
+
+## 2026-10-25 08:07 — no sheet change
+- Nothing new for your hunter: this delta compares today's run with the earlier run today and only repeats text already handled this morning — the Blizzard news list (End of Beta Special podcast, name reservation Oct 27 – Nov 3, Nov 4 launch, Hallow's End, WoW Weekly, "Hotfixes: October 23" with nothing for Forever).
+- No hunter class news: no talent, spell or gear number changed. The newest Forever client is still 1.60.1.70532, so the "Forever Changes" note stays as it is.
+- The two changed guide pages (stillsixty news and wowforeverbuilds Hunter) show only menu text and level-bracket guide titles — Beast Mastery 10–60, Marksmanship 20–50, Survival 55–60 — with no new numbers or dates on them.
+- Dungeons and raids repeated with no new details: dungeons 13–60 (including Forty Man at 60) and the level 60 raids Barrow Deeps and Hyjal Summit, both opening December 9. All already in the sheet.
+- No addon news: Questie stays at v12.2.0 (Oct 23).
+- The sheet was not edited, so its dates stay 25.10.2026; index.html was already identical.
+- Source: wow_digest/dane/2026-10-25_delta.txt (Blizzard news, stillsixty — News, wowforeverbuilds Hunter)
