@@ -298,3 +298,11 @@ Entries appear here when the server adds something to the sheet.
 - No addon news: Questie stays at v12.2.0 (Oct 23).
 - The sheet was not edited, so its dates stay 25.10.2026; index.html was already identical.
 - Source: wow_digest/dane/2026-10-25_delta.txt (Blizzard news, stillsixty — News, wowforeverbuilds Hunter)
+
+## 2026-10-25 16:07 — added to the sheet
+- Small addon update in "Zones and Dungeons": the **Questie** line now also mentions the **Oct 25** commits. They are bug fixes only — no new Forever data — but two of them can hit you while leveling: a quest link no longer loses the chat text you typed when that quest is missing from Questie's database, and tooltips for NPCs or objects without a name no longer throw an error. Version is still **v12.2.0**.
+- No hunter class news today: no talent, spell or gear number changed, and the newest Forever client is still 1.60.1.70532. The class guides on stillsixty and the other sites only show menus and guide titles already on the sheet.
+- Dungeons and raids: nothing new. Barrow Deeps (level 60, 10 players) and Hyjal Summit (level 60, 20 players), both opening December 9 — already in the sheet.
+- Checked but NOT added (not Forever): "The Gods of Zul'Aman" (Burning Crusade Classic Anniversary), "Hotfixes: October 23" (Midnight, Mists, Season of Discovery, TBC Classic, Classic Era, Hardcore — nothing for Forever), Hallow's End, the Nightclaw reputation and Cozy Sleeping Bag guides, and the profession planner pages.
+- Dates in the sheet header and footer read 25.10.2026; section ids, CSS and structure untouched; index.html refreshed.
+- Source: wow_digest/dane/2026-10-25_delta.txt (Blizzard news, stillsixty — News, Questie commits)
