@@ -316,3 +316,14 @@ Entries appear here when the server adds something to the sheet.
 - Reminder: if you want a hunter name you like, reserving it tomorrow is cheaper than fighting the crowd on launch day.
 - Dates in the sheet header and footer read 26.10.2026; section ids, CSS and structure untouched; index.html refreshed.
 - Source: wow_digest/dane/2026-10-26_delta.txt (Blizzard news, stillsixty — News, Questie commits)
+
+## 2026-10-26 08:07 — added to the sheet
+
+- Name reservation opens TOMORROW (Oct 27, 18:00 CET) and runs to Nov 3. Two things worth knowing: the three characters are a TOTAL for the whole week across every ruleset (not three per ruleset), and it needs one of the paid upgrades, on the account you bought it on. The note in Forever Changes now says this.
+- Roleplay-PvP is now CONFIRMED for launch: Blizzard first said it wasn't planned, then changed its mind — it will be in the game on Nov 4 and should be selectable during name reservation. The old "coming, no date yet" line was replaced (not doubled). The lineup is Normal, PvP, Roleplaying, Roleplay-PvP and Hardcore. For your hunter, Normal (PvE) is still the safe pick.
+- You can pre-install the game now: build 1.60.1.70532 is downloadable. In Battle.net pick WoW, open the Game Version menu above the Play button and choose WoW Forever. If the Install button is greyed out, switch to the account that owns the upgrade, turn off the new layout, or restart the app. Do it before Nov 4 so you don't spend launch day downloading.
+- Addon: Questie has new commits from Oct 26, fixes only and still v12.2.0 — no more Lua error when you change profile with the tracker never opened, and it no longer shows a next quest in a chain your race or class cannot take. Folded into the existing Addon line.
+- No hunter class news today: no talent, spell, gear, pet or gun number changed, and the newest Forever client is still 1.60.1.70532.
+- Checked but NOT added: "Hotfixes: October 23" (Midnight, Mists, Season of Discovery, TBC Classic, Classic Era, Hardcore — nothing for Forever), "BCCA: The Gods of Zul'Aman Now Live" and the WoW Weekly (Burning Crusade Classic, not Forever), the Midnight motion comic "Singularity", Fall Savings, "Unlock a Year of World of Warcraft", the Rexxar bundle (modern WoW only).
+- Dates in the sheet header and footer read 26.10.2026; section ids, CSS and structure untouched; index.html refreshed.
+- Source: wow_digest/dane/2026-10-26_delta.txt (Blizzard news, wowforeverbuilds — News, Questie commits)
