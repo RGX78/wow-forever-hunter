@@ -306,3 +306,13 @@ Entries appear here when the server adds something to the sheet.
 - Checked but NOT added (not Forever): "The Gods of Zul'Aman" (Burning Crusade Classic Anniversary), "Hotfixes: October 23" (Midnight, Mists, Season of Discovery, TBC Classic, Classic Era, Hardcore — nothing for Forever), Hallow's End, the Nightclaw reputation and Cozy Sleeping Bag guides, and the profession planner pages.
 - Dates in the sheet header and footer read 25.10.2026; section ids, CSS and structure untouched; index.html refreshed.
 - Source: wow_digest/dane/2026-10-25_delta.txt (Blizzard news, stillsixty — News, Questie commits)
+
+## 2026-10-26 00:07 — added to the sheet
+
+- Name reservation was out of date: the note said it starts "in 2 days". It now says name reservation OPENS TOMORROW (Oct 27) and runs to Nov 3, up to three characters — the only way to lock a name before the Nov 4 launch. Re-dated (as of 26.10). Tab: Forever Changes (t-new).
+- Header and footer dates moved to 26.10.2026.
+- No hunter class news today: no talent, spell, gear or pet number changed. No new Forever client build either — newest is still 1.60.1.70532, and the beta stays closed.
+- Checked but NOT added: "Hotfixes: October 23" (Midnight / Mists / SoD / TBC / Classic Era / Hardcore — nothing for Forever), "BCCA: The Gods of Zul'Aman Now Live" and the WoW Weekly (Burning Crusade Classic, not Forever), the Midnight motion comic "Singularity", Fall Savings, "Unlock a Year of World of Warcraft", the Rexxar bundle (modern WoW only), the Camping / raid / dungeon articles (already in the sheet). Questie commits from Oct 25 are fixes only, version still v12.2.0.
+- Reminder: if you want a hunter name you like, reserving it tomorrow is cheaper than fighting the crowd on launch day.
+- Dates in the sheet header and footer read 26.10.2026; section ids, CSS and structure untouched; index.html refreshed.
+- Source: wow_digest/dane/2026-10-26_delta.txt (Blizzard news, stillsixty — News, Questie commits)
