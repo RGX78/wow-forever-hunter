@@ -327,3 +327,8 @@ Entries appear here when the server adds something to the sheet.
 - Checked but NOT added: "Hotfixes: October 23" (Midnight, Mists, Season of Discovery, TBC Classic, Classic Era, Hardcore — nothing for Forever), "BCCA: The Gods of Zul'Aman Now Live" and the WoW Weekly (Burning Crusade Classic, not Forever), the Midnight motion comic "Singularity", Fall Savings, "Unlock a Year of World of Warcraft", the Rexxar bundle (modern WoW only).
 - Dates in the sheet header and footer read 26.10.2026; section ids, CSS and structure untouched; index.html refreshed.
 - Source: wow_digest/dane/2026-10-26_delta.txt (Blizzard news, wowforeverbuilds — News, Questie commits)
+
+## 2026-10-26 16:07 — added to the sheet
+- Questie released v12.3.0: Hallow's End quests are now in the addon, plus a "Show on map" option in the tracker's right-click menu.
+- The addon line in Zones and Dungeons now says v12.3.0 (as of 26.10) instead of v12.2.0, and keeps the Oct 26 fixes — no duplicate line left behind.
+- Nothing else today: Blizzard news, stillsixty and the hunter guides only repeat what is already in the sheet (name reservation, Nov 4 launch, raids Dec 9, newest client build 1.60.1.70532). No hunter ability or gear changes.
