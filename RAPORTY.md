@@ -351,3 +351,10 @@ Entries appear here when the server adds something to the sheet.
 - Checked but NOT added: "Hotfixes: October 26" (Midnight, Mists, Season of Discovery, TBC Classic, Classic Era, Hardcore — nothing for Forever), the poster signing, the Talebound demo, the short story "Unbowed", the WoW Weekly, the Campfire article, Fall Savings, "Unlock a Year of Warcraft", the Rexxar bundle (modern WoW toy for pets) and the Paladin class deep dive (not hunter). Name reservation (Oct 27–Nov 3) and the Nov 4 launch are already in the sheet.
 - Dates in the sheet header and footer read 27.10.2026; section ids, CSS and structure untouched; index.html refreshed.
 - Source: wow_digest/dane/2026-10-27_delta.txt (Blizzard dev notes thread, Blizzard news)
+
+## 2026-10-27 16:07 — added to the sheet
+- Racial changes (the delta shows them again, and two details were missing from the sheet): Orc **Blood Fury cooldown cut to 2 min** is now in the "Races" row. Note: the patch note is cut off in the source — it only says "reduced to 2…", so the row says the same and is marked as of 27.10.
+- The Skyborne part of the Races row was wrong/unverified ("haste 3%→2%"). It now matches the notes: **Wind Blessed** gives 3% haste, **Skysight** 15% movement (30% while Charged) and can be cast while moving, **Read Leyline** can be cast while moving with a minimum 30 s.
+- Essentials, Dwarf bullet: **Artisan's Precision (+1% hit)** is now called out as the hit source a gun hunter should count on — it goes toward the ranged hit cap, so gem/gear for the rest. Dwarf keeps Big Game Hunter + Stoneform and has no weapon racial to chase for a gun.
+- Already correct before this run, so not re-added: Earth Fury removed, Ruthless 2%→1%, Human Spirit 5%→10%, Savage removed, Command +5% hunter/warlock pet damage, Plainsrunning 2% per stack up to 60% (no mounted bonus), Endurance 5% HP only.
+- Nothing else new: no hunter ability/talent number changed, no new client build (still 1.60.1.70532), the beta is closed and launch is Nov 4. Blizzard news items (Hotfixes Oct 26, BCCA: The Gods of Zul'Aman, poster signing, Talebound demo, "Unbowed" story, WoW Weekly) are not Forever hunter news.
