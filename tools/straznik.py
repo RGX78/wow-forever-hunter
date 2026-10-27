@@ -195,7 +195,8 @@ def check(args):
                 + dt.timedelta(hours=int(hh) - off, minutes=int(mm))
             if when <= now_utc:
                 continue
-            for phrase in ("beta is over", "beta has ended", "no beta client", "beta ended"):
+            for phrase in ("beta is over", "beta has ended", "no beta client", "beta ended",
+                           "open now", "now open", "is open", "opened", "is closed", "has closed"):
                 if phrase in block_low:
                     snippet = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", block))[:90]
                     warns.append(f'"{phrase}" przy godzinie {hh}:{mm} {tzname}, ktora jeszcze nie minela '
