@@ -332,3 +332,13 @@ Entries appear here when the server adds something to the sheet.
 - Questie released v12.3.0: Hallow's End quests are now in the addon, plus a "Show on map" option in the tracker's right-click menu.
 - The addon line in Zones and Dungeons now says v12.3.0 (as of 26.10) instead of v12.2.0, and keeps the Oct 26 fixes — no duplicate line left behind.
 - Nothing else today: Blizzard news, stillsixty and the hunter guides only repeat what is already in the sheet (name reservation, Nov 4 launch, raids Dec 9, newest client build 1.60.1.70532). No hunter ability or gear changes.
+
+## 2026-10-27 00:07 — added to the sheet
+
+- Name reservation is OPEN NOW (Oct 27, 18:00 CET — Nov 3). The note in Forever Changes said "opens tomorrow", which was out of date, so it was rewritten, not doubled. The rules are unchanged: three characters in TOTAL across all rulesets for the whole week, and it needs one of the paid upgrades on the account you bought it with. If you want a specific hunter name, do it now.
+- Roleplay-PvP: Blizzard is working to make it selectable in the name reservation during this week (it will be live at the Nov 4 launch either way). For your hunter, Normal (PvE) is still the safe pick.
+- Addon: Questie is now v12.3.1 — a version bump only, still the same features (Hallow's End quests, "Show on map" in the tracker menu, the Oct 26 fixes). The Addon line in Zones and Dungeons shows the new version.
+- No hunter class news today: no talent, spell, pet or gun number changed, no new client build (still 1.60.1.70532, beta stays closed). Roughly 8 days to launch.
+- Checked but NOT added: "Hotfixes: October 23" (Midnight / Mists / SoD / TBC Classic / Classic Era / Hardcore — nothing for Forever), "BCCA: The Gods of Zul'Aman Now Live" and the WoW Weekly (Burning Crusade Classic, not Forever), the Midnight motion comic "Singularity", Fall Savings, "Unlock a Year of World of Warcraft", the Rexxar bundle (modern WoW only), and the poster signing / Talebound demo / short story posts (not hunter news).
+- Dates in the sheet header and footer read 27.10.2026; section ids, CSS and structure untouched; index.html refreshed.
+- Source: wow_digest/dane/2026-10-27_delta.txt (Blizzard news, wowforeverbuilds — News, Questie commits)
