@@ -12,7 +12,9 @@ PROCEDURE (in order, using terminal/file tools):
 2. Read ONLY the newest delta file (ls -t /root/wow_digest/dane/*_delta.txt | head -1).
    - [NO-CHANGE] -> do nothing, reply exactly: NO CHANGES
    - [BASELINE] -> first run, add nothing, reply: BASELINE
-3. Filter noise: skip navigation, teasers, countdowns, footers. RELEVANT = real news for a hunter: class/ability/talent changes, hotfixes, beta phase/caps, dates, changed numbers in known guides, addon news (e.g. Questie), dungeons/raids, new systems.
+   - Sections marked "[PUSTE — strona renderowana JS-em]" have no readable text (Wowhead is JS-only from this server). Ignore them — never treat them as "nothing happened".
+   - Long sources carry "[... DLUGA STRONA: wycinki wokol slow kluczowych ...]": those excerpts are where the real news sits. READ THEM.
+3. Filter noise: skip navigation, teasers, countdowns, footers. RELEVANT = real news for a hunter: class/ability/talent changes, RACIAL changes, hotfixes, beta phase/caps, dates, changed numbers in known guides, addon news (e.g. Questie), dungeons/raids, new systems.
 4. Check duplicates in NEWSY.md and in the sheet itself (never add the same thing twice).
 5. If there is real news to add:
    a. Edit sciaga-hunter.html PRECISELY (keep the HTML style and structure; do NOT change section ids: t-ess, t-new, t-rot, t-tal, t-pet, t-gear, t-map, t-mis, nor the CSS). Volatile beta numbers: append "(as of DD.MM)".
@@ -29,3 +31,7 @@ PROCEDURE (in order, using terminal/file tools):
 6. If there is a lot of news: add the 1-3 most important items, move the rest to the "## Queue (to add in future runs)" section in NEWSY.md and mention it in the reply.
 
 RULES: Never invent news — only what is in the sources/delta. Keep it simple (Robert is a beginner). Do not change section ids, CSS or the file structure. Robert's hunter plays GUN-ONLY (no bows/crossbows) — prefer gun/rifle options in any weapon advice. When a new fact supersedes an older line in the sheet, UPDATE or DELETE the old line — never leave two contradictory notes side by side (e.g. an old "not confirmed yet" next to a new "confirmed"); the sheet is a reference, not a changelog.
+
+RACIAL / RACE CHANGES ARE HUNTER NEWS. If a delta mentions racial changes (hit chance, crit, pet damage, movement speed, spirit, haste), put them on the sheet: the race bullets in Essentials (t-ess) and the "Races" row. Never reply "no hunter news" in a run where a racial or passive changed — racials change a hunter's hit cap and pet damage directly. (On 26 Oct 2026 the final racial tuning pass shipped and was missed exactly this way.)
+
+TIMES: when you write a time in the sheet or a report, convert nothing — quote Blizzard's time zone (e.g. "18:00 CET") and, if it is a launch-day deadline, add the reader's zone only when the source states it. Never turn a future time into past tense ("opens today at 18:00 CET", not "is open now") — the sheet is read at all hours.

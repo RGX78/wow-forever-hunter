@@ -1,11 +1,13 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Orion — dzienny zbieracz informacji o WoW: Forever (dla huntera) — v2.
-Zmiana v2: oprocz pelnego raportu zapisuje DELTA (tylko sekcje zmienione vs poprzedni dzien),
-naprawiona lista zrodel (usuniete martwe adresy, dodane strony z nowosciami).
-Wynik: F:\HERMES_ORION\.tmp\wow_hunter_daily\<data>.txt + <data>_delta.txt
-Czysty Python (stdlib). Nie wymaga AI.
+Orion — zbieracz informacji o WoW: Forever (dla huntera) — v4.
+Zmiany v4 (27.10.2026):
+  * DLUGIE STRONY: zamiast ucinac do 9000 znakow, bierzemy poczatek + WYCINKI wokol slow kluczowych
+    (wczesniej notka o zmianach rasowych z 26.10 lezala glebiej niz 9000 znakow i agent jej nie widzial).
+  * NOWE ZRODLO: watek dev-notes Blizzarda na forum (tam sa raciale/class tuning) — wowhead renderuje sie JS-em,
+    z VPS widac z niego ~50 znakow, wiec nie byl zadnym zrodlem.
+Wynik: <WOW_SCOUT_OUT>/<data>.txt + <data>_delta.txt
 """
 import json
 import os
@@ -17,18 +19,26 @@ import datetime
 import urllib.request
 
 OUT_DIR = os.environ.get("WOW_SCOUT_OUT", r"F:\HERMES_ORION\.tmp\wow_hunter_daily")
-TIMEOUT = 15
+TIMEOUT = 20
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) OrionAgent/1.0"
+CLIP = 26000
+KEYWORDS = (
+    "racial", "ruthless", "earth fury", "plainsrunning", "artisan", "command",
+    "hit chance", "pet damage", "development notes", "blue post", "hotfix",
+    "talent", "hunter", "addon", "questie", "launch", "reservation",
+)
 
 SOURCES = [
     # --- oficjalne ---
     ("https://worldofwarcraft.blizzard.com/en-us/news", "Blizzard news (WoW)"),
     ("https://news.blizzard.com/en-us/world-of-warcraft", "Blizzard news blog"),
+    ("https://eu.forums.blizzard.com/en/wow/t/631316", "Blizzard dev notes (forum thread — racial/class tuning)"),
     # --- nowosci / patche ---
     ("https://www.stillsixty.com/news", "stillsixty — News (patch notes, blue tracker)"),
     ("https://theforeverera.com/en/news/", "Forever Era — News"),
     ("https://wow-forever.gg/news/", "wow-forever.gg — News"),
     ("https://wowforeverbuilds.com/news", "wowforeverbuilds — News"),
+    ("https://www.warcrafttavern.com/forever/news/", "Warcraft Tavern — Forever news"),
     ("https://www.wowhead.com/forever/news", "Wowhead Forever news"),
     ("https://www.wowhead.com/forever/blue-tracker", "Blue tracker Forever"),
     ("https://wowclassicforever.info/patch-notes/", "Patch notes (wowclassicforever)"),
@@ -76,12 +86,36 @@ def strip_html(html):
     return txt.strip()
 
 
-def clip(txt, n=9000):
-    return txt if len(txt) <= n else txt[:n] + "\n... [uciete]"
+def excerpt(txt, limit=CLIP):
+    """Poczatek strony + wycinki wokol slow kluczowych (zeby nie zgubic waznych notek gleboko)."""
+    if len(txt) <= limit:
+        return txt
+    head = txt[:7000]
+    low = txt.lower()
+    chunks, seen = [], set()
+    for kw in KEYWORDS:
+        start = 0
+        while True:
+            i = low.find(kw, start)
+            if i < 0:
+                break
+            seg = txt[max(0, i - 350):i + 450].strip()
+            key = seg[:80]
+            if key not in seen:
+                seen.add(key)
+                chunks.append(seg)
+            start = i + len(kw)
+            if len(chunks) >= 40:
+                break
+        if len(chunks) >= 40:
+            break
+    if not chunks:
+        return txt[:limit] + "\n... [uciete — brak slow kluczowych]"
+    return (head + "\n[... DLUGA STRONA: wycinki wokol slow kluczowych ...]\n"
+            + "\n---\n".join(chunks))
 
 
 def split_sections(text):
-    """Zwraca (dict tytul->tresc, lista tytulow w kolejnosci)."""
     parts = SECTION_RE.split(text)
     secs, order = {}, []
     for p in parts[1:]:
@@ -100,12 +134,40 @@ def find_previous(today_file):
     prev = None
     for f in files:
         b = os.path.basename(f)
-        if "_delta" in b:
-            continue
-        if b == os.path.basename(today_file):
+        if "_delta" in b or b == os.path.basename(today_file):
             continue
         prev = f
     return prev
+
+
+def delta_view(txt, limit=9000):
+    """Skrocona wersja sekcji DO DELTY: poczatek + wycinki wokol najwazniejszych slow.
+    Bez tego delta ucinala sie od poczatku i notka rasowa (gleboko na stronie) znikala."""
+    if len(txt) <= limit:
+        return txt
+    head = txt[:2500]
+    low = txt.lower()
+    chunks, seen = [], set()
+    for kw in ("artisan", "earth fury", "plainsrunning", "ruthless", "racial",
+               "command", "hit chance", "pet damage", "development notes", "hotfix"):
+        start = 0
+        while True:
+            i = low.find(kw, start)
+            if i < 0:
+                break
+            seg = txt[max(0, i - 250):i + 350].strip()
+            key = seg[:60]
+            if key not in seen:
+                seen.add(key)
+                chunks.append(seg)
+            start = i + len(kw)
+            if len(chunks) >= 14:
+                break
+        if len(chunks) >= 14:
+            break
+    if not chunks:
+        return txt[:limit] + "\n... [obciete — brak slow kluczowych]"
+    return head + "\n[... WYCINKI z reszty sekcji ...]\n" + "\n---\n".join(chunks)
 
 
 def write_delta(today, out_path, prev_text=None, prev_src=None):
@@ -130,9 +192,7 @@ def write_delta(today, out_path, prev_text=None, prev_src=None):
         unchanged = [t for t in cur_order if t not in changed]
         lines.append("[Bez zmian: %s]" % (", ".join(unchanged) if unchanged else "brak"))
     for t in changed:
-        body = cur_secs[t]
-        if len(body) > 6000:
-            body = body[:6000] + "\n... [obciete do 6000 znakow]"
+        body = delta_view(cur_secs[t])
         lines.append("\n########## " + body)
     io.open(delta_path, "w", encoding="utf-8").write("\n".join(lines))
     return delta_path, len(changed)
@@ -142,9 +202,8 @@ def main():
     os.makedirs(OUT_DIR, exist_ok=True)
     today = datetime.date.today().isoformat()
     out_path = os.path.join(OUT_DIR, today + ".txt")
-    ok, fail = [], []
+    ok, fail, empty = [], [], []
 
-    # v3: porownuj z POPRZEDNIM PRZEBIEGIEM (nie z poprzednim dniem) — dziala tez przy kilku przebiegach dziennie
     prev_text, prev_src = None, None
     if os.path.exists(out_path):
         prev_text = io.open(out_path, encoding="utf-8").read()
@@ -160,8 +219,13 @@ def main():
 
         for url, label in SOURCES:
             try:
-                txt = clip(strip_html(fetch(url)))
-                f.write("\n########## %s\nURL: %s\n%s\n" % (label, url, txt))
+                txt = strip_html(fetch(url))
+                if len(txt) < 300:
+                    f.write("\n########## %s\nURL: %s\n[PUSTE — strona renderowana JS-em, %d znakow widocznego tekstu]\n"
+                            % (label, url, len(txt)))
+                    empty.append(label)
+                    continue
+                f.write("\n########## %s\nURL: %s\n%s\n" % (label, url, excerpt(txt)))
                 ok.append(label)
             except Exception as e:
                 f.write("\n########## %s\nURL: %s\n[BLAD: %s]\n" % (label, url, e))
@@ -182,12 +246,13 @@ def main():
 
         f.write("\n\n=== PODSUMOWANIE ZBIORU ===\n")
         f.write("OK (%d): %s\n" % (len(ok), ", ".join(ok)))
+        f.write("PUSTE/JS (%d): %s\n" % (len(empty), ", ".join(empty) or "brak"))
         f.write("BLEDY (%d): %s\n" % (len(fail), ", ".join(fail) or "brak"))
 
     delta_path, n_changed = write_delta(today, out_path, prev_text, prev_src)
     print("pelny raport: %s" % out_path)
     print("delta: %s  (zmienionych sekcji: %d)" % (delta_path, n_changed))
-    print("OK=%d  BLEDY=%d" % (len(ok), len(fail)))
+    print("OK=%d  PUSTE=%d  BLEDY=%d" % (len(ok), len(empty), len(fail)))
 
 
 if __name__ == "__main__":
