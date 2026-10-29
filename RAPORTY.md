@@ -386,3 +386,8 @@ Entries appear here when the server adds something to the sheet.
 - One trap avoided again: the dev-notes thread still shows the older October 15 racial block ("Mace Specialization: Replaced with Earth Fury"). That is history — the October 26 pass replaced it, and the sheet stays with the newer values.
 - Dates in the sheet header and footer read 28.10.2026; section ids, CSS and structure untouched; index.html refreshed.
 - Source: wow_digest/dane/2026-10-28_delta.txt (Questie commits, Blizzard dev notes thread via EU forums post 631316, Blizzard news, stillsixty blue tracker, The Forever Era)
+
+## 2026-10-29 00:07 — added to the sheet
+- No new hunter news today. All source changes are text already on the sheet: the Oct 26 racial pass (dwarf Artisan's Precision +1% hit / Earth Fury removed / Find Treasure extra chest items, Orc Command +5% pet damage / Blood Fury 2 min, Troll Berserking 15 s, Undead Touch of the Grave 15 s, Tauren Plainsrunning 60% / Endurance 5% HP only, Human Ruthless 2%→1% / Human Spirit 5%→10%, Skyborne Wind Blessed 3% haste) was already added on 27–28.10, so nothing was doubled.
+- Only change: the sheet date moved to 29.10.2026 (header + footer). Launch is still Nov 4; name reservation (up to three characters total, needs a paid upgrade) still runs to Nov 3.
+- Skipped as not hunter news: Hotfixes October 27 (Midnight / Classic Era / SoD / TBC / Hardcore), WARPATH trailer, Grimtide decor + Living Heartsbane Cauldron mount (housing/cosmetic, modern WoW), poster signing, Talebound demo, "Unbowed" short story, Paladin deep dive, BCCA: The Gods of Zul'Aman (Burning Crusade Classic). Newest Forever client is still 1.60.1.70532.
