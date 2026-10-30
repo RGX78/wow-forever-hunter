@@ -422,3 +422,11 @@ Entries appear here when the server adds something to the sheet.
 - The October 26 racial pass (dwarf Artisan's Precision +1% hit with Earth Fury removed and Find Treasure giving extra chest items, Orc Command +5% pet damage, Troll Berserking 15 s, Tauren Plainsrunning to 60%) is still on the sheet from 27–28.10 — checked again, nothing doubled. The older October 15 block in the same dev-notes thread stays ignored.
 - Dates in the header and footer already read 30.10.2026, so no change was needed there. Section ids, CSS and page structure untouched; index.html refreshed.
 - Source: wow_digest/dane/2026-10-30_delta.txt (Questie commits; all other sections marked unchanged)
+
+## 2026-10-30 16:07 — no sheet change
+- Nothing new for your hunter this run, so the sheet was not edited. The scout reported only 3 sections changed, and none of them carry new hunter info.
+- Blizzard's news page is the same launch post (November 4 at 3:00 p.m. PST, already on the sheet), the name reservation window and the pre-purchase / upgrade promos. Warcraft Tavern shows the same October 26–27 racial headlines that have been on the sheet since 27–28.10.
+- The wowf.io Beast Mastery leveling page is unchanged too: same 21/0/0 build at level 30, same talent points and the same new abilities at 22–24 (Scorpid Sting, Beast Lore, Track Hidden).
+- Every source that could carry class or racial news (dev notes thread, stillsixty, wow-forever.gg, wowforeverbuilds, Wowhead Forever, blue tracker, Questie) is marked unchanged, and the newest Forever client is still 1.60.1.70532. The October 26 racial pass stays on the sheet as it is.
+- Dates in the header and footer already read 30.10.2026, so they were left alone. Section ids, CSS and page structure untouched.
+- Source: wow_digest/dane/2026-10-30_delta.txt (Blizzard news, Warcraft Tavern, wowf.io BM leveling; all other sections unchanged)
