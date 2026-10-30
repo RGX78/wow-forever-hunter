@@ -415,3 +415,10 @@ Entries appear here when the server adds something to the sheet.
 - Skipped as not hunter news: the "Return to Azeroth" recap, the New Player's Starter Guide, Podcast Ep. 6 "All About Tech", the patch-cadence and IGN interview headlines (no numbers in the sources), Hotfixes October 27 (Midnight / Mists / SoD / TBC / Classic Era / Hardcore), the WARPATH trailer, Grimtide decor and the Living Heartsbane Cauldron mount, the poster signing, the "Unbowed" short story and the Paladin deep dive. Newest Forever client is still 1.60.1.70532.
 - Dates in the sheet header and footer read 30.10.2026; section ids, CSS and page structure untouched; index.html refreshed.
 - Source: wow_digest/dane/2026-10-30_delta.txt (Blizzard news, Blizzard forums via Kaivax blue posts, Wowhead around-the-web headlines, Questie commits)
+
+## 2026-10-30 08:07 — added to the sheet
+- Small update this run: Questie's October 30 commits went into your addon line. They are about achievement tracking, not quests — the addon now asks the game itself whether an achievement is tracked instead of keeping its own old list, and the ancient Era/TBC tracking leftovers are gone. Practical effect for you: your achievement tracker matches what the game shows. No new Forever quest data, still v12.3.1.
+- Nothing else changed for a hunter today. The rest of the delta is marked as unchanged since the earlier run: launch is November 4 at 3:00 p.m. PST, name reservation runs to November 3 with three characters total, and the newest Forever client is still 1.60.1.70532.
+- The October 26 racial pass (dwarf Artisan's Precision +1% hit with Earth Fury removed and Find Treasure giving extra chest items, Orc Command +5% pet damage, Troll Berserking 15 s, Tauren Plainsrunning to 60%) is still on the sheet from 27–28.10 — checked again, nothing doubled. The older October 15 block in the same dev-notes thread stays ignored.
+- Dates in the header and footer already read 30.10.2026, so no change was needed there. Section ids, CSS and page structure untouched; index.html refreshed.
+- Source: wow_digest/dane/2026-10-30_delta.txt (Questie commits; all other sections marked unchanged)
