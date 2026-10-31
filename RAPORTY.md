@@ -444,3 +444,8 @@ Entries appear here when the server adds something to the sheet.
 - Fixed a contradiction: the "World PvP" row in Essentials listed only four rulesets, but the sheet already said Roleplay-PvP is coming at launch — the row now lists all five.
 - Refreshed the RP-PvP note to (as of 31.10) and stated plainly that it is still unconfirmed whether RP-PvP is selectable in the name reservation.
 - Nothing else new today: launch Nov 4 at 3:00 p.m. PST, name reservation Oct 27 – Nov 3, the final Oct 26 racial pass and the Dec 9 raids were already on the sheet.
+
+## 2026-10-31 16:07 — added to the sheet
+- Name reservation note: added Blizzard's Australian deadline — 10:00 a.m. AEDT on Nov 5 (same moment as Nov 3 in Europe) — and re-dated it to 31.10.
+- New Blizzard hotfix post "Hotfixes: October 30, 2026" checked: it lists Midnight, Mists of Pandaria Classic, Season of Discovery, The Burning Crusade Classic, Classic Era and Hardcore — not WoW Forever, so no hunter change. This is now noted on the "Recent beta tuning" note.
+- Nothing else new: launch Nov 4 at 3:00 p.m. PST, the Oct 26 racial pass, the Dec 9 raids and the Talebound demo were already on the sheet or are not Forever hunter news. wowf.io BM guide got only strategy text, no new numbers.
