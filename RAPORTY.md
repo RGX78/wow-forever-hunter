@@ -439,3 +439,8 @@ Entries appear here when the server adds something to the sheet.
 - Skipped as not hunter news: Hotfixes October 27 (Midnight / Mists / SoD / TBC / Classic Era / Hardcore), the Talebound demo, the poster signing, the Starter Guide, the WoW Weekly, and the launch / name-reservation posts already on the sheet. The older October 15 racial block still visible in the dev-notes thread is history and stays ignored.
 - Dates in the sheet header and footer moved to 31.10.2026; section ids, CSS and page structure untouched; index.html refreshed. Launch is still November 4 at 3:00 p.m. PST, newest Forever client still 1.60.1.70532.
 - Source: wow_digest/dane/2026-10-31_delta.txt (wowclassicforever patch notes — hunter talent data; Blizzard news; wowf.io; The Forever Era)
+
+## 2026-10-31 08:07 — added to the sheet
+- Fixed a contradiction: the "World PvP" row in Essentials listed only four rulesets, but the sheet already said Roleplay-PvP is coming at launch — the row now lists all five.
+- Refreshed the RP-PvP note to (as of 31.10) and stated plainly that it is still unconfirmed whether RP-PvP is selectable in the name reservation.
+- Nothing else new today: launch Nov 4 at 3:00 p.m. PST, name reservation Oct 27 – Nov 3, the final Oct 26 racial pass and the Dec 9 raids were already on the sheet.
