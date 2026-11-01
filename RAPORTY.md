@@ -449,3 +449,9 @@ Entries appear here when the server adds something to the sheet.
 - Name reservation note: added Blizzard's Australian deadline — 10:00 a.m. AEDT on Nov 5 (same moment as Nov 3 in Europe) — and re-dated it to 31.10.
 - New Blizzard hotfix post "Hotfixes: October 30, 2026" checked: it lists Midnight, Mists of Pandaria Classic, Season of Discovery, The Burning Crusade Classic, Classic Era and Hardcore — not WoW Forever, so no hunter change. This is now noted on the "Recent beta tuning" note.
 - Nothing else new: launch Nov 4 at 3:00 p.m. PST, the Oct 26 racial pass, the Dec 9 raids and the Talebound demo were already on the sheet or are not Forever hunter news. wowf.io BM guide got only strategy text, no new numbers.
+
+## 2026-11-01 00:07 — added to the sheet
+- Launch confirmed as ONE moment for the whole world — no regional stagger. Europe: 11:00 p.m. GMT on Nov 4, midnight CET, so in Poland it starts Nov 5 at 00:00 (source: wowforeverbuilds, Oct 31).
+- Race lines re-dated: the Oct 26 final racial pass is now marked confirmed (as of 01.11). Your dwarf racial is Artisan's Precision +1% hit — the Earth Fury crit bonus is gone.
+- Footer no longer says "beta is closed" — it now shows the launch moment, which is what matters 3 days out.
+- No hunter ability changes anywhere in today's sources; beta stays closed, client still 1.60.1.70532.
