@@ -455,3 +455,9 @@ Entries appear here when the server adds something to the sheet.
 - Race lines re-dated: the Oct 26 final racial pass is now marked confirmed (as of 01.11). Your dwarf racial is Artisan's Precision +1% hit — the Earth Fury crit bonus is gone.
 - Footer no longer says "beta is closed" — it now shows the launch moment, which is what matters 3 days out.
 - No hunter ability changes anywhere in today's sources; beta stays closed, client still 1.60.1.70532.
+
+## 2026-11-01 08:07 — no sheet change
+
+- Checked today's delta: only the Blizzard news blog changed, and every headline on it was already on the sheet (launch Nov 4 at 3:00 p.m. PST, name reservation until Nov 3 with the AEDT deadline, hotfix post that still does not list WoW Forever).
+- The other 21 sources (dev notes, patch notes, blue tracker, Questie, hunter guides, wow-ui-source) were marked "no change" — no new hunter, racial or addon news.
+- Nothing added to the sheet; header and footer already read 01.11.2026, so the page is untouched.
