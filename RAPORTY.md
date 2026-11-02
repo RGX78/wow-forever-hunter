@@ -470,3 +470,10 @@ Entries appear here when the server adds something to the sheet.
 - Launch is 4 days away: November 4 at 3:00 p.m. PST, which is midnight CET — so in Poland the game starts Thursday Nov 5 at 00:00. Name reservation runs until Nov 3.
 - Dates in the header and footer moved to 02.11.2026; section ids, CSS and page structure untouched; index.html refreshed. Newest Forever client is still 1.60.1.70532.
 - Source: wow_digest/dane/2026-11-02_delta.txt (Questie commits — Nov 1; wowf.io BM leveling)
+
+## 2026-11-02 08:07 — added to the sheet
+- One new day-one rule from wowforeverbuilds' launch list: put the crafting profession on the character who will actually wear the gear. Crafted pieces that bind on pickup (the rare Leatherworking recipes) cannot be mailed, so Leatherworking stays on your hunter, Orlenn. Only BoE things — guns, scopes, ammo, bags — can be made on the mage alt and mailed over. It sits right under your duo profession table.
+- Everything else in today's sources was already on the sheet: the Sleeping Bag +8% XP chain, keeping every Waylaid Crate, and the Account Bank (no bank alt needed) went in earlier today; launch is still November 4 at 3:00 p.m. PST (midnight CET, so it starts Nov 5 at 00:00 in Poland) and name reservation still ends Nov 3.
+- No hunter ability, talent or racial changes anywhere today. Your dwarf racial stays Artisan's Precision +1% hit, Earth Fury is gone. Newest Forever client is still 1.60.1.70532.
+- Dates in the header and footer already read 02.11.2026; section ids, CSS and page structure untouched; index.html refreshed.
+- Source: wow_digest/dane/2026-11-02_delta.txt (wowforeverbuilds — Nov 1 launch-day article)
