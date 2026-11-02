@@ -477,3 +477,12 @@ Entries appear here when the server adds something to the sheet.
 - No hunter ability, talent or racial changes anywhere today. Your dwarf racial stays Artisan's Precision +1% hit, Earth Fury is gone. Newest Forever client is still 1.60.1.70532.
 - Dates in the header and footer already read 02.11.2026; section ids, CSS and page structure untouched; index.html refreshed.
 - Source: wow_digest/dane/2026-11-02_delta.txt (wowforeverbuilds — Nov 1 launch-day article)
+
+## 2026-11-02 16:07 — added to the sheet
+- Questie got a real release today: v12.4.0. The new commits redraw quest titles and quest timers on the tracker so they sit on clean lines, show achievement progress on one line like quest objectives, and fix a wrong item count on recipes. No new Forever quest data, so your quest route does not change — just update the addon in your addon manager.
+- The patch-notes site picked up the October 31 server hotfixes in its talent data (new Paladin and Druid talents, revised trees, Mage and Warrior talents moved). No hunter talent changed — I put that on the "Recent beta tuning" note so you do not have to wonder whether a hunter change slipped past.
+- Nothing else new: stillsixty and the other hunter guides repeat text already on the sheet, and the patch-notes hunter snippets are the old October 15 beta block that the October 26 final racial pass replaced. Nothing doubled.
+- Still no new game client — the newest Forever build is 1.60.1.70532.
+- Reminder: launch is Wednesday November 4 at 3:00 p.m. PST, which is midnight CET — in Poland the game starts Nov 5 at 00:00. Name reservation runs until Nov 3.
+- Dates in the header and footer already read 02.11.2026; section ids, CSS and page structure untouched; index.html refreshed.
+- Source: wow_digest/dane/2026-11-02_delta.txt (Questie commits — Nov 2; wowclassicforever patch notes — Nov 2)
