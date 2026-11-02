@@ -461,3 +461,12 @@ Entries appear here when the server adds something to the sheet.
 - Checked today's delta: only the Blizzard news blog changed, and every headline on it was already on the sheet (launch Nov 4 at 3:00 p.m. PST, name reservation until Nov 3 with the AEDT deadline, hotfix post that still does not list WoW Forever).
 - The other 21 sources (dev notes, patch notes, blue tracker, Questie, hunter guides, wow-ui-source) were marked "no change" — no new hunter, racial or addon news.
 - Nothing added to the sheet; header and footer already read 01.11.2026, so the page is untouched.
+
+## 2026-11-02 00:07 — added to the sheet
+- Only one thing changed today: Questie. The newest commits are small fixes — the addon no longer announces the Day of the Dead event in Era and TBC, some Alterac Valley quests were whitelisted, the Hallow's End event dates were refreshed and one new text string was added.
+- All of that is folded into the existing Addon line in the Zones and Dungeons tab, which is now marked (as of 02.11). There is still no new Forever quest data and the addon is still version v12.3.1, so nothing about your quest route changed.
+- No hunter news on the class side: no ability, talent or racial changes anywhere in today's sources. The Oct 26 final racial pass (your dwarf Artisan's Precision +1% hit, Earth Fury gone, Find Treasure giving extra chest items) stays exactly as it is.
+- The wowf.io Beast Mastery guide only grew with strategy text (opener, shot cycle, pet choice, traps, professions) — no new numbers, and its builds (BM 37 / MM 14 at 60) are already on the sheet.
+- Launch is 4 days away: November 4 at 3:00 p.m. PST, which is midnight CET — so in Poland the game starts Thursday Nov 5 at 00:00. Name reservation runs until Nov 3.
+- Dates in the header and footer moved to 02.11.2026; section ids, CSS and page structure untouched; index.html refreshed. Newest Forever client is still 1.60.1.70532.
+- Source: wow_digest/dane/2026-11-02_delta.txt (Questie commits — Nov 1; wowf.io BM leveling)
