@@ -486,3 +486,12 @@ Entries appear here when the server adds something to the sheet.
 - Reminder: launch is Wednesday November 4 at 3:00 p.m. PST, which is midnight CET — in Poland the game starts Nov 5 at 00:00. Name reservation runs until Nov 3.
 - Dates in the header and footer already read 02.11.2026; section ids, CSS and page structure untouched; index.html refreshed.
 - Source: wow_digest/dane/2026-11-02_delta.txt (Questie commits — Nov 2; wowclassicforever patch notes — Nov 2)
+
+## 2026-11-03 00:07 — added to the sheet
+- New game client: the newest Forever beta build is now 1.60.1.70707 (Oct 30), not 1.60.1.70532. It added 64 new spells and 10 new items, but the build report says "Classes: 0 changed" — so no hunter talent or spell changed, your numbers stay the same. I only corrected the build number on the sheet, nothing else there was wrong.
+- Questie got one more small fix on Nov 2: if its quest database (QuestieDB) is missing or did not load, the addon now prints a clear error instead of silently doing nothing. That is useful only if your quest tracker ever looks empty — there is no new Forever quest data, so your quest route does not change. Version is still v12.4.0.
+- One headline I did not add: "Long Maintenance Planned Ahead of WoW: Forever Launch" (Wowhead, Nov 2). It showed up only as a headline without times or details, so there is nothing solid to write yet. If a real announcement with hours appears, it goes on the sheet next run.
+- No racial, ability or talent changes anywhere today: your dwarf racial is still Artisan's Precision +1% hit (Earth Fury removed) and the Oct 26 final racial pass stays exactly as written.
+- Launch is tomorrow: Wednesday November 4 at 3:00 p.m. PST, which is midnight CET — in Poland the game starts Nov 5 at 00:00. Name reservation ends Nov 3, so today is the last day for it. Patch and log in before the crowds.
+- Dates in the header and footer moved to 03.11.2026; section ids, CSS and page structure untouched; index.html refreshed.
+- Source: wow_digest/dane/2026-11-03_delta.txt (wow-forever.gg — build report 2026-10-30; Questie commits — Nov 2)
