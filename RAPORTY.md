@@ -505,3 +505,12 @@ Entries appear here when the server adds something to the sheet.
 - Launch is tomorrow: Wednesday November 4 at 3:00 p.m. PST, which is midnight CET — in Poland the game starts Nov 5 at 00:00. Name reservation ends Nov 3, so today is the last day. The client can already be downloaded (build 1.60.1.70707) — patch before launch day.
 - Dates in the header and footer already read 03.11.2026; section ids, CSS and page structure untouched; index.html refreshed.
 - Source: wow_digest/dane/2026-11-03_delta.txt (stillsixty Hunter 1-60 and wowclassicforever Hunter page — race sections; wowforeverbuilds Nov 3 launch notes; Questie commits)
+
+## 2026-11-03 16:07 — added to the sheet
+- Important fix: the launch clock on the sheet was wrong by 18 hours. Blizzard's launch banner gives the exact moment as 3:00 p.m. PST on Nov 4, which it lists as 18:00 CET on Nov 5. The sheet earlier said midnight CET — so now both the Launch time note and the footer say 18:00 CET on Nov 5 (Thursday). In Poland you start Thursday evening, not in the middle of the night.
+- Everything else in today's sources was already on the sheet: the final racial pass (your dwarf Artisan's Precision +1% hit, Earth Fury gone, Command, Human Ruthless 1%, Plainsrunning 60%, Skyborne Wind Blessed 3% haste), the name reservation dates, and the pre-install note. Nothing doubled.
+- Race news check: no racial changed today. stillsixty's hunter page still carries the older "Wind Blessed 2% haste" line — that is old guide text, and the final Oct 26 pass (3%) stays on the sheet.
+- Questie: today's commits are a new native settings menu, a QuestieTrace dependency and the v12.4.0 version bump. No new Forever quest data, so your quest route does not change.
+- No new game client — the newest Forever build is still 1.60.1.70707. Patch before Thursday so you are not downloading during launch.
+- Dates in the header and footer are 03.11.2026; section ids, CSS and page structure untouched; index.html refreshed.
+- Source: wow_digest/dane/2026-11-03_delta.txt (Blizzard news blog — launch banner; Questie commits)
