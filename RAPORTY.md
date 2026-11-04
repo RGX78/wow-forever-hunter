@@ -514,3 +514,14 @@ Entries appear here when the server adds something to the sheet.
 - No new game client — the newest Forever build is still 1.60.1.70707. Patch before Thursday so you are not downloading during launch.
 - Dates in the header and footer are 03.11.2026; section ids, CSS and page structure untouched; index.html refreshed.
 - Source: wow_digest/dane/2026-11-03_delta.txt (Blizzard news blog — launch banner; Questie commits)
+
+## 2026-11-04 00:07 — added to the sheet
+- Real hunter news today: Blizzard hotfixed your shots on the live servers before launch. Aimed Shot and Sniper Shot roughly doubled, Trueshot Aura and Aspect of the Hawk give about twice the ranged attack power, Barrage went from 3/7/10% to 5/10/15%, and Arcane Shot and Serpent Sting do about 25–30% more damage (at level 60: Arcane 280 instead of 217, Serpent Sting 675 instead of 555 over 15 s). The new "Hunter buffs" row in the What's different tab has the numbers so you can see it at a glance.
+- These came as a server hotfix, not an official patch note (Wowhead, Nov 3), so treat the exact numbers as "can still move" — I wrote that on the sheet.
+- Two old lines were cleaned up so they no longer contradict the news: the tuning note used to say "the hunter abilities are the same as before" (now points to the hotfix), and the beta note still said "the next time you log in is the launch on Nov 4" — it now just says the beta is over.
+- Nothing changed for your gun: no racial or weapon change today. Your dwarf racials (Big Game Hunter 5% vs Beasts, Artisan's Precision 1% hit, Stoneform) are unchanged — nothing doubled.
+- Questie is now v12.5.0: the quest tracker highlights the quest you hover, buttons moved to the left of the quest title, and VoiceOver play buttons always show. No new Forever quest data, so your route does not change.
+- Not added: the class-notes summary from wowforeverbuilds (Rogues, Shamans, tanks, mob health, ~206 gold to train 1–60) — no hunter numbers, and the hotfix row covers the hunter part.
+- Launch is still tonight: Nov 4, 3:00 p.m. PST = Nov 5 at 00:00 CET. Client build 1.60.1.70707 — patch before then.
+- Dates in the header and footer are now 04.11.2026; section ids, CSS and structure untouched; index.html refreshed.
+- Source: wow_digest/dane/2026-11-04_delta.txt (Wowhead — "Hunter Class Buffs on WoW: Forever", Nov 3; Questie commits)
