@@ -525,3 +525,11 @@ Entries appear here when the server adds something to the sheet.
 - Launch is still tonight: Nov 4, 3:00 p.m. PST = Nov 5 at 00:00 CET. Client build 1.60.1.70707 — patch before then.
 - Dates in the header and footer are now 04.11.2026; section ids, CSS and structure untouched; index.html refreshed.
 - Source: wow_digest/dane/2026-11-04_delta.txt (Wowhead — "Hunter Class Buffs on WoW: Forever", Nov 3; Questie commits)
+
+## 2026-11-04 08:07 — added to the sheet
+- Traps: all traps now share one 30 s cooldown (Blizzard's pre-launch notes) — the old "separate fire and frost cooldowns" text is gone from Essentials and the Traps row.
+- New hunter option on Essentials: Auto Attack / Auto Shot — a hunter switches between melee and Auto Shot on its own, gamepad included.
+- Newest client build on the tuning note moved to 1.60.1.70755 (Nov 3): 49 new spells, 40 new items, no hunter class changes.
+- "Hunter buffs" row no longer says "not in official patch notes" — Blizzard's Nov 3 launch dev notes confirm the buff direction (no exact numbers of their own).
+- Dwarf bullet now says Mace Specialization is gone too, next to the existing "no race has a weapon racial".
+- Dates untouched: header and footer already read 04.11.2026.
