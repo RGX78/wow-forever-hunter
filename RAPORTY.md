@@ -533,3 +533,13 @@ Entries appear here when the server adds something to the sheet.
 - "Hunter buffs" row no longer says "not in official patch notes" — Blizzard's Nov 3 launch dev notes confirm the buff direction (no exact numbers of their own).
 - Dwarf bullet now says Mace Specialization is gone too, next to the existing "no race has a weapon racial".
 - Dates untouched: header and footer already read 04.11.2026.
+
+## 2026-11-04 16:07 — added to the sheet
+
+- Launch day has a maintenance window: it starts at 10:00 a.m. PST on Nov 4, and the servers are expected back at about 3:00 p.m. PST — which is the launch moment itself (midnight CET on Thursday, Nov 5). So don't plan on playing in the morning; your first playable time in Europe is the night of Nov 4 to 5. The Launch time note in "What's different" now says this.
+- Questie is now v12.5.1 and comes with a special _Forever.toc file, so it installs and loads as a proper Forever addon. Use the newest version when you set up your addons before launch — no new quest data, so your route does not change.
+- Race check: nothing changed today. Your dwarf racials (Big Game Hunter 5% vs Beasts, Artisan's Precision 1% hit, Stoneform, Find Treasure) are the same as yesterday.
+- Nothing new for your gun or your shots since the Nov 3 hotfix — the "Hunter buffs" row already has those live numbers.
+- Skipped: the Blizzard launch blog and hotfix post (no Forever hunter change; the Hotfixes post does not cover Forever), the "What's New" article, the gamepad article, and the other hunter guide pages — they repeat what the sheet already says.
+- Dates in the header and footer were already 04.11.2026; section ids, CSS and structure untouched; index.html refreshed.
+- Source: wow_digest/dane/2026-11-04_delta.txt (wowclassicforever patch notes — Latest updates, Nov 4; Questie commits, Nov 4)
