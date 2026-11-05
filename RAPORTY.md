@@ -562,3 +562,10 @@ Entries appear here when the server adds something to the sheet.
 - Not added: the rest of the sources (launch blog, racial summaries, guide reviews, gamepad, housing and mount news) is already on the sheet or not hunter news.
 - Dates in the header and footer were already 05.11.2026; section ids, CSS and structure untouched; index.html refreshed.
 - Source: wow_digest/dane/2026-11-05_delta.txt (Official WoW Forever forums via wowforeverbuilds, Nov 5; Blizzard news; Questie commits)
+
+## 2026-11-05 16:07 — added to the sheet
+- Races row cleanup: the sheet now says plainly that **Tauren Endurance is still 5% max Health only**. An older patch-notes line said it became "2% more critical damage and healing" — that was an early beta version, replaced by the October 26 final racial pass. If you group with a Tauren hunter, 5% HP is what you get.
+- Undead: Touch of the Dead now shows its chance (30% for casters, 20% for Paladins, Rogues and…) with a note that the source sentence is cut off, so nothing beyond it is confirmed. Touch of the Grave stays at a 15 s cooldown and now triggers more steadily. Touch of the Dead is not verified for hunters — do not build around it.
+- Not added: the rest of today's sources are guide reviews (Zygor / RestedXP), a Blizzard server-status help page, and Questie housekeeping commits — none of them changes how a hunter plays. The Auto Attack / Auto Shot switch was already in Essentials.
+- Header and footer dates were already 05.11.2026; section ids, CSS and structure untouched; index.html refreshed.
+- Source: wow_digest/dane/2026-11-05_delta.txt (wowclassicforever patch notes — Latest updates, re-read Nov 5; Questie commits)
