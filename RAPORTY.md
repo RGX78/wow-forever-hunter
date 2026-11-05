@@ -543,3 +543,11 @@ Entries appear here when the server adds something to the sheet.
 - Skipped: the Blizzard launch blog and hotfix post (no Forever hunter change; the Hotfixes post does not cover Forever), the "What's New" article, the gamepad article, and the other hunter guide pages — they repeat what the sheet already says.
 - Dates in the header and footer were already 04.11.2026; section ids, CSS and structure untouched; index.html refreshed.
 - Source: wow_digest/dane/2026-11-04_delta.txt (wowclassicforever patch notes — Latest updates, Nov 4; Questie commits, Nov 4)
+
+## 2026-11-05 00:07 — added to the sheet
+
+- **WoW Forever is live.** The launch note no longer talks about a future launch: it says the game went live on November 4 at 3:00 p.m. PST (= midnight CET on Nov 5), that the first hours may be crowded (just wait and retry if you get a queue or an error), and the header badge plus the footer say the same. The game's real client build on the live service is 1.60.1.70532.
+- **Install note rewritten:** the old "you can pre-install now" text is now "Install and start playing" — pick WoW Forever in the Battle.net app's Game Version menu. The fixes for a greyed-out Install button are still there.
+- **Questie is v12.6.0** (Nov 4): it fixes errors when you open the addon's settings window and cleans up the VoiceOver / Spoken play buttons (they refresh after combat, hide when the Spoken quest part is off, and there is a new tracker setting to hide them). No new Forever quest data. The Addon line in Zones and Dungeons is updated, the old "as of 04.11 / v12.5.1" tag is gone.
+- **Not added:** today's sources are mostly things already on the sheet — the Oct 26 final racial pass (Orc Blood Fury 2 min, Troll Berserking 15 s, Undead Touch of the Grave, Dwarf Artisan's Precision, Human 1% crit) is already in Essentials and the Races row; the hunter talent and race text on Forever Era / wow-forever.gg / wowf.io matches the sheet. The Nov 4 build 1.60.1.70790 is a beta build with "Classes: 0 changed", so nothing for hunters there.
+- **Raids:** Onyxia's Lair now reads **40 players** instead of "not announced yet", and all three level 60 raids — Barrow Deeps (10), Hyjal Summit (20), Onyxia's Lair (40) — **unlock on December 9**. Onyxia also needs the Drakefire Amulet attunement chain, so start it before then.
