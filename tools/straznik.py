@@ -158,12 +158,15 @@ def check(args):
                           f"a najnowszy raport jest z {rdate.strftime('%d.%m.%Y')} — robot nie zapisal zmian")
         notes.append(f"data w sciadze: {newest_sheet.strftime('%d.%m.%Y')}")
 
-    # 4) build number
-    builds = set(re.findall(r"1\.60\.\d+\.\d+", last["body"]))
-    for b in sorted(builds):
+    # 4) build number — tylko NAJNOWSZY (najwyzszy) build z raportu musi byc w sciadze;
+    #    raporty wymieniaja tez starsze buildy, ktorych sciaga nie musi trzymac
+    builds = sorted(set(re.findall(r"1\.60\.\d+\.\d+", last["body"])),
+                    key=lambda b: tuple(int(x) for x in b.split(".")))
+    if builds:
+        b = builds[-1]
         short = b.split(".")[-1]
         if b not in html and short not in html:
-            alerts.append(f"raport podaje build {b}, ktorego nie ma w sciadze")
+            alerts.append(f"raport podaje najnowszy build {b}, ktorego nie ma w sciadze")
 
     # 5) sprzecznosci
     pairs = [
