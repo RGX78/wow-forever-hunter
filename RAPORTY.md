@@ -578,3 +578,12 @@ Entries appear here when the server adds something to the sheet.
 - **Skipped:** launch blog items (Now Live, trailer, short story, Twitch toy — already in Essentials), housing/mount/poster/Talebound/BCCA news, and older beta racial blocks that the Oct 26 pass replaced. The "Frosthowl / Sack of Fish" and Skinning entries in the patch-notes source had no readable numbers in the delta.
 - Header and footer dates moved to 06.11.2026; section ids, CSS and structure untouched; index.html refreshed.
 - Source: wow_digest/dane/2026-11-06_delta.txt (wowclassicforever patch notes — Latest updates, Nov 6; Blizzard news; Questie commits, Nov 5)
+
+## 2026-11-06 08:07 — added to the sheet
+- **Questie is v12.6.2** (Nov 6): map coordinate settings fixed, a new "Blizzard" objective style in the dropdown, and its button in the addon menu now updates when you change profile. Fixes only — no new Forever quest data, your quest route does not change. The Addon line in "Zones and Dungeons" now reads v12.6.2.
+- **Ruins of Lordaeron dungeon quests now need prerequisites** (Wowhead, Nov 5). Do the open-world part before you go in, or you arrive with nothing to hand in. The exact chain is not in today's sources yet — I noted it plainly instead of guessing.
+- **Auction House: 1 silver minimum deposit** (Wowhead, Nov 5). Listing an item now costs at least 1s. With the 5% faction cut and a deposit lost on expired auctions, do not list anything worth a few silver — vendor it. Added to "Mistakes & Tips".
+- **Races and hunter abilities: unchanged today.** Still the October 26 final pass (Dwarf Big Game Hunter 5% vs Beasts + Artisan's Precision 1% hit + Stoneform, Orc Command +5% pet damage, Human Ruthless 1% crit, Skyborne Wind Blessed 3% haste). No ability, talent or hotfix numbers moved.
+- **Skipped:** the Nov 6 Wowhead hotfix (NPC fixes, Deathstalker Erland spawn rate) and the escort-quest investigation are headlines only in the source — no text, no hunter numbers, so nothing to write. The server-help note about temporary portals and layer tuning is unconfirmed and not a hunter mechanic.
+- Header and footer dates were already 06.11.2026; section ids, CSS and structure untouched; index.html refreshed.
+- Source: wow_digest/dane/2026-11-06_delta.txt (Questie commits, Nov 6; Wowhead headlines via wowforeverbuilds, Nov 5)
