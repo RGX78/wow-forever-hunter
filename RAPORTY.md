@@ -587,3 +587,11 @@ Entries appear here when the server adds something to the sheet.
 - **Skipped:** the Nov 6 Wowhead hotfix (NPC fixes, Deathstalker Erland spawn rate) and the escort-quest investigation are headlines only in the source — no text, no hunter numbers, so nothing to write. The server-help note about temporary portals and layer tuning is unconfirmed and not a hunter mechanic.
 - Header and footer dates were already 06.11.2026; section ids, CSS and structure untouched; index.html refreshed.
 - Source: wow_digest/dane/2026-11-06_delta.txt (Questie commits, Nov 6; Wowhead headlines via wowforeverbuilds, Nov 5)
+
+## 2026-11-06 16:07 — added to the sheet
+- **Questie is officially out as v12.6.2** (Nov 6). The fixes I logged earlier today are now a tagged release, so if you install Questie for Forever, take 12.6.2. On top of the earlier fixes it moves the world map button to the right place, stops the map coordinate setting from resetting, and adds more Forever names to the developer list.
+- **No new quest data** in it: your quest route does not change. The Addon line in "Zones and Dungeons" just now says this package is the released version.
+- **Hunter numbers and racials: unchanged today.** Dwarf, Orc, Troll, Tauren, Human, Undead and Skyborne stay exactly as in the October 26 final pass. No ability, talent or hotfix numbers moved.
+- **Skipped:** wowclassicforever's new "Quest hub" page (Ragefire Chasm and Ruins of Lordaeron dungeon quest checklists) is a website feature, not a change in the game — and the Ruins of Lordaeron prerequisites are already on the sheet. The "Server help" note about temporary portals and layer tuning is still unconfirmed. Older patch-notes racial blocks (Earth Fury, Savage, Wind Blessed 1%, Tauren Endurance 2% crit) are replaced by the Oct 26 pass and were not re-added.
+- Header and footer dates were already 06.11.2026; section ids, CSS and structure untouched; index.html refreshed.
+- Source: wow_digest/dane/2026-11-06_delta.txt (Questie commits, Nov 6; wowclassicforever patch notes — Latest updates, Nov 6; Blizzard news)
