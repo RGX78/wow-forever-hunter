@@ -569,3 +569,12 @@ Entries appear here when the server adds something to the sheet.
 - Not added: the rest of today's sources are guide reviews (Zygor / RestedXP), a Blizzard server-status help page, and Questie housekeeping commits — none of them changes how a hunter plays. The Auto Attack / Auto Shot switch was already in Essentials.
 - Header and footer dates were already 05.11.2026; section ids, CSS and structure untouched; index.html refreshed.
 - Source: wow_digest/dane/2026-11-05_delta.txt (wowclassicforever patch notes — Latest updates, re-read Nov 5; Questie commits)
+
+## 2026-11-06 00:07 — added to the sheet
+- **First legendary is real, but not in the game yet.** Blizzard revealed **Taldramir, the Whispering Wood** as WoW Forever's first legendary. Wowhead and wowclassicforever checked the live client (1.60.1.70790) and the item is **not in the game files** — so no stats, no known source, and nobody knows if a hunter can use it. New note in "What's different" (t-new): treat it as a story announcement, not a farming plan.
+- **New hunter UI option: Auto Attack / Auto Shot.** A hunter now switches between melee and Auto Shot on its own (gamepad too). It changes no damage and no ability — turn it on only if you like the game doing it for you. Also in "What's different" (t-new).
+- **Questie is v12.6.1** (Nov 5): hides one wrong quest entry and shows Questie in the in-game addon compartment button, so you can open its settings from there. No new Forever quest data, your quest route does not change. The Addon line in Zones and Dungeons now reads v12.6.1 (as of 06.11).
+- **Races / hunter numbers: unchanged today.** Still the October 26 final pass (Dwarf Big Game Hunter 5% vs Beasts + Artisan's Precision 1% hit + Stoneform, Orc Command +5% pet damage, Human Ruthless 1% crit, Skyborne Wind Blessed 3% haste). Some guide pages still print older 2% haste text — the sheet keeps 3%.
+- **Skipped:** launch blog items (Now Live, trailer, short story, Twitch toy — already in Essentials), housing/mount/poster/Talebound/BCCA news, and older beta racial blocks that the Oct 26 pass replaced. The "Frosthowl / Sack of Fish" and Skinning entries in the patch-notes source had no readable numbers in the delta.
+- Header and footer dates moved to 06.11.2026; section ids, CSS and structure untouched; index.html refreshed.
+- Source: wow_digest/dane/2026-11-06_delta.txt (wowclassicforever patch notes — Latest updates, Nov 6; Blizzard news; Questie commits, Nov 5)
