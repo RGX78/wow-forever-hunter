@@ -607,3 +607,8 @@ Entries appear here when the server adds something to the sheet.
 ## 2026-11-07 08:07 — no sheet change
 - The Races row was re-checked against the hunter guides: "no race has a ranged weapon racial" is now confirmed (gone since the Oct 15 build, kept gone by the Oct 26 notes; Human Ruthless 1% crit with any weapon, Earth Fury and Savage removed, melee/ranged/spell hit is one stat). Numbers unchanged — only the row's date tag moved to (as of 07.11).
 - Nothing else new for a hunter today. Wowhead's "Upcoming Pet Changes / Class Tuning for November 10th" is a headline with no text yet — queued in NEWSY.md for the next run that has the actual notes.
+
+## 2026-11-07 16:07 — added to the sheet
+- New client data build 70862 is now on the sheet: the live game runs 1.60.1.70862 (install note), and it added 10 Endless consumables, six weapons and five companion pets plus Molten Core item level updates — no hunter ability or talent numbers changed, so your rotation stays the same (wowclassicforever, Nov 7).
+- Questie is now v12.6.3 (Addon line): fixes a possible protected-function error in combat, hides some not-yet-implemented priest quests from the map, and stops wrapping option titles being cut off. No new Forever quest data — your quest route does not change.
+- Nothing new for hunters on racials, talents or hotfix numbers today; the "Class Tuning for November 10th" headline still has no readable text, so it stays queued for a future run.
