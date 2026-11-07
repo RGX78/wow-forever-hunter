@@ -595,3 +595,11 @@ Entries appear here when the server adds something to the sheet.
 - **Skipped:** wowclassicforever's new "Quest hub" page (Ragefire Chasm and Ruins of Lordaeron dungeon quest checklists) is a website feature, not a change in the game — and the Ruins of Lordaeron prerequisites are already on the sheet. The "Server help" note about temporary portals and layer tuning is still unconfirmed. Older patch-notes racial blocks (Earth Fury, Savage, Wind Blessed 1%, Tauren Endurance 2% crit) are replaced by the Oct 26 pass and were not re-added.
 - Header and footer dates were already 06.11.2026; section ids, CSS and structure untouched; index.html refreshed.
 - Source: wow_digest/dane/2026-11-06_delta.txt (Questie commits, Nov 6; wowclassicforever patch notes — Latest updates, Nov 6; Blizzard news)
+
+## 2026-11-07 00:07 — added to the sheet
+- **November 5 Forever hotfixes** (Zones and Dungeons): NPC spawns, Zephras Isle trainers and bags, Mild Spices, Plainsrunning while carrying battleground flags, Sisterhood of Elune and Escorting Erland quests — new text in today's delta (yesterday's file did not carry it). Source: Blizzard news "WoW: Forever Hotfixes - November 5, 2026" + Wowhead, Nov 6.
+- **Macro troubleshooting note** (Macros tab): /petattack needs a current target, weapon-swap macros need both weapons in non-greyed slots, /use fails silently on cooldown. Source: wowclassicforever Macros page (launch-day player reports), Nov 6.
+- **Dates:** header sub line and footer set to 07.11.2026.
+- **Skipped:** stillsixty Hunter race text (Dwarf Big Game Hunter + Artisan's Precision, Orc Command, Human Ruthless/Spirit, Skyborne Wind Blessed 2%) — already on the sheet, Wind Blessed stays 3% per the Oct 26 final pass; Forever Era / wowclassicforever / wowf.io Hunter pages = text already covered, the Oct 15 racial block is superseded; Blizzard news items (Taldramir, Twitch toy, housing, mount, gamepad, Discord) = not hunter news; wow-forever.gg = 403 Forbidden; wow-ui-source = retail 12.1.5, not Forever.
+- No racial change, no hunter ability number change in this delta.
+- Sources: wow_digest/dane/2026-11-07_delta.txt (Blizzard news, Wowhead headlines, wowclassicforever patch notes / Latest updates, stillsixty, Forever Era, wowforeverbuilds).
