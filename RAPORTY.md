@@ -603,3 +603,7 @@ Entries appear here when the server adds something to the sheet.
 - **Skipped:** stillsixty Hunter race text (Dwarf Big Game Hunter + Artisan's Precision, Orc Command, Human Ruthless/Spirit, Skyborne Wind Blessed 2%) — already on the sheet, Wind Blessed stays 3% per the Oct 26 final pass; Forever Era / wowclassicforever / wowf.io Hunter pages = text already covered, the Oct 15 racial block is superseded; Blizzard news items (Taldramir, Twitch toy, housing, mount, gamepad, Discord) = not hunter news; wow-forever.gg = 403 Forbidden; wow-ui-source = retail 12.1.5, not Forever.
 - No racial change, no hunter ability number change in this delta.
 - Sources: wow_digest/dane/2026-11-07_delta.txt (Blizzard news, Wowhead headlines, wowclassicforever patch notes / Latest updates, stillsixty, Forever Era, wowforeverbuilds).
+
+## 2026-11-07 08:07 — no sheet change
+- The Races row was re-checked against the hunter guides: "no race has a ranged weapon racial" is now confirmed (gone since the Oct 15 build, kept gone by the Oct 26 notes; Human Ruthless 1% crit with any weapon, Earth Fury and Savage removed, melee/ranged/spell hit is one stat). Numbers unchanged — only the row's date tag moved to (as of 07.11).
+- Nothing else new for a hunter today. Wowhead's "Upcoming Pet Changes / Class Tuning for November 10th" is a headline with no text yet — queued in NEWSY.md for the next run that has the actual notes.
