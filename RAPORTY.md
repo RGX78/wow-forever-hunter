@@ -627,3 +627,13 @@ Entries appear here when the server adds something to the sheet.
 - **Dates:** header and footer already read 08.11.2026; section ids, CSS and structure untouched; index.html refreshed.
 - **Skipped:** settings/UI advice (language, Classic or Enhanced preset, Discord linking, gamepad beta), Taldramir legendary (still sealed, 949 encrypted records), launch stats (biggest launch, world first 60s, Lexicon client), Blizzard news posts about the launch — none of them change a hunter's numbers.
 - Source: wow_digest/dane/2026-11-08_delta.txt (wowforeverbuilds, Warcraft Tavern, stillsixty, Blizzard news)
+
+## 2026-11-08 16:07 — added to the sheet
+- **Excavation Site: Wetlands (Zones and Dungeons):** the quest cards for both factions now list the **Satchel of Potions**. It hands out random potions, so treat it as a free top-up before a pull, not a guaranteed heal — do not plan a hard fight around it.
+- **Wailing Caverns (Zones and Dungeons):** the quest checklist now spells out the **99-Year-Old Port** chain — take the quest in **Ratchet**, kill **Mad Magglish** *before* you enter the instance, carry the item in and hand it back on the way out. If you miss Mad Magglish, the quest is wasted.
+- **Questie (Addon line):** the Nov 8 commits fix the **"Reload UI"** option in the minimap dropdown on Forever and remove the old **"Show Blizzard Timer"** setting. Fixes only, no new Forever quest data — your quest route does not change. Latest version to install is still **v12.6.4**.
+- **Racials: no change.** Dwarf Big Game Hunter 5% vs Beasts + Artisan's Precision 1% hit + Stoneform are still the live numbers, and so are the Orc / Troll / Human / Skyborne ones from the Oct 26 final pass.
+- **Still waiting: the November 10 class tuning.** The dev-notes thread shows no change today, and hunter pet numbers are still unpublished — ask Orion after Nov 10.
+- **Dates:** header and footer already read 08.11.2026; section ids, CSS and structure untouched; index.html refreshed.
+- **Skipped:** the superseded Oct 15 beta racial block (Earth Fury, Savage, Blood Fury 3 min, Shatter Curse, Human Sword Specialization, Skyborne 1%, Tauren Endurance), hunter guide text already on the sheet (shared 30 s trap cooldown, Aimed Shot no longer a talent, no ranged weapon racials, Sniper Shot 45 yd, Deflection), a wowclassicforever "Cooking" update the delta cut off mid-sentence, and the Blizzard launch/weekly posts — none of them change a hunter's numbers.
+- Source: wow_digest/dane/2026-11-08_delta.txt (wowclassicforever Latest updates, Questie commits, Blizzard news)
