@@ -612,3 +612,9 @@ Entries appear here when the server adds something to the sheet.
 - New client data build 70862 is now on the sheet: the live game runs 1.60.1.70862 (install note), and it added 10 Endless consumables, six weapons and five companion pets plus Molten Core item level updates — no hunter ability or talent numbers changed, so your rotation stays the same (wowclassicforever, Nov 7).
 - Questie is now v12.6.3 (Addon line): fixes a possible protected-function error in combat, hides some not-yet-implemented priest quests from the map, and stops wrapping option titles being cut off. No new Forever quest data — your quest route does not change.
 - Nothing new for hunters on racials, talents or hotfix numbers today; the "Class Tuning for November 10th" headline still has no readable text, so it stays queued for a future run.
+
+## 2026-11-08 00:07 — added to the sheet
+- Pet warning: Blizzard has announced class tuning that includes hunter pets for November 10, 2026. No numbers are out yet, so nothing on your rotation changed today — the Pets row now says the change is coming and to ask Orion after Nov 10 once the notes are readable.
+- Racial check: the Nov 10 tuning post is not published yet, so no racial changed — Dwarf Big Game Hunter 5% vs Beasts + Artisan's Precision 1% hit + Stoneform are still the live numbers, and so are the Orc / Troll / Human / Skyborne ones. Essentials and the Races row re-dated (as of 08.11).
+- Questie is now v12.6.4: "Available Quests" on the minimap menu works again, Questie dropdown menus hide themselves on Forever, and the tracker counts quest items instead of scanning your bags. No new Forever quests — your route does not change.
+- Dates in the header and footer now read 08.11.2026.
