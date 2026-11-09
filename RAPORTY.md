@@ -652,3 +652,12 @@ Entries appear here when the server adds something to the sheet.
 - **Dates:** header and footer set to 09.11.2026; section ids, CSS and structure untouched; index.html refreshed.
 - **Skipped:** the "biggest launch in WoW history" post (player counts, no hunter numbers), the older Oct 26 / Sept 22 blue posts repeated in the sources, the superseded Oct 15 beta racial block, Taldramir (still sealed) and launch-week Blizzard posts — none of them change a hunter's numbers.
 - Source: wow_digest/dane/2026-11-09_delta.txt (wowforeverbuilds, wowclassicforever, stillsixty, Blizzard news)
+
+## 2026-11-09 16:07 — added to the sheet
+- **Weapon sources are now mapped (Gear):** the Forever weapon guides now show where **87 new Forever weapons** come from, and every level-band pick says how hard it is to get and whether a **group run beats the best quest or vendor weapon**. The sheet now says: before you farm a gun, check the source and the level band — a quest or vendor gun is often the faster upgrade.
+- **Gun note:** this is a gun-friendly change — it makes finding your next rifle cheaper in time, no need to run a dungeon for a drop that a quest gives you.
+- **Racials: no change.** The Oct 26 final pass numbers are still the live ones (Artisan's Precision 1% hit, Command +5% pet damage, Berserking 15 s, Touch of the Grave 15 s cooldown, Wind Blessed 3% haste, Ruthless 1% crit / Human Spirit 10%).
+- **Still waiting: the November 10 class tuning.** Hunter pets and Warlock Voidwalkers get stats that make them tank about as well as in Classic Era — still no exact numbers in the text, so the sheet stays as it is until the hotfix lands.
+- **Dates:** header and footer already read 09.11.2026; section ids, CSS and structure untouched; index.html refreshed.
+- **Skipped:** the "Dungeon XP +50%" line on wowclassicforever (already on the sheet since the 08:07 run), the "nine dungeon guides" site update (tooling, no hunter numbers), the older Oct 26 / Nov 2 / Sept 22 blue posts repeated in the sources, the superseded Oct 15 beta racial block, and Questie's Nov 8–9 commits (fixes only, no new Forever quest data).
+- Source: wow_digest/dane/2026-11-09_delta.txt (wowclassicforever Latest updates, Questie commits, Blizzard news)
