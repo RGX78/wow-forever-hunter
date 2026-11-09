@@ -37,6 +37,26 @@ ENTITIES = [
 
 TIME_ZONES = {"CEST": 2, "CET": 1, "PDT": -7, "PST": -8, "UTC": 0, "GMT": 0}
 
+MONTHS = {"jan": 1, "feb": 2, "mar": 3, "apr": 4, "may": 5, "jun": 6,
+          "jul": 7, "aug": 8, "sep": 9, "oct": 10, "nov": 11, "dec": 12}
+
+
+def _note_date(ctx):
+    """Data zdarzenia z kontekstu notki: 'november 8', 'nov&nbsp;8' albo '08.11.2026'.
+    Zwraca datetime.date albo None, gdy notka nie podaje daty."""
+    for m in re.finditer(r"(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*"
+                         r"(?:\s|&nbsp;)*(\d{1,2})", ctx):
+        try:
+            return dt.date(dt.date.today().year, MONTHS[m.group(1)], int(m.group(2)))
+        except ValueError:
+            continue
+    for m in re.finditer(r"\b(\d{1,2})\.(\d{2})\.(\d{4})\b", ctx):
+        try:
+            return dt.date(int(m.group(3)), int(m.group(2)), int(m.group(1)))
+        except ValueError:
+            continue
+    return None
+
 
 def norm(text):
     return text.replace("&nbsp;", " ").replace("\xa0", " ")
@@ -194,17 +214,25 @@ def check(args):
             off = TIME_ZONES.get(tzname)
             if off is None:
                 continue
+            # Notka moze dotyczyc WCZORAJSZEGO zdarzenia ("11:05 PST on November 8"),
+            # wiec date bierzemy z kontekstu wokol godziny, nie z "dzisiaj".
+            idx = block.find(f"{hh}:{mm}")
+            ctx = block_low[max(0, idx - 220): idx + 220]
+            m_date = _note_date(ctx)
+            note_day = m_date if m_date else today
             when = now_utc.replace(hour=0, minute=0, second=0, microsecond=0) \
                 + dt.timedelta(hours=int(hh) - off, minutes=int(mm))
+            if note_day != today:
+                when += dt.timedelta(days=(note_day - today).days)
             if when <= now_utc:
                 continue
             for phrase in ("beta is over", "beta has ended", "no beta client", "beta ended",
                            "open now", "now open", "is open", "opened", "is closed", "has closed"):
-                if phrase in block_low:
-                    snippet = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", block))[:90]
+                if phrase in ctx:
+                    snippet = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", ctx))[:90]
                     warns.append(f'"{phrase}" przy godzinie {hh}:{mm} {tzname}, ktora jeszcze nie minela '
-                                 f"(teraz {now_utc.strftime('%H:%M')} UTC) — notka moze wyprzedzac fakt: "
-                                 f"„{snippet.strip()}…”")
+                                 f"(teraz {now_utc.strftime('%H:%M')} UTC, notka z {note_day.strftime('%d.%m')}) — "
+                                 f"notka moze wyprzedzac fakt: „{snippet.strip()}…”")
                     break
 
     # 7) byty z raportu (pomijajac 'checked but not added')
