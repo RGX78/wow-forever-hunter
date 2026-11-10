@@ -672,3 +672,13 @@ Entries appear here when the server adds something to the sheet.
 - **Waylaid Crates and Craftsman's Writs can now drop inside dungeons** — the "keep every crate" line in Gear now says where to get them. → Gear
 - No racial changed: the Oct 26 final pass numbers stand. The pet-tuning hotfix for November 10 is unchanged from the last run (still no exact numbers published).
 - Not added: PvP ruleset balancing and thinner crowded zones (Nov 10, official forums) — population news, not a hunter mechanic; it is in the Queue section of NEWSY.md.
+
+## 2026-11-10 16:08 — added to the sheet
+- **November 9 hotfix, more of it (Zones and Dungeons):** the same Blizzard post also fixed **Fishing getting stuck**, put **bank tabs back inside the bank frame**, and **Vorsha the Lasher** was switched off again for a crash and is fixed now. The hotfix line on the sheet was **extended**, not copied twice.
+- **Darkmoon Faire is open (Zones and Dungeons):** it opened in Forever for the **first time on November 9** — free buffs and **prize tickets** for darkmoon cards and trinkets. It is the normal monthly Faire, so check the calendar before you travel.
+- **Questie v12.6.5 (Zones and Dungeons):** now shows **party members' objectives for quests you finished but did not turn in yet**, and cuts **lag spikes** from party objectives and from the tracker updating. Fixes only — **no new Forever quest data, your route does not change**. Version tag moved 08.11 → 10.11.
+- **Racials: no change.** Oct 26 final pass numbers still stand (Artisan's Precision 1% hit for a Dwarf, Command +5% pet damage, Berserking 15 s, Touch of the Grave 15 s cooldown, Wind Blessed 3% haste, Ruthless 1% crit).
+- **No hunter ability numbers changed** today. The Nov 10 pet-tuning text in the sources is the same unnumbered note already on the Pets row.
+- **Dates:** header and footer already read 10.11.2026; section ids, CSS and structure untouched; index.html refreshed.
+- **Skipped:** the superseded Oct 15 beta racial block in the long patch-notes snippets, the PvP 50/50 faction balance post (population news, in Queue), the Blizzard launch/trailer/WoW Weekly posts and wow-ui-source 12.1.5 builds (Midnight branch, not Forever).
+- Source: wow_digest/dane/2026-11-10_delta.txt (wowforeverbuilds, Warcraft Tavern, wowclassicforever, Questie commits)
