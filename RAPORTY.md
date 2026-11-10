@@ -666,3 +666,9 @@ Entries appear here when the server adds something to the sheet.
 - Pet tuning day (November 10) is now written as a fact on the Pets row: hunter pets and Warlock Voidwalkers get stats that make them tank about as well as in Classic Era. Blizzard still published no exact numbers, so the sheet says to check your pet's health and armour yourself.
 - Races row date tag moved to 10.11 with the same check note: hunter pet stats buffed Nov 10, no racial changed — the Oct 26 racial numbers still stand.
 - Both sheet dates (header + footer) set to 10.11.2026. No other page content changed: nothing else in today's sources was hunter news.
+
+## 2026-11-10 08:08 — added to the sheet
+- **November 9 hotfix (new):** The Drowned City (35–40) was hitting about 30% too hard because of a bug — fixed. Deathless Marrow lost health and damage, missing loot in Alcaz Prison and Shaper's Terrace is fixed, and a long list of class bugs went (Arcane Concentration → Summon Felsteed). No hunter ability numbers changed. → Zones and Dungeons
+- **Waylaid Crates and Craftsman's Writs can now drop inside dungeons** — the "keep every crate" line in Gear now says where to get them. → Gear
+- No racial changed: the Oct 26 final pass numbers stand. The pet-tuning hotfix for November 10 is unchanged from the last run (still no exact numbers published).
+- Not added: PvP ruleset balancing and thinner crowded zones (Nov 10, official forums) — population news, not a hunter mechanic; it is in the Queue section of NEWSY.md.
