@@ -661,3 +661,8 @@ Entries appear here when the server adds something to the sheet.
 - **Dates:** header and footer already read 09.11.2026; section ids, CSS and structure untouched; index.html refreshed.
 - **Skipped:** the "Dungeon XP +50%" line on wowclassicforever (already on the sheet since the 08:07 run), the "nine dungeon guides" site update (tooling, no hunter numbers), the older Oct 26 / Nov 2 / Sept 22 blue posts repeated in the sources, the superseded Oct 15 beta racial block, and Questie's Nov 8–9 commits (fixes only, no new Forever quest data).
 - Source: wow_digest/dane/2026-11-09_delta.txt (wowclassicforever Latest updates, Questie commits, Blizzard news)
+
+## 2026-11-10 00:07 — added to the sheet
+- Pet tuning day (November 10) is now written as a fact on the Pets row: hunter pets and Warlock Voidwalkers get stats that make them tank about as well as in Classic Era. Blizzard still published no exact numbers, so the sheet says to check your pet's health and armour yourself.
+- Races row date tag moved to 10.11 with the same check note: hunter pet stats buffed Nov 10, no racial changed — the Oct 26 racial numbers still stand.
+- Both sheet dates (header + footer) set to 10.11.2026. No other page content changed: nothing else in today's sources was hunter news.
