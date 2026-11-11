@@ -487,3 +487,14 @@ Rule: **do not add again** anything from the "Already in the sheet" list. Log ne
 - PvP ruleset balancing (Nov 10): character creation now looks at region-wide faction balance and crowded zones hold fewer players — only worth a sheet note if it changes leveling on PvP rulesets.
 - GMs appeared in-person to celebrate the launch; Black Market Auction House / global raid launch / quest helpers (MrGM interview) — headline only in the delta, no readable detail.
 - Missed Shaman totems from Monday's server issue (Wowhead Nov 11) — check a later run for whether it affected hunters' pet summoning too.
+
+## 2026-11-11 entries (run 5, 16:07 UTC)
+- 2026-11-11 — Dungeon XP reality check added to the dungeon-XP bullet: even after the Nov 8 +50% hotfix, **dungeon XP in Forever is about 60% of Classic Era** and Blizzard says it is happy with dungeon leveling now, so no more buffs are coming — dungeons are for gear and quest rewards, open-world questing is still the faster way to level. The old line ended at "+50%, no target rate" and now carries the real comparison (Wowhead, Nov 10, "Dungeon Experience in WoW: Forever is Now 60% of Classic Era") -> Zones and Dungeons (t-map)
+- 2026-11-11 — dates: header sub line and footer already read 11.11.2026 (unchanged this run) -> header / footer
+- 2026-11-11 — NOT added: the Nov 10 pet hotfix (150% -> 115% pet health), Stormstrike / Wrack / Warlock-demon parts, level 48+ quest gold, Nov 9 Drowned City + crate fixes, PvP 50/50 rulesets, Questie v12.6.5 and its Nov 10-11 commits (party-member progress on the tracker, missing-quest guard, QuestieDB README) are all already on the sheet or in Queue from runs 1-4 today — the Nov 11 Questie commits are fixes only, no new Forever quest data, version stays v12.6.5; Blizzard news / stillsixty / Forever Era = launch posts and the Oct 26 + Nov 27 + Nov 2 blue posts (superseded or non-hunter); wowf.io BM leveling = general rotation advice already reflected; Night Watchman's Torch / Dawn Waker (Wowhead headlines) = link-only teasers with no readable text, queued
+
+## Queue (to add in future runs)
+- PvP ruleset balancing (Nov 10): character creation now looks at region-wide faction balance and crowded zones hold fewer players — only worth a sheet note if it changes leveling on PvP rulesets.
+- GMs appeared in-person to celebrate the launch; Black Market Auction House / global raid launch / quest helpers (MrGM interview) — headline only in the delta, no readable detail.
+- Missed Shaman totems from Monday's server issue (Wowhead Nov 11) — check a later run for whether it affected hunters' pet summoning too.
+- "Secret Hunt in WoW: Forever with the Night Watchman's Torch" and "New Dawn Waker Secret Found" (Wowhead, Nov 10) — headline only, no readable steps; add as a secrets note once a source carries the actual content.

@@ -697,3 +697,8 @@ Entries appear here when the server adds something to the sheet.
 - **November 10 hotfix** now has its own line in Zones and Dungeons: pet health change plus the Shaman and Warlock tuning.
 - **Quest gold at level 48+ is live** — the hotfix landed, so hand in your high-level quests instead of holding them.
 - Races: no racial changed today — the October 26 numbers on the sheet are still the live ones.
+
+## 2026-11-11 16:07 — added to the sheet
+- Dungeon XP has a real number now: even after the Nov 8 hotfix (+50% kill XP), dungeons in Forever give about **60% of Classic Era XP**, and Blizzard says it is happy with that — so dungeons are for gear and quest rewards, and open-world questing is still the faster way to level (Wowhead, Nov 10). This replaces the old "no target rate" wording so the sheet does not look like more buffs are coming.
+- No hunter class, talent, pet or racial change today — the Nov 10 pet health fix (150% → 115%) was already added earlier today, and the Nov 11 Questie commits are fixes only (still v12.6.5, your quest route does not change).
+- Queued for later runs: the Night Watchman's Torch / Dawn Waker secrets (headline only, no readable steps) and the Shaman totem follow-up.
