@@ -682,3 +682,12 @@ Entries appear here when the server adds something to the sheet.
 - **Dates:** header and footer already read 10.11.2026; section ids, CSS and structure untouched; index.html refreshed.
 - **Skipped:** the superseded Oct 15 beta racial block in the long patch-notes snippets, the PvP 50/50 faction balance post (population news, in Queue), the Blizzard launch/trailer/WoW Weekly posts and wow-ui-source 12.1.5 builds (Midnight branch, not Forever).
 - Source: wow_digest/dane/2026-11-10_delta.txt (wowforeverbuilds, Warcraft Tavern, wowclassicforever, Questie commits)
+
+## 2026-11-11 00:07 — added to the sheet
+- **New client build 70888 (November 10) checked talent by talent:** all **467 talents are unchanged** — no hunter talent moved, so **your build and rotation stay exactly as they are**. The patch-notes site also says the **announced class tuning is not in the client data** yet. → Forever Changes (tuning note)
+- **Level 60 quest gold (Gold tab):** quests at level 60 give **no bonus gold** right now, and a **hotfix due within a day adds gold to most quests of level 48 and up** — the sheet says to **hold high-level hand-ins until it lands**. Not a hunter-only change, but it is free gold for your 48–60 levels.
+- **Racials: no change.** Oct 26 final numbers still stand (Dwarf Artisan's Precision 1% hit, Big Game Hunter 5% vs Beasts, Stoneform; Orc Command +5% pet damage; Troll Berserking 15 s; Undead Touch of the Grave 15 s; Skyborne Wind Blessed 3% haste). Everything racial in today's sources was the old October 15 beta text (Earth Fury, Savage, Endurance 2% crit damage, Wind Blessed 1%) — already superseded, not re-added.
+- **No hunter ability numbers changed.** Pet tuning numbers still unpublished — that item stays in Queue in NEWSY.md.
+- **Dates:** header and footer set to 11.11.2026; section ids, CSS and structure untouched; index.html refreshed.
+- **Skipped:** Blizzard news blog (Nov 9 hotfix already on the sheet, launch/trailer/poster signing/Discord/Twitch toy posts), stillsixty + The Forever Era repeats of the Oct 26 / Nov 2 blue posts, wowforeverbuilds items already on the sheet since 09.11–10.11, Questie Nov 10 commits (fixes and translations only, still v12.6.5), wow-ui-source 12.1.5 builds (Midnight branch, not Forever).
+- Source: wow_digest/dane/2026-11-11_delta.txt (wowclassicforever Latest updates, Questie commits, Blizzard news)
