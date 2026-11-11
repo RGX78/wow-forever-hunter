@@ -691,3 +691,9 @@ Entries appear here when the server adds something to the sheet.
 - **Dates:** header and footer set to 11.11.2026; section ids, CSS and structure untouched; index.html refreshed.
 - **Skipped:** Blizzard news blog (Nov 9 hotfix already on the sheet, launch/trailer/poster signing/Discord/Twitch toy posts), stillsixty + The Forever Era repeats of the Oct 26 / Nov 2 blue posts, wowforeverbuilds items already on the sheet since 09.11–10.11, Questie Nov 10 commits (fixes and translations only, still v12.6.5), wow-ui-source 12.1.5 builds (Midnight branch, not Forever).
 - Source: wow_digest/dane/2026-11-11_delta.txt (wowclassicforever Latest updates, Questie commits, Blizzard news)
+
+## 2026-11-11 08:07 — added to the sheet
+- **Hunter pet health numbers are in.** The November 10 hotfix fixed a bug that had pets at 150% health — they are now at 115%. Still tougher than in Classic Era, but weaker than the last few days, so feed and Mend Pet more on big pulls (Warlock demons went up to about +15%). The old "no numbers yet" note is gone.
+- **November 10 hotfix** now has its own line in Zones and Dungeons: pet health change plus the Shaman and Warlock tuning.
+- **Quest gold at level 48+ is live** — the hotfix landed, so hand in your high-level quests instead of holding them.
+- Races: no racial changed today — the October 26 numbers on the sheet are still the live ones.
