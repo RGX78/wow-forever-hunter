@@ -707,3 +707,12 @@ Entries appear here when the server adds something to the sheet.
 - Questie is now v12.7.0 (Nov 11–12). Escort quests no longer start by themselves — "Dunston Checks Out" and "Lost in the Shadows" stopped auto-accepting, so an escort can't run off before you are ready. Old Season of Discovery Ashenvale quests (Dragonslayer's and PvP) are blacklisted and stay off your map. Fixes only, no new Forever quest data, so your quest route does not change. Install the new version.
 - Nothing else is new. The November 10 hotfix on the sheet is still current: hunter pets at 115% health (down from a bugged 150%), quests of level 48 and up pay extra gold, and no hunter ability number changed.
 - No racial changed, no new class tuning.
+
+## 2026-11-12 08:07 — added to the sheet
+- **November 11 hotfix, the part that touches you (Gold tab):** five Tailoring bags — **Green Woolen Bag**, **Red Woolen Bag**, **Green Silk Pack**, **Black Silk Pack**, **Red Mageweave Bag** — now need **one more bolt of cloth** and **hold more slots**, so cloth per bag slot is cheaper. Useful if your bank alt sells bags in week one.
+- **Item Restoration is turned off for now.** Do not vendor or delete a piece you might want back — there is no restore button at the moment.
+- **Rest of the hotfix is not yours:** Paladin Judgement became a ranged attack and three stuck quests are fixed. No hunter ability number changed.
+- **Racials: no change.** The October 26 numbers on the sheet are still the live ones (Dwarf Artisan's Precision 1% hit, Big Game Hunter 5% vs Beasts, Stoneform; Orc Command +5% pet damage; Troll Berserking 15 s; Undead Touch of the Grave 15 s; Skyborne Wind Blessed 3% haste). Everything racial in today's sources is the old October 15 beta text — superseded, not re-added.
+- **Dates:** header and footer already read 12.11.2026; section ids, CSS and structure untouched; index.html refreshed.
+- **Skipped:** launch/edition/news posts, the Pouch of Violet Dust Twitch drop, Questie v12.7.0 (added by the earlier run today), wow-ui-source 12.1.5 builds (Midnight branch, not Forever).
+- Source: wow_digest/dane/2026-11-12_delta.txt (wowclassicforever patch notes — Latest updates, Nov 12)
