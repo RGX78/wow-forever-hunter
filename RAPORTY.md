@@ -702,3 +702,8 @@ Entries appear here when the server adds something to the sheet.
 - Dungeon XP has a real number now: even after the Nov 8 hotfix (+50% kill XP), dungeons in Forever give about **60% of Classic Era XP**, and Blizzard says it is happy with that — so dungeons are for gear and quest rewards, and open-world questing is still the faster way to level (Wowhead, Nov 10). This replaces the old "no target rate" wording so the sheet does not look like more buffs are coming.
 - No hunter class, talent, pet or racial change today — the Nov 10 pet health fix (150% → 115%) was already added earlier today, and the Nov 11 Questie commits are fixes only (still v12.6.5, your quest route does not change).
 - Queued for later runs: the Night Watchman's Torch / Dawn Waker secrets (headline only, no readable steps) and the Shaman totem follow-up.
+
+## 2026-11-12 00:08 — added to the sheet
+- Questie is now v12.7.0 (Nov 11–12). Escort quests no longer start by themselves — "Dunston Checks Out" and "Lost in the Shadows" stopped auto-accepting, so an escort can't run off before you are ready. Old Season of Discovery Ashenvale quests (Dragonslayer's and PvP) are blacklisted and stay off your map. Fixes only, no new Forever quest data, so your quest route does not change. Install the new version.
+- Nothing else is new. The November 10 hotfix on the sheet is still current: hunter pets at 115% health (down from a bugged 150%), quests of level 48 and up pay extra gold, and no hunter ability number changed.
+- No racial changed, no new class tuning.
