@@ -716,3 +716,11 @@ Entries appear here when the server adds something to the sheet.
 - **Dates:** header and footer already read 12.11.2026; section ids, CSS and structure untouched; index.html refreshed.
 - **Skipped:** launch/edition/news posts, the Pouch of Violet Dust Twitch drop, Questie v12.7.0 (added by the earlier run today), wow-ui-source 12.1.5 builds (Midnight branch, not Forever).
 - Source: wow_digest/dane/2026-11-12_delta.txt (wowclassicforever patch notes — Latest updates, Nov 12)
+
+## 2026-11-12 16:07 — added to the sheet
+- **November 11 hotfix is on the sheet.** Almost none of it is yours, but one line is: your Dwarf **Find Treasure** can now find **extra items in most chests**, so open every chest you walk past. The rest — five Tailoring bags need one more bolt of cloth and hold more slots, Paladin Judgement is now a ranged attack, three stuck quests fixed, Item Restoration switched off — is written up as context, not as hunter news.
+- **Racials: no value changed.** The October 26 numbers on the sheet are still the live ones (Artisan's Precision 1% hit, Big Game Hunter 5% vs Beasts, Stoneform, Find Treasure for chests). Everything racial in today's sources is the old October 15 beta text — the new check line on the Races row says so.
+- **Nothing new for your gun, shots, pet or talents.** Pet health is still 115% after the November 10 fix, and quest gold for level 48+ is still paying extra.
+- **Dates:** header and footer read 12.11.2026; section ids, CSS and structure untouched; index.html refreshed.
+- **Skipped:** launch/edition/news posts, WoWhead headlines with no readable text (Wild Growth, dual spec cost, Darkmoon Faire buff), Questie Nov 12 commit titles (no version notes yet), wowf.io rotation advice already on the sheet.
+- Source: wow_digest/dane/2026-11-12_delta.txt (wowclassicforever Latest updates, Warcraft Tavern, wowforeverbuilds)
