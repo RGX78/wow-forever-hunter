@@ -734,3 +734,13 @@ Entries appear here when the server adds something to the sheet.
 - **Dates:** header and footer read 13.11.2026; section ids, CSS and structure untouched; index.html refreshed.
 - **Skipped:** launch/edition/lore-podcast posts, Wowhead headlines with no readable text, wowf.io rotation advice already on the sheet, wow-ui-source 12.1.5 (Midnight branch, not Forever).
 - Source: wow_digest/dane/2026-11-13_delta.txt (Kaivax blue post Nov 12, wowclassicforever Latest updates, Warcraft Tavern, Questie commits)
+
+## 2026-11-13 08:07 — added to the sheet
+- **A new client build is rolling out: 1.60.1.70938** (detected Nov 13). Nobody has read its talent or spell data yet, so there is **nothing saying your hunter changed** — keep your build and rotation, just let Battle.net update you. I will check the numbers when the data sites publish them.
+- **That is the only new thing today.** Everything else in the sources was already on the sheet: the November 11 hotfix (Volley no longer triggers procs and stops when you move, Dwarf Find Treasure finds extra items in chests) and the November 10 hotfix (pet health fixed to 115%, extra gold for level 48+ quests).
+- **Racials: nothing changed.** The October 26 numbers are still the live ones (Artisan's Precision 1% hit, Big Game Hunter 5% vs Beasts, Stoneform, Find Treasure, Command +5% pet damage, Berserking 15 s, Touch of the Grave 15 s, Wind Blessed 3% haste). Every racial text in today's sources is the old October 15 beta block — superseded, not re-added.
+- **Auction House:** still waiting for the weekly maintenance on **November 17** (cheaper listing deposit, 60-minute mail delivery). Nothing to change in the sheet before then.
+- **Watching, not written:** one headline says the November 11 hotfix also fixed "Hunter bugs" beyond Volley, but no source says which bug — so no line on the sheet until it is spelled out.
+- **Dates:** header and footer read 13.11.2026; section ids, CSS and structure untouched; index.html refreshed.
+- **Skipped:** launch/upgrade/lore-podcast posts, the Oct 26 + Nov 2 blue posts (superseded), Wowhead headlines with no readable text, wowf.io rotation advice already on the sheet.
+- Source: wow_digest/dane/2026-11-13_delta.txt (The Forever Era build history, Nov 13; wowforeverbuilds; wowclassicforever)
