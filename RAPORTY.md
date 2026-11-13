@@ -724,3 +724,13 @@ Entries appear here when the server adds something to the sheet.
 - **Dates:** header and footer read 12.11.2026; section ids, CSS and structure untouched; index.html refreshed.
 - **Skipped:** launch/edition/news posts, WoWhead headlines with no readable text (Wild Growth, dual spec cost, Darkmoon Faire buff), Questie Nov 12 commit titles (no version notes yet), wowf.io rotation advice already on the sheet.
 - Source: wow_digest/dane/2026-11-12_delta.txt (wowclassicforever Latest updates, Warcraft Tavern, wowforeverbuilds)
+
+## 2026-11-13 00:07 — added to the sheet
+- **November 11 hotfix is now live — and it has a hunter line.** Blizzard's changes deployed late: they went live in all regions on **Nov 12 at 10:45 a.m. PST**. **Volley no longer triggers procs** and **stops the moment you move** (it used to keep channeling). So Volley is a "stand still" button now. The old sheet line saying nothing changed for hunters was replaced — the sheet must not contradict the live game.
+- **Rest of that hotfix is not your class:** Tailoring bags (one more bolt, more slots), Paladin Judgement became ranged, Druid Rend and Tear works on Pounce's bleed, three stuck quests fixed, Item Restoration still off. Dwarf **Find Treasure** for chests stayed on the sheet from the Nov 11 look.
+- **Questie is now v12.8.0** (Nov 12): Darkmoon Faire re-enabled on Forever, the broken **"Rekindle"** quest and the newly found **"A Sealed Crate"** quests are hidden so they stop tempting you on the map, and other addons' map pins no longer mix with Questie's. Install the new version.
+- **Racials: nothing changed.** The October 26 numbers on the sheet are still the live ones (Artisan's Precision 1% hit, Big Game Hunter 5% vs Beasts, Stoneform, Find Treasure). Every racial paragraph in today's sources is the old October 15 beta text — superseded, not re-added.
+- **Auction House:** Blizzard pulled the AH changes out of this hotfix — they go live with weekly maintenance on **November 17**. Nothing to change in the sheet until then; I will check on the day.
+- **Dates:** header and footer read 13.11.2026; section ids, CSS and structure untouched; index.html refreshed.
+- **Skipped:** launch/edition/lore-podcast posts, Wowhead headlines with no readable text, wowf.io rotation advice already on the sheet, wow-ui-source 12.1.5 (Midnight branch, not Forever).
+- Source: wow_digest/dane/2026-11-13_delta.txt (Kaivax blue post Nov 12, wowclassicforever Latest updates, Warcraft Tavern, Questie commits)
