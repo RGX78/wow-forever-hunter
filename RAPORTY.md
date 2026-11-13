@@ -744,3 +744,13 @@ Entries appear here when the server adds something to the sheet.
 - **Dates:** header and footer read 13.11.2026; section ids, CSS and structure untouched; index.html refreshed.
 - **Skipped:** launch/upgrade/lore-podcast posts, the Oct 26 + Nov 2 blue posts (superseded), Wowhead headlines with no readable text, wowf.io rotation advice already on the sheet.
 - Source: wow_digest/dane/2026-11-13_delta.txt (The Forever Era build history, Nov 13; wowforeverbuilds; wowclassicforever)
+
+## 2026-11-13 16:07 — no sheet change
+- **Nothing new for your hunter today.** I read the newest delta; the four sections that changed had no new hunter news, so I did **not** edit the sheet (no new line, no changed numbers).
+- **Questie:** two commits today — Forever is now excluded from the Era localization files, and the DBM HUD integration got a fix. Fixes only, **no new Forever quest data**, so your quest route and the v12.8.0 note on the sheet stay the same.
+- **wowf.io Beast Mastery leveling:** same text as before (Auto Shot opener, you can't shoot inside 8 yards, buy bullets in every town). Only its damage rank moved — BM is now #1 for leveling. That is a ranking, not a change to your class.
+- **Racials: nothing changed.** No racial text in today's sources is new; the October 26 numbers are still the live ones.
+- **Already on the sheet (no duplicate):** the November 11 hotfix (Volley stops when you move and no longer triggers procs, Dwarf Find Treasure finds extra items in chests, bigger Tailoring bags), pet health at 115%, the raid plan (Barrow Deeps, Hyjal Summit, Onyxia's Lair open **December 9**), and client build 1.60.1.70938.
+- **Still waiting:** the Auction House changes go live with weekly maintenance on **November 17** (min deposit 1 copper, mail delivery back to 60 minutes). I will update the Gold tab then.
+- **Dates:** header and footer stay at 13.11.2026 (today); section ids, CSS and structure untouched; index.html not touched because nothing changed.
+- Source: wow_digest/dane/2026-11-13_delta.txt (Questie commits Nov 13, wowf.io BM guide, stillsixty news, Blizzard news blog)
