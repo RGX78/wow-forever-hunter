@@ -754,3 +754,13 @@ Entries appear here when the server adds something to the sheet.
 - **Still waiting:** the Auction House changes go live with weekly maintenance on **November 17** (min deposit 1 copper, mail delivery back to 60 minutes). I will update the Gold tab then.
 - **Dates:** header and footer stay at 13.11.2026 (today); section ids, CSS and structure untouched; index.html not touched because nothing changed.
 - Source: wow_digest/dane/2026-11-13_delta.txt (Questie commits Nov 13, wowf.io BM guide, stillsixty news, Blizzard news blog)
+
+## 2026-11-14 00:08 — added to the sheet
+- **No new hunter news today.** No ability, talent, racial or hotfix number changed in the sources, so nothing new went onto the sheet.
+- **One clean-up on the Questie line.** The old text at the end said *"install v12.7.0"* while the same line now starts with *v12.8.0* — two different install tips next to each other. I removed the old one: **install v12.8.0**, which already includes the November 13 fixes (new QuestieTrace option in the Questie menu, DBM HUD fix, Forever content no longer mixed into the Era localizations). Nothing changes for your quest route.
+- **Racials: nothing changed.** The October 26 numbers are still the live ones (Artisan's Precision 1% hit, Big Game Hunter 5% vs Beasts, Stoneform, Find Treasure, Command +5% pet damage, Berserking 15 s, Touch of the Grave 15 s, Wind Blessed 3% haste). Every racial text in today's sources is the old October 15 beta block — superseded, not re-added.
+- **Already on the sheet (no duplicate):** the November 11 hotfix (Volley stops when you move and no longer triggers procs, Dwarf Find Treasure finds extra items in chests, bigger Tailoring bags), the November 10 hotfix (pet health 115%), the raid plan (Barrow Deeps, Hyjal Summit, Onyxia's Lair open **December 9**), and client build 1.60.1.70938.
+- **Still waiting:** the Auction House changes go live with weekly maintenance on **November 17** (min deposit 1 copper, mail delivery back to 60 minutes). I will update the Gold tab then.
+- **Skipped / no data:** stillsixty and wow-forever.gg failed to load (timeout and 403) — no readable text today; Blizzard posts (lore podcast, "Cost of Honor", upgrades, Discord, gamepad) are not hunter news; wow-ui-source 12.1.5 is the Midnight branch, not Forever.
+- **Dates:** header and footer read 14.11.2026; section ids, CSS and structure untouched; index.html refreshed.
+- Source: wow_digest/dane/2026-11-14_delta.txt (Questie commits Nov 13, wowforeverbuilds, Blizzard news blog, wowf.io BM guide)
