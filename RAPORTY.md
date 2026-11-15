@@ -808,3 +808,15 @@ Entries appear here when the server adds something to the sheet.
 - **Skipped:** lore podcast, the "Cost of Honor" short story, the Irvine Improv poster signing, upgrade packs, Discord and gamepad posts, wowf.io's class ranking shuffle, and the unchanged stillsixty hunter guide.
 - **Dates:** header and footer read 15.11.2026; section ids, CSS and structure untouched; index.html refreshed.
 - Source: wow_digest/dane/2026-11-15_delta.txt (Questie commits Nov 15, wowforeverbuilds, stillsixty, wowf.io BM guide)
+
+## 2026-11-15 16:07 — added to the sheet
+
+- **One real change today: Blizzard eased the dungeon XP rule again.** On November 13 dungeon kills stopped paying when the mobs were trivial to anyone in the group. On **November 14** Blizzard narrowed that: experience now stops **only when someone is more than 12 levels above the enemy**. So a friend a few levels higher no longer kills your XP — only a real high-level carry does. Runs that had already started kept the old rule.
+- **Two older lines on the Zones and Dungeons tab were fixed, not just extended.** They still described the November 13 rule as if it were current, so the sheet could tell you two different things. Both now show the 12-level gap with "(as of 15.11)".
+- **Racials: nothing changed.** The October 26 numbers are still the live ones (Artisan's Precision 1% hit, Big Game Hunter 5% vs Beasts, Stoneform, Find Treasure, Command +5% pet damage, Berserking 15 s, Touch of the Grave 15 s, Wind Blessed 3% haste). Every racial text in today's sources is the old October 15/26 beta block — superseded, not re-added.
+- **Questie: no news.** Newest version is still **v12.9.0** and no new commit came in today, so the addon line stays as the 08:07 run left it.
+- **Already on the sheet (no duplicate):** the November 13 hotfix, the November 9-11 hotfixes, pet health at 115%, client build 1.60.1.70938, the Ogre dungeon set note, and the raids (Barrow Deeps, Hyjal Summit, Onyxia's Lair open **December 9**).
+- **Still waiting:** the Auction House changes go live with weekly maintenance on **November 17** (minimum deposit 1 copper, mail delivery back to 60 minutes). Wowhead still has no readable detail on the Ogre set's dungeon, item levels or bonuses.
+- **Skipped:** lore podcast, the "Cost of Honor" short story, the Irvine Improv poster signing, upgrade packs, Discord and gamepad posts, wowf.io's class ranking shuffle, and the unchanged stillsixty hunter guide.
+- **Dates:** header and footer read 15.11.2026; section ids, CSS and structure untouched; index.html refreshed.
+- Source: wow_digest/dane/2026-11-15_delta.txt (wowforeverbuilds Nov 15, stillsixty, The Forever Era, wowclassicforever patch notes, wowf.io BM guide)
