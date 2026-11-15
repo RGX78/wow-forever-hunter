@@ -787,3 +787,14 @@ Entries appear here when the server adds something to the sheet.
 - **Skipped:** lore podcast, the "Cost of Honor" short story, upgrade packs, Discord and gamepad posts, the Darkmoon Faire (already on the sheet), and Wowhead headlines with no readable text.
 - **Dates:** header and footer read 14.11.2026; section ids, CSS and structure untouched; index.html refreshed.
 - Source: wow_digest/dane/2026-11-14_delta.txt (wowforeverbuilds Nov 13 hotfix summary, Warcraft Tavern, wowclassicforever patch notes, wowf.io BM guide)
+
+## 2026-11-15 00:07 — added to the sheet
+- **Two things went on the sheet today, both on the Zones and Dungeons tab.**
+- **Questie (your quest add-on) got two small quality-of-life fixes** and no version bump — still v12.9.0. Now the quest log shows the **next quest in a chain**, the tracker no longer jumps to a quest you just accepted when nothing was tracked yet, and **collapsed zones stay collapsed after a reload**. No new Forever quest data, so **your quest route does not change** — just update the addon in your addon manager.
+- **A new dungeon set turns your character into an Ogre** (Wowhead, Nov 14). I put it on the sheet with a clear warning: its set bonuses push **melee damage and healing**, so for your gun it is **extra melee only, no ranged value** — and a transform hides your gear, so do not chase it while leveling. Wowhead did **not** say which dungeon drops it, the item levels or the exact bonuses, so it is **not on the Gear tab** yet. I wrote that openly instead of guessing.
+- **Racials: nothing changed.** The October 26 numbers are still the live ones (Artisan's Precision 1% hit, Big Game Hunter 5% vs Beasts, Stoneform, Find Treasure, Command +5% pet damage, Berserking 15 s, Touch of the Grave 15 s, Wind Blessed 3% haste). Every racial text in today's sources is the old October 15/26 beta block — superseded, not re-added.
+- **Already on the sheet (no duplicate):** the November 13 hotfix (dungeon kill XP only on non-trivial kills, dual spec bars safe, gold for training mailed back), the November 10 and 11 hotfixes, pet health at 115%, client build 1.60.1.70938, and the raids (Barrow Deeps, Hyjal Summit, Onyxia's Lair open **December 9**).
+- **Still waiting:** the Auction House changes go live with weekly maintenance on **November 17** (minimum deposit 1 copper, mail delivery back to 60 minutes). The Gold tab gets updated then.
+- **Skipped:** lore podcast, the "Cost of Honor" short story, upgrade packs, Discord and gamepad posts, Grimtide housing decor, and Wowhead headlines with no readable text.
+- **Dates:** header and footer read 15.11.2026; section ids, CSS and structure untouched; index.html refreshed.
+- Source: wow_digest/dane/2026-11-15_delta.txt (Questie commits Nov 14, Wowhead Nov 14, wowforeverbuilds, stillsixty, wowf.io BM guide)
