@@ -798,3 +798,13 @@ Entries appear here when the server adds something to the sheet.
 - **Skipped:** lore podcast, the "Cost of Honor" short story, upgrade packs, Discord and gamepad posts, Grimtide housing decor, and Wowhead headlines with no readable text.
 - **Dates:** header and footer read 15.11.2026; section ids, CSS and structure untouched; index.html refreshed.
 - Source: wow_digest/dane/2026-11-15_delta.txt (Questie commits Nov 14, Wowhead Nov 14, wowforeverbuilds, stillsixty, wowf.io BM guide)
+
+## 2026-11-15 08:07 — added to the sheet
+- **One small line today.** Questie got one new commit (November 15) and I added it to the addon line on the Zones and Dungeons tab: the addon no longer throws a Lua error when a zone is not loaded yet. It is a **crash guard only — no new quest data, so your quest route does not change**.
+- **No version bump:** the newest Questie is still **v12.9.0**, so the install tip did not move.
+- **Racials: nothing changed.** The October 26 numbers are still the live ones (Artisan's Precision 1% hit, Big Game Hunter 5% vs Beasts, Stoneform, Find Treasure, Command +5% pet damage, Berserking 15 s, Touch of the Grave 15 s, Wind Blessed 3% haste). Every racial text in today's sources is the old October 15/26 beta block — superseded, not re-added.
+- **Already on the sheet (no duplicate):** the November 13 hotfix (dungeon kill XP only on non-trivial kills, dual spec bars safe, gold for training mailed back), the November 10 and 11 hotfixes, pet health at 115%, client build 1.60.1.70938, the Ogre dungeon set note, and the raids (Barrow Deeps, Hyjal Summit, Onyxia's Lair open **December 9**).
+- **Still waiting:** the Auction House changes go live with weekly maintenance on **November 17** (minimum deposit 1 copper, mail delivery back to 60 minutes). The Gold tab gets updated then.
+- **Skipped:** lore podcast, the "Cost of Honor" short story, the Irvine Improv poster signing, upgrade packs, Discord and gamepad posts, wowf.io's class ranking shuffle, and the unchanged stillsixty hunter guide.
+- **Dates:** header and footer read 15.11.2026; section ids, CSS and structure untouched; index.html refreshed.
+- Source: wow_digest/dane/2026-11-15_delta.txt (Questie commits Nov 15, wowforeverbuilds, stillsixty, wowf.io BM guide)
