@@ -830,3 +830,12 @@ Entries appear here when the server adds something to the sheet.
 - **Skipped:** lore podcast, the \"Cost of Honor\" short story, the Irvine Improv poster signing, launch-time and Discord posts, Wowhead headlines with no readable hunter text (Riverglades leveling zone, Skyborne mount discount, November 13 server crash), and wonderbuilds' hotfix recaps already on the sheet.
 - **Dates:** header and footer read 16.11.2026; section ids, CSS and structure untouched; index.html refreshed.
 - Source: wow_digest/dane/2026-11-16_delta.txt (Questie commits Nov 15, wowforeverbuilds, stillsixty, wowf.io BM guide)
+
+## 2026-11-16 08:07 — no sheet change
+- **Nothing new for the hunter today.** The only fresh item in the sources — Blizzard narrowing the dungeon kill-XP rule on November 14 (XP now stops only when someone in the group is more than **12 levels above** the enemy) — was already put on the sheet yesterday.
+- **Racials:** no racial changed. Every racial paragraph in the sources is still the old October beta text (Skyborne 2% haste, Old World racials), which the October 26 final pass already replaced on the sheet.
+- **Hotfixes:** November 13, 11 and 10 recaps repeat lines already on the sheet (dual spec bars, Volley, Dwarf Find Treasure, pet health 115%).
+- **Skipped:** lore podcast, "Cost of Honor" story, poster signing, launch packs, Discord/gamepad posts, Wowhead headlines with no hunter numbers, wowf.io ranking shifts.
+- **Dates:** header and footer still read 16.11.2026; section ids, CSS and structure untouched; index.html stays identical.
+- **Still queued:** Auction House changes go live with the November 17 maintenance (minimum deposit drops to **1 copper**, mail comes back in 60 minutes) — the Gold tab still says 1 silver until then.
+- Source: wow_digest/dane/2026-11-16_delta.txt (wowforeverbuilds, Warcraft Tavern, stillsixty, Blizzard news, wowf.io, wowforeversite)
