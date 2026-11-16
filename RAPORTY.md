@@ -820,3 +820,13 @@ Entries appear here when the server adds something to the sheet.
 - **Skipped:** lore podcast, the "Cost of Honor" short story, the Irvine Improv poster signing, upgrade packs, Discord and gamepad posts, wowf.io's class ranking shuffle, and the unchanged stillsixty hunter guide.
 - **Dates:** header and footer read 15.11.2026; section ids, CSS and structure untouched; index.html refreshed.
 - Source: wow_digest/dane/2026-11-15_delta.txt (wowforeverbuilds Nov 15, stillsixty, The Forever Era, wowclassicforever patch notes, wowf.io BM guide)
+
+## 2026-11-16 00:07 — added to the sheet
+- **One small update today: Questie (your quest add-on) got a few more fixes.** The **Blizzard quest tracker no longer flashes up for a moment when you enter combat**, there is another safety check for a zone that is not loaded, and the quest preview window got a small clean-up. Still **v12.9.0** — just update the addon in your addon manager; **your quest route does not change**.
+- **No hunter class or gear news today.** No ability, talent or racial change in any source.
+- **Racials: nothing changed.** The October 26 numbers are still the live ones (Artisan's Precision 1% hit, Big Game Hunter 5% vs Beasts, Stoneform, Find Treasure, Command +5% pet damage, Berserking 15 s, Touch of the Grave 15 s, Wind Blessed 3% haste). Every racial text in today's sources is the old October 15/26 beta block — superseded, not re-added.
+- **Already on the sheet (no duplicate):** the November 13 hotfix and the November 14 easing (dungeon XP stops only when someone is more than 12 levels above the enemy), pet health at 115%, the November 9-11 hotfixes, the Ogre dungeon set note, and the raids (Barrow Deeps, Hyjal Summit, Onyxia's Lair open **December 9**).
+- **Tomorrow:** the Auction House changes go live with weekly maintenance on **November 17** (minimum deposit 1 copper, mail delivery back to 60 minutes). I will update the Gold tab then.
+- **Skipped:** lore podcast, the \"Cost of Honor\" short story, the Irvine Improv poster signing, launch-time and Discord posts, Wowhead headlines with no readable hunter text (Riverglades leveling zone, Skyborne mount discount, November 13 server crash), and wonderbuilds' hotfix recaps already on the sheet.
+- **Dates:** header and footer read 16.11.2026; section ids, CSS and structure untouched; index.html refreshed.
+- Source: wow_digest/dane/2026-11-16_delta.txt (Questie commits Nov 15, wowforeverbuilds, stillsixty, wowf.io BM guide)
