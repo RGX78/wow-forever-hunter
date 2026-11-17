@@ -849,3 +849,7 @@ Entries appear here when the server adds something to the sheet.
 - **Skipped:** lore podcast, the "Cost of Honor" short story, poster signing, launch/upgrade packs, Wowhead headlines without readable hunter text, and wowf.io's damage-rank shuffle.
 - **Dates:** header and footer already read 16.11.2026; section ids, CSS and structure untouched; index.html refreshed and identical.
 - Source: wow_digest/dane/2026-11-16_delta.txt (Questie commits Nov 16, The Forever Era hunter guide, stillsixty, wowf.io BM guide)
+## 2026-11-17 00:07 — added to the sheet
+- **Questie (addon):** the newest commits hide the removed **"Hearts of the Lost"** quests on Forever, so they stop showing on your map, and the quest-starter item loot message now respects your announce settings. Fixes only — no new quest data, your route does not change (still v12.9.0).
+- No class, ability, talent or racial numbers changed today. The Auction House change (1 copper minimum deposit) was only "moved to the November 17 maintenance" in today's sources — that is not a confirmation it went live, so the Gold tab still says 1 silver; I will update it when a source confirms.
+- Dates in the header and footer now read 17.11.2026.
