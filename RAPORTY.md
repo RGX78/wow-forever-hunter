@@ -860,3 +860,12 @@ Entries appear here when the server adds something to the sheet.
 - **Skipped:** D&D: World of Warcraft pre-purchase last call, lore podcast, "Cost of Honor" story, poster signing, housing/mount posts, Wowhead headlines with no hunter numbers, wowf.io damage-rank shuffle, and the older Nov 8–15 hotfix recaps (already on the sheet).
 - **Dates:** header and footer still read 17.11.2026; section ids, CSS and structure untouched; index.html refreshed and identical.
 - Source: wow_digest/dane/2026-11-17_delta.txt (wowforeverbuilds, Warcraft Tavern, Blizzard news, stillsixty, The Forever Era, wowf.io)
+## 2026-11-17 16:07 — added to the sheet
+- **Questie update: v12.10.0** (the sheet said v12.9.0). Two things you will notice: **party announcements for quests are now off by default** — also for you, so your chat will be quieter; turn them back on in the settings if you liked them. And quests can now be **linked into chat from the tracker's right-click menu** with your normal chat style.
+- Under the hood: the addon **dropped its old Camelot TOC file and now ships only the Forever TOC**, so it just loads as a Forever addon with no leftover files. The quest-starter item loot message now respects your announce setting. **No new quest data — your quest route does not change.** Just update the addon.
+- **No hunter class, talent or racial change today.** All October 26 racial numbers still stand (Artisan's Precision 1% hit, Big Game Hunter 5% vs Beasts, Command +5% pet damage, Berserking 15 s, Wind Blessed 3% haste).
+- **Already on the sheet (no duplicate):** the November 16 hotfix (Fishing Rack lures to everyone, plus Shaman/Warrior/Priest fixes), the November 9–14 items, pet health at 115%, the Ogre dungeon set note, and the raids opening **December 9**.
+- **Auction House — still not confirmed.** The 1 copper minimum deposit and the 60-minute mail return were scheduled for the November 17 maintenance, but today's sources do not mention them at all. The Gold tab still tells you the old 1 silver rule may apply — so keep vendoring cheap items instead of listing them.
+- **Skipped:** D&D: World of Warcraft pre-purchase last call, lore podcast, "Cost of Honor" story, poster signing, housing/mount posts, and the older hotfix recaps.
+- **Dates:** header and footer still read 17.11.2026; section ids, CSS and structure untouched; index.html refreshed and identical.
+- Source: wow_digest/dane/2026-11-17_delta.txt (Questie commits Nov 17, Blizzard news, stillsixty, The Forever Era, wowf.io)
