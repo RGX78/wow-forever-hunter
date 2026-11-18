@@ -889,3 +889,8 @@ Entries appear here when the server adds something to the sheet.
 - **Next run:** read the actual body of the November 17 hotfix post and put its real lines on the sheet.
 - **Dates:** header and footer already read 18.11.2026; section ids, CSS and structure untouched; index.html refreshed and identical.
 - Source: wow_digest/dane/2026-11-18_delta.txt (Blizzard news, wowforeverbuilds, The Forever Era, stillsixty, wowf.io)
+
+## 2026-11-18 16:07 — added to the sheet
+- **November 17 hotfix** — the post body is readable now: Upper Blackrock Spire is hard again (more enemy damage and health — keep your pet off tank duty there), Shen'dralas quests fixed, Paladin tank Soulforge Armor now uses Spell Power, Windfury Totem no longer eats Shaman Flurry stacks. No hunter ability number changed.
+- **Blackmaw Hold exploit** — Blizzard removed the exploit gold and suspended the worst farmers on November 17. If you just ran the dungeon normally, you are safe. Do not farm that room.
+- **Questie v12.10.0** — Nov 18 commits are fixes only (faction ID errors, "Friend of the Library" quests hidden, trivial quests skipped, quest tracker sorting). Your quest route does not change.
