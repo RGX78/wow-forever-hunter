@@ -878,3 +878,14 @@ Entries appear here when the server adds something to the sheet.
 - **Skipped:** the December 1 Midnight/Talebound posts, the 22nd anniversary and D&D pre-purchase news, the lore podcast and "Cost of Honor" story, the Irvine poster signing, housing/mount posts, and wowf.io's damage ranking (BM #1, Survival #2, Marksmanship #3) — a tier-list move, not a rule change.
 - **Dates:** header and footer now read 18.11.2026; section ids, CSS and structure untouched; index.html refreshed and identical.
 - Source: wow_digest/dane/2026-11-18_delta.txt (Questie commits Nov 17, wowforeverbuilds, Blizzard news, stillsixty, The Forever Era, wowf.io)
+
+## 2026-11-18 08:07 — added to the sheet
+- **New hotfix: Blizzard posted "WoW: Forever Hotfixes – November 17, 2026"** — that is now the newest hotfix list, and it replaces the November 16 post (which is still on the sheet further down). The **full text does not open in our sources yet**, so I did not invent any lines for it. The one clue from outside the post is a Wowhead headline saying **UBRS (Upper Blackrock Spire) damage and health went up** — **no numbers** in it, and nothing about hunters. Practical tip: if UBRS enemies hit harder, do not use your pet as a tank in there until we read the real notes.
+- **New client build 1.60.1.70959** (yesterday's note stopped at 70938). No source has read its hunter talents or spells, so treat it as a normal update: let Battle.net patch and your build, rotation and gun plan stay the same.
+- **No hunter class, ability, talent or racial change today.** The October 26 numbers are still the live ones (Artisan's Precision 1% hit, Big Game Hunter 5% vs Beasts, Command +5% pet damage, Berserking 15 s, Touch of the Grave 15 s, Wind Blessed 3% haste). Every racial paragraph in today's sources is old October beta text.
+- **Still not confirmed:** the Auction House change (1 copper minimum deposit, mail back in 60 minutes) was scheduled for the November 17 maintenance, and no source today says it went live. The Gold tab keeps telling you to vendor cheap items instead of listing them.
+- **Unaffected / already on the sheet:** the November 16 hotfix, the November 9–15 items, and the raids opening on **December 9** (Barrow Deeps, Hyjal Summit, Onyxia's Lair).
+- **Skipped:** the December 1 Midnight/Talebound posts, the 22nd anniversary, the D&D pre-purchase last call, the lore podcast and "Cost of Honor" story, the Irvine poster signing, housing/mount posts, and wowf.io's damage ranking shuffle (BM #1, Survival #2, Marksmanship #3) — a tier-list move, not a rule.
+- **Next run:** read the actual body of the November 17 hotfix post and put its real lines on the sheet.
+- **Dates:** header and footer already read 18.11.2026; section ids, CSS and structure untouched; index.html refreshed and identical.
+- Source: wow_digest/dane/2026-11-18_delta.txt (Blizzard news, wowforeverbuilds, The Forever Era, stillsixty, wowf.io)
