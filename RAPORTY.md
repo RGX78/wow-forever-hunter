@@ -869,3 +869,12 @@ Entries appear here when the server adds something to the sheet.
 - **Skipped:** D&D: World of Warcraft pre-purchase last call, lore podcast, "Cost of Honor" story, poster signing, housing/mount posts, and the older hotfix recaps.
 - **Dates:** header and footer still read 17.11.2026; section ids, CSS and structure untouched; index.html refreshed and identical.
 - Source: wow_digest/dane/2026-11-17_delta.txt (Questie commits Nov 17, Blizzard news, stillsixty, The Forever Era, wowf.io)
+
+## 2026-11-18 00:07 — added to the sheet
+- **Questie (your quest add-on) got small fixes only — still v12.10.0.** Two things you may see: the **Darkspear Islands** quests are now tagged as **PvP quests** and the island is marked as a **Battleground** area in the quest log, and the removed **"The Heart of the Void"** quest no longer shows on your map. Also fixed: the **Darkmoon Faire** start and end times for Era/Forever now match the real Faire, and an object and a creature that share the same ID no longer get each other's loot source. **No new quest data, your quest route does not change** — just update the addon.
+- **No hunter class, ability, talent or gear change today.** The only hotfix text in the sources is the **November 16** one (Fishing Rack lures to everyone, plus Shaman/Warrior/Priest fixes), which is already on the sheet.
+- **Racials: nothing changed.** The October 26 numbers are still the live ones (Artisan's Precision 1% hit, Big Game Hunter 5% vs Beasts, Command +5% pet damage, Berserking 15 s, Touch of the Grave 15 s, Wind Blessed 3% haste). Every racial paragraph in today's sources is the old October text — superseded, not re-added.
+- **Auction House — still not confirmed.** No source today says the 1 copper minimum deposit or the 60-minute mail return went live on November 17. The Gold tab still tells you to vendor cheap items instead of listing them.
+- **Skipped:** the December 1 Midnight/Talebound posts, the 22nd anniversary and D&D pre-purchase news, the lore podcast and "Cost of Honor" story, the Irvine poster signing, housing/mount posts, and wowf.io's damage ranking (BM #1, Survival #2, Marksmanship #3) — a tier-list move, not a rule change.
+- **Dates:** header and footer now read 18.11.2026; section ids, CSS and structure untouched; index.html refreshed and identical.
+- Source: wow_digest/dane/2026-11-18_delta.txt (Questie commits Nov 17, wowforeverbuilds, Blizzard news, stillsixty, The Forever Era, wowf.io)
