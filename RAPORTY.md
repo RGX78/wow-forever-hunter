@@ -909,3 +909,12 @@ Entries appear here when the server adds something to the sheet.
 - **Queue is now empty** on this item. Still open: the Ogre set's dungeon name, item levels and bonuses are unreadable in our sources.
 - **Dates:** header and footer already read 19.11.2026; section ids, CSS and structure untouched; index.html refreshed and identical.
 - Source: wow_digest/dane/2026-11-19_delta.txt (wowforeverbuilds news feed, Wowhead Nov 18, Blizzard news, stillsixty, wowf.io)
+
+## 2026-11-19 16:07 — added to the sheet
+- **Questie (addon) — small fix for the quest tracker.** The tracker's shortcut clicks (Ctrl + Click and Shift + Left Click) now run **only the action you bound to that click**. Practically: **Shift + Left Click to share a quest with your group works again** — it used to do more than one thing at once. Also: available-quest icons stay visible on the minimap after their colour changes.
+- **What it means for you:** nothing to change in your route or settings. Just install/keep the newest Questie (still v12.11.0 — these are commits, not a new version).
+- **No hunter class, ability, talent or racial change today.** Every racial paragraph in the sources is still the old October 15 beta text (Dwarf Mace Specialization → Earth Fury, Orc Savage, Blood Fury 3 min, Human Sword Specialization, Tauren Endurance, Skyborne Wind Blessed 1%) — the October 26 numbers on the sheet stand. No new client build.
+- **Skipped:** Blizzard news (December 1 Midnight: Echoes of the Worldcore, Talebound, 22nd anniversary, D&D pre-purchase, "Cost of Honor" story) — not hunter news. The November 17 hotfix is already on the sheet from 18.11.
+- **Still open in Queue:** the Ogre set's dungeon name, item levels and bonuses are unreadable in our sources.
+- **Dates:** header and footer already read 19.11.2026; section ids, CSS and structure untouched; index.html refreshed and identical.
+- Source: wow_digest/dane/2026-11-19_delta.txt (Questie commits Nov 19, Blizzard news blog, stillsixty, wowf.io)
