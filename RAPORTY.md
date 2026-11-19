@@ -900,3 +900,12 @@ Entries appear here when the server adds something to the sheet.
 - Put in three places: the Lone Wolf row in Talents, the pet line in Essentials, and the "Mistakes" list.
 - Questie is now v12.11.0 — new option to show quest chains on objective icons, rares' patrols shown when the rare is the only target, fewer junk quests auto-accepted. No new Forever quests, your route is unchanged.
 - Nothing else was new today: the November 17 hotfix and the Blackmaw Hold gold removal are already on the sheet, and no racial or hunter number changed.
+
+## 2026-11-19 08:07 — added to the sheet
+- **Auction House deposit is now 1 copper — confirmed.** Wowhead (Nov 18) says the minimum deposit was reduced to **1 copper** in WoW: Forever, so the old **1 silver** minimum from before the **November 17** maintenance is gone. The sheet used to say "the change was moved to Nov 17 and nobody confirms it yet" — that line was replaced with the confirmed rule, so the sheet no longer contradicts itself.
+- **Still vendor your cheap items.** The 5% cut on the faction AH and the deposit you lose on expired auctions means a 3–5 silver item is not worth listing. That advice in the Gold tips did not change.
+- **No hunter class, ability, talent or racial change today.** The November 17 hotfix (UBRS harder, Shen'dralas fixes, Paladin Soulforge Armor, Windfury/Flurry) and the Blackmaw Hold gold removal were already added on 18.11, and the Lone Wolf pet bug went in earlier today. Every racial paragraph in the sources is still old October beta text (stillsixty still prints Wind Blessed 2%) — the October 26 numbers on the sheet stand.
+- **Skipped:** the December 1 Midnight: Echoes of the Worldcore and Talebound posts, the 22nd anniversary, D&D pre-purchase, the "Cost of Honor" story and the Irvine poster signing — not hunter news. Also skipped wowf.io's damage ranking shuffle (BM #5, Marksmanship #22, Survival #25 — a ranking, not a rule) and the new stillsixty site tools (Top Gear, Build rankings).
+- **Queue is now empty** on this item. Still open: the Ogre set's dungeon name, item levels and bonuses are unreadable in our sources.
+- **Dates:** header and footer already read 19.11.2026; section ids, CSS and structure untouched; index.html refreshed and identical.
+- Source: wow_digest/dane/2026-11-19_delta.txt (wowforeverbuilds news feed, Wowhead Nov 18, Blizzard news, stillsixty, wowf.io)
