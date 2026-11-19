@@ -894,3 +894,9 @@ Entries appear here when the server adds something to the sheet.
 - **November 17 hotfix** — the post body is readable now: Upper Blackrock Spire is hard again (more enemy damage and health — keep your pet off tank duty there), Shen'dralas quests fixed, Paladin tank Soulforge Armor now uses Spell Power, Windfury Totem no longer eats Shaman Flurry stacks. No hunter ability number changed.
 - **Blackmaw Hold exploit** — Blizzard removed the exploit gold and suspended the worst farmers on November 17. If you just ran the dungeon normally, you are safe. Do not farm that room.
 - **Questie v12.10.0** — Nov 18 commits are fixes only (faction ID errors, "Friend of the Library" quests hidden, trivial quests skipped, quest tracker sorting). Your quest route does not change.
+
+## 2026-11-19 00:07 — added to the sheet
+- Lone Wolf bug: the Marksmanship talent now also gives its +20% to your pet, so hunters with a pet out do more damage than intended (Warcraft Tavern, Nov 18). Written up as a bug — do not build around it, it can be fixed any day.
+- Put in three places: the Lone Wolf row in Talents, the pet line in Essentials, and the "Mistakes" list.
+- Questie is now v12.11.0 — new option to show quest chains on objective icons, rares' patrols shown when the rare is the only target, fewer junk quests auto-accepted. No new Forever quests, your route is unchanged.
+- Nothing else was new today: the November 17 hotfix and the Blackmaw Hold gold removal are already on the sheet, and no racial or hunter number changed.
