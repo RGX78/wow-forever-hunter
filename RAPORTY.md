@@ -918,3 +918,9 @@ Entries appear here when the server adds something to the sheet.
 - **Still open in Queue:** the Ogre set's dungeon name, item levels and bonuses are unreadable in our sources.
 - **Dates:** header and footer already read 19.11.2026; section ids, CSS and structure untouched; index.html refreshed and identical.
 - Source: wow_digest/dane/2026-11-19_delta.txt (Questie commits Nov 19, Blizzard news blog, stillsixty, wowf.io)
+
+## 2026-11-20 00:07 — added to the sheet
+- **Cozy Sleeping Bag changed (Nov 17 hotfix):** it can now be placed in specific locations only (like hunter traps), you cannot sleep on it while mounted, and it now shows a Resting aura. The +8% experience from the Sleeping Bag chain is unchanged. Added to the Camp system block on the Essentials tab — the rest of the November 17 hotfix post was only known from short summaries until today.
+- **Nothing else changed for your hunter:** no ability, talent or racial number moved. The old beta "dev notes" that reappeared in the sources are the ones from October/November 3 and are already on the sheet. The November 17 hotfix lines (UBRS difficulty, Shen'dralas quests, Paladin/Shaman lines), the Blackmaw Hold gold removal and all earlier hotfixes were already added on 17–19.11.
+- **No news yet:** the Nov 19 Blizzard post is only a podcast about class design (no numbers), and the Ogre dungeon set still cannot be read in any source (it stays in the queue).
+- **Tip for tonight:** if you use the Sleeping Bag while questing, dismount first — sleeping while mounted no longer works.
