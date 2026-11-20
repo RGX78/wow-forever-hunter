@@ -14,4 +14,4 @@ if ! git pull -q origin master 2>/dev/null; then
   echo "(git pull nie przeszedl — sprawdzam to, co jest lokalnie)"
 fi
 
-python "$SCRIPT"
+python "$SCRIPT" --quiet

@@ -273,21 +273,32 @@ def main():
     ap.add_argument("--repo", default=str(REPO))
     ap.add_argument("--sheet", default=None, help="podmien plik sciagi (test)")
     ap.add_argument("--no-live", action="store_true")
+    ap.add_argument("--quiet", action="store_true",
+                    help="tryb cron: gdy wszystko OK nic nie wypisuje (puste = cisza)")
     args = ap.parse_args()
     args.repo = Path(args.repo)
 
     alerts, warns, notes = check(args)
 
     stamp = dt.datetime.now().strftime("%Y-%m-%d %H:%M")
-    print(f"=== Straznik sciagi — {stamp} ===")
-    for n in notes:
-        print(f"  . {n}")
-    for w in warns:
-        print(f"  ! OSTRZEZENIE: {w}")
-    for a in alerts:
-        print(f"  X ALERT: {a}")
     verdict = "ALERTY" if alerts else ("OK z ostrzezeniami" if warns else "OK")
-    print(f"WERDYKT: {verdict}")
+
+    if args.quiet:
+        # Cron: gadaj tylko gdy jest problem. Puste wyjscie = brak powiadomienia.
+        if alerts or warns:
+            for a in alerts:
+                print(f"ALERT: {a}")
+            for w in warns:
+                print(f"OSTRZEZENIE: {w}")
+    else:
+        print(f"=== Straznik sciagi — {stamp} ===")
+        for n in notes:
+            print(f"  . {n}")
+        for w in warns:
+            print(f"  ! OSTRZEZENIE: {w}")
+        for a in alerts:
+            print(f"  X ALERT: {a}")
+        print(f"WERDYKT: {verdict}")
 
     try:
         LOG.parent.mkdir(parents=True, exist_ok=True)
