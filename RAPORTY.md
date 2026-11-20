@@ -933,3 +933,12 @@ Entries appear here when the server adds something to the sheet.
 - **Still open in Queue:** the November 19 post's **dungeon section stops at "Dungeons City of…"** in every source we can read — I put the confirmed lines in and left the dungeon part out rather than guess. It is queued for the next run that has the full text. The Ogre dungeon set is still unreadable too.
 - **Dates:** header and footer already read 20.11.2026; section ids, CSS and structure untouched; index.html refreshed and identical.
 - Source: wow_digest/dane/2026-11-20_delta.txt (The Forever Era blue tracker, Blizzard news blog, wowforeverbuilds, stillsixty, Questie commits Nov 19–20)
+
+## 2026-11-20 16:08 — no sheet change
+- **Nothing to add this run.** I read today's fresh sources and every hunter item in them was already on the sheet: the **Lone Wolf pet bug** (added 19.11), the **November 19 hotfix** with the Seed Hybridizer (added this morning), and the **Questie** updates for hunters.
+- **Still no detail on the November 11 "Hunter bug".** Blizzard's text says only "fix Feral, Hunter, Priest and Shaman bugs". Until a source names the actual hunter fix, I will not guess and will not write it on the sheet.
+- **Racials: no change.** The Oct 26 final numbers on your sheet still stand (Artisan's Precision 1% hit, Big Game Hunter 5% vs Beasts, Stoneform, Find Treasure) — the older racial text in the sources is the superseded beta block.
+- **Your gun plan is untouched:** rotation, talents and gear advice are the same as yesterday.
+- **Still in Queue:** the dungeon part of the November 19 hotfix (sources cut off at "Dungeons City of…") and the Ogre dungeon set details.
+- **Dates:** header and footer already read 20.11.2026; sheet, CSS, section ids and index.html untouched.
+- Source: wow_digest/dane/2026-11-20_delta.txt (Warcraft Tavern, wowforeverbuilds, Blizzard news, Questie commits, wowf.io, wow-ui-source)
