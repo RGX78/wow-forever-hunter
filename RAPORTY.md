@@ -951,3 +951,12 @@ Entries appear here when the server adds something to the sheet.
 - **Still in Queue:** the dungeon part of the November 19 hotfix (sources cut off at "Dungeons City of…") and the Ogre dungeon set details.
 - **Dates:** header and footer now read 21.11.2026; section ids, CSS and structure untouched; index.html refreshed and identical.
 - Source: wow_digest/dane/2026-11-21_delta.txt (The Forever Era — new build detected Nov 20, wowforeverbuilds, Blizzard news, stillsixty, wowf.io, Questie commits, wow-ui-source)
+
+## 2026-11-21 08:07 — added to the sheet
+- **There is a brand-new hotfix post: "WoW: Forever Hotfixes - November 20, 2026".** It is the newest Forever hotfix post now, so the sheet's Updates tab says that instead of pointing you at November 19. **Our sources have only the title and intro so far — nothing is known to have changed for your hunter.** Just play normally; the next run reads the full list.
+- **Blizzard is talking about classes in public.** They released a "Catching up on Classes" podcast with two class designers. No numbers were announced, so your talents, shots and racial numbers are exactly as written on the sheet — but an official balance pass may be coming, and the sheet will have it the day it lands.
+- **No racial or hunter number changed today.** The racial text in the sources is still the old beta block — the October 26 final numbers on your sheet stand.
+- **Your gun plan is untouched:** rotation, talents and gear advice are the same as yesterday.
+- **Still in Queue:** the full November 20 hotfix list, the dungeon part of the November 19 hotfix, and the Ogre dungeon set details.
+- **Dates:** header and footer already read 21.11.2026; section ids, CSS and structure untouched; index.html refreshed and identical.
+- Source: wow_digest/dane/2026-11-21_delta.txt (Blizzard news page and blog, wowforeverbuilds, stillsixty, wowf.io, Questie commits, wow-ui-source)
