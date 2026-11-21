@@ -942,3 +942,12 @@ Entries appear here when the server adds something to the sheet.
 - **Still in Queue:** the dungeon part of the November 19 hotfix (sources cut off at "Dungeons City of…") and the Ogre dungeon set details.
 - **Dates:** header and footer already read 20.11.2026; sheet, CSS, section ids and index.html untouched.
 - Source: wow_digest/dane/2026-11-20_delta.txt (Warcraft Tavern, wowforeverbuilds, Blizzard news, Questie commits, wowf.io, wow-ui-source)
+
+## 2026-11-21 00:08 — added to the sheet
+- **New client build 1.60.1.71037 is on the sheet.** Blizzard started rolling it out on November 20. No site has read its talents or spells yet, so **nothing is known to have changed for your hunter** — just let Battle.net update and keep your build and rotation. The Updates tab now lists 70959 (Nov 18) and 71037 (Nov 20) in both the "Recent tuning" note and the "Install and start playing" note.
+- **No hunter class, talent, ability or racial number changed today.** All the racial text in the sources is still the old beta block — the October 26 final numbers on the sheet stand (Artisan's Precision 1% hit, Big Game Hunter 5% vs Beasts, Stoneform, Find Treasure, Command +5% pet damage, Berserking 15 s, Touch of the Grave 15 s, Wind Blessed 3% haste).
+- **Nothing else new:** the hotfix summaries from November 9–19 are already on the sheet, the "15.16 million characters" stats post is not a gameplay change, and the December 1 Midnight / Talebound posts plus the 22nd anniversary are not hunter news. Questie's November 20 commits are menu fixes and quest tags only — no hunter gameplay change.
+- **Your gun plan is untouched:** rotation, talents and gear advice are the same as yesterday.
+- **Still in Queue:** the dungeon part of the November 19 hotfix (sources cut off at "Dungeons City of…") and the Ogre dungeon set details.
+- **Dates:** header and footer now read 21.11.2026; section ids, CSS and structure untouched; index.html refreshed and identical.
+- Source: wow_digest/dane/2026-11-21_delta.txt (The Forever Era — new build detected Nov 20, wowforeverbuilds, Blizzard news, stillsixty, wowf.io, Questie commits, wow-ui-source)
