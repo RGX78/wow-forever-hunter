@@ -960,3 +960,13 @@ Entries appear here when the server adds something to the sheet.
 - **Still in Queue:** the full November 20 hotfix list, the dungeon part of the November 19 hotfix, and the Ogre dungeon set details.
 - **Dates:** header and footer already read 21.11.2026; section ids, CSS and structure untouched; index.html refreshed and identical.
 - Source: wow_digest/dane/2026-11-21_delta.txt (Blizzard news page and blog, wowforeverbuilds, stillsixty, wowf.io, Questie commits, wow-ui-source)
+
+## 2026-11-21 16:07 — added to the sheet
+- **Questie got a Forever fix today.** The addon now knows that WoW Forever is its own game (before it treated Forever as Classic Era), and it uses the German quest translations on Forever. It also spots your own quest item loot on non-English clients and counts bonus roll loot. No new quest data, no new version number — just reload or reinstall Questie if you play on a German client; your quest route and gun plan are unchanged.
+- **No hunter class, ability, talent or racial number changed.** There is still no readable detail for the November 20 hotfix post, so your build, rotation and the October 26 racial numbers on the sheet all stand as written.
+- **Nothing else new:** the hotfix summaries from November 9–20, the client build 1.60.1.71037 note and the "Catching up on Classes" podcast line are already on the sheet from earlier runs today. The damage-rank shuffles on wowf.io are rankings, not class changes.
+- **Not hunter news:** Talebound / Midnight: Echoes of the Worldcore (December 1), the 22nd anniversary, Year of Warcraft, Grim Goods / Bound Silver cosmetics.
+- **Your gun plan is untouched:** rotation, talents and gear advice are the same as yesterday.
+- **Still in Queue:** the full November 20 hotfix list, the dungeon part of the November 19 hotfix, and the Ogre dungeon set details.
+- **Dates:** header and footer already read 21.11.2026; section ids, CSS and structure untouched; index.html refreshed and identical.
+- Source: wow_digest/dane/2026-11-21_delta.txt (Questie commits Nov 21, Blizzard news, stillsixty, wowf.io, wow-ui-source)
