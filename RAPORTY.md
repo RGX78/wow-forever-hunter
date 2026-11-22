@@ -970,3 +970,12 @@ Entries appear here when the server adds something to the sheet.
 - **Still in Queue:** the full November 20 hotfix list, the dungeon part of the November 19 hotfix, and the Ogre dungeon set details.
 - **Dates:** header and footer already read 21.11.2026; section ids, CSS and structure untouched; index.html refreshed and identical.
 - Source: wow_digest/dane/2026-11-21_delta.txt (Questie commits Nov 21, Blizzard news, stillsixty, wowf.io, wow-ui-source)
+
+## 2026-11-22 00:07 — added to the sheet
+- **Questie v12.12.0 is out (November 21) — update your addon.** The Addon line on Zones and Dungeons now says v12.12.0 instead of v12.11.0. The November 21 fixes shipped in this release: **left-click on Questie's compartment button opens its settings** (before, that click did nothing), **townsfolk icons are hidden in areas you have not explored yet** when that setting is on, and the **quest tracker now sizes itself to fit its text** (no more Lua error when you drag it). It also detects your own quest item loot on non-English clients and counts bonus roll loot.
+- **Your quest route does not change.** This is an addon version with fixes only — no new Forever quest data. Just reinstall Questie from CurseForge/Wago (or let your addon manager update it) and keep playing.
+- **No hunter class, ability, talent or racial number changed today.** The racial numbers on the sheet (October 26 final pass) still stand, and your gun build, rotation and gear advice are the same as yesterday.
+- **Not hunter news:** new hotfix *summaries* for November 9–17 (already on the sheet), the "15 million characters" stats post, the Blackmaw Hold gold removal, the December 1 Midnight / Talebound posts and the 22nd anniversary. The November 20 hotfix post still has no readable list of changes in our sources.
+- **Still in Queue:** the full November 20 hotfix list, the dungeon part of the November 19 hotfix, and the Ogre dungeon set details.
+- **Dates:** header and footer now read 22.11.2026; section ids, CSS and structure untouched; index.html refreshed and identical.
+- Source: wow_digest/dane/2026-11-22_delta.txt (Questie commits Nov 21, wowforeverbuilds, Blizzard news, stillsixty, wowf.io)
