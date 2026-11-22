@@ -979,3 +979,14 @@ Entries appear here when the server adds something to the sheet.
 - **Still in Queue:** the full November 20 hotfix list, the dungeon part of the November 19 hotfix, and the Ogre dungeon set details.
 - **Dates:** header and footer now read 22.11.2026; section ids, CSS and structure untouched; index.html refreshed and identical.
 - Source: wow_digest/dane/2026-11-22_delta.txt (Questie commits Nov 21, wowforeverbuilds, Blizzard news, stillsixty, wowf.io)
+
+## 2026-11-22 08:07 — added to the sheet
+- **The November 19 + 20 hotfix list is readable now — it went on the sheet.** Until today our sources only had the title of Blizzard's "WoW: Forever Hotfixes - November 20, 2026" post, so the sheet said "no readable list yet". That stale line is gone, replaced with the real content.
+- **Dungeon resets are capped at 5 per hour (was 10).** This is the one change that touches your play: you cannot re-farm a boss endlessly any more. Plan your dungeon runs — one run with quests is still the best value.
+- **The Stormshroud Armor set bonus was nerfed.** Do not plan your gear around that set now.
+- **Skyborne got their riding discount back** — if you ever roll a Skyborne hunter, cheaper riding.
+- **No hunter ability, talent or racial number changed.** Your gun build, rotation and the October 26 racial numbers all stand. The other hotfix lines are Paladin (Retribution two-hander now boosts all Holy damage), Rogue (Blade Flurry copies Shank) and the Camping Seed Hybridizer (back, but it can fail now and Scarce Herb Seeds no longer work in it).
+- **Not added:** Questie v12.12.0, the Nov 9–17 hotfixes and the client build note were already on the sheet from earlier runs; the "15 million characters" stats, the December 1 Midnight / Talebound posts and the 22nd anniversary are not hunter news; the damage-rank shuffles on wowf.io are rankings, not class changes.
+- **Queue:** the "full Nov 20 hotfix list" item is now closed. Still open: the dungeon part of the Nov 19 post (sources stop at "Dungeons City of…") and the Ogre dungeon set details.
+- **Dates:** header and footer already read 22.11.2026; section ids, CSS and structure untouched; index.html refreshed and identical.
+- Source: wow_digest/dane/2026-11-22_delta.txt (wowforeverbuilds + stillsixty hotfix summaries, Blizzard news, stillsixty, wowf.io, Questie commits, wow-ui-source)
