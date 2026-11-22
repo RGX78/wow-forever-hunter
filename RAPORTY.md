@@ -990,3 +990,11 @@ Entries appear here when the server adds something to the sheet.
 - **Queue:** the "full Nov 20 hotfix list" item is now closed. Still open: the dungeon part of the Nov 19 post (sources stop at "Dungeons City of…") and the Ogre dungeon set details.
 - **Dates:** header and footer already read 22.11.2026; section ids, CSS and structure untouched; index.html refreshed and identical.
 - Source: wow_digest/dane/2026-11-22_delta.txt (wowforeverbuilds + stillsixty hotfix summaries, Blizzard news, stillsixty, wowf.io, Questie commits, wow-ui-source)
+
+## 2026-11-22 16:07 — added to the sheet
+- **Questie is up to date — nothing to install today.** The editor line on Zones and Dungeons now lists the newest Questie fixes (November 22). They are small: changing **Follow Blizzard Super Tracking** now works even when no quest tracker is open, the DugiGuide integration is handled by DugiGuide itself, and some quest objective translations moved into the addon's database. These fixes are **not in a release yet** — the newest version is still **v12.12.0**, so you do not have to update before the next version is out.
+- **No hunter news today in the game itself.** No ability, talent or racial number changed, so your gun build, rotation and gear advice are exactly the same as yesterday.
+- **Careful with one thing:** several fan guide sites still print the **old beta racial numbers** (for example Dwarf "Mace Specialization becomes Earth Fury", Tauren Endurance "2% crit damage", Human Ruthless 2%). Those were replaced by Blizzard's **October 26 final pass**, which is what the sheet shows: **Artisan's Precision +1% hit** for Dwarf, **Big Game Hunter 5% more damage vs Beasts**, **Orc Command +5% pet damage**, **Troll Berserking 15 s**, **Wind Blessed 3% haste**. Do not trust the old numbers on those pages.
+- **Not hunter news:** the December 1 Midnight / Talebound posts, the 22nd anniversary, the Year of Warcraft and the Grim Goods cosmetics. The damage ranks on wowf.io moved a little (Beast Mastery #5) — that is a ranking, not a class change.
+- **Dates:** header and footer already read 22.11.2026; section ids, CSS and structure untouched; index.html refreshed and identical.
+- Source: wow_digest/dane/2026-11-22_delta.txt (Questie commits Nov 22, Blizzard news, stillsixty, wowclassicforever, wowf.io, wowforeverbuilds)
