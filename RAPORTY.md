@@ -1006,3 +1006,14 @@ Entries appear here when the server adds something to the sheet.
 - **Careful with old guide pages:** some fan sites still print the old beta racial numbers (Dwarf "Mace Specialization becomes Earth Fury", Human Ruthless 2%, Skyborne Wind Blessed 2%). Blizzard's **October 26 final pass** is what the sheet shows and what the game uses.
 - **Dates:** header and footer set to 23.11.2026; section ids, CSS and structure untouched; index.html refreshed and identical.
 - Source: wow_digest/dane/2026-11-23_delta.txt (stillsixty dungeon list, wowforeverbuilds, Questie commits)
+
+## 2026-11-23 08:07 — added to the sheet
+- **No hunter class, ability, talent or racial number changed today.** I re-checked the race tables on stillsixty and wowclassicforever: they still match the sheet, so the sheet now says "racial check 23.11" instead of "12.11". The October 26 final numbers stand (Dwarf Artisan's Precision +1% hit, Big Game Hunter 5% vs Beasts, Orc Command +5% pet damage, Troll Berserking 15 s, Wind Blessed 3% haste).
+- **Two race traits were missing from the race list and are now in.** Troll also keeps **Beast Slaying (+5% damage vs Beasts)** and Orc keeps **Hardiness (shorter stuns)** — both fine for a gun hunter and easy to forget when you pick a race.
+- **New for fishers: Stranglethorn Fishing Extravaganza every Sunday, 2–4 PM realm time** (the in-game calendar shows your server's slot). **Jang** has new prizes for the **Extravagant Extravaganza Coin**: a cosmetic hat, an off-hand, **boots that let you walk on water**, and a companion pet. It is on the Zones tab and next to the Fishing tip on the Professions tab. Fishing is already worth it for the camp buff (+8% all stats), so a Sunday run is easy money.
+- **Already on the sheet, not repeated:** the November 9–20 hotfixes (dungeon resets 5/hour, Stormshroud Armor nerf, Seed Hybridizer, Skyborne riding discount, UBRS, Blackmaw Hold gold), the Lone Wolf pet bug, Questie v12.12.0, the client build 1.60.1.71037 and the "Catching up on Classes" podcast line.
+- **Not hunter news:** the December 1 Midnight / Talebound posts, the 22nd anniversary, Grim Goods cosmetics and the poster signing. The damage ranks on wowf.io moved (Beast Mastery #3) — a ranking, not a class change.
+- **Your gun plan is untouched:** rotation, talents and gear advice are the same as yesterday.
+- **Still in Queue:** the dungeon part of the Nov 19 hotfix ("Dungeons City of…") and the Ogre dungeon set details.
+- **Dates:** header and footer already read 23.11.2026; section ids, CSS and structure untouched; index.html refreshed and identical.
+- Source: wow_digest/dane/2026-11-23_delta.txt (wowclassicforever Latest updates, stillsixty Hunter 1-60 races, wowforeverbuilds, Blizzard news)
