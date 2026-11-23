@@ -1017,3 +1017,13 @@ Entries appear here when the server adds something to the sheet.
 - **Still in Queue:** the dungeon part of the Nov 19 hotfix ("Dungeons City of…") and the Ogre dungeon set details.
 - **Dates:** header and footer already read 23.11.2026; section ids, CSS and structure untouched; index.html refreshed and identical.
 - Source: wow_digest/dane/2026-11-23_delta.txt (wowclassicforever Latest updates, stillsixty Hunter 1-60 races, wowforeverbuilds, Blizzard news)
+
+## 2026-11-23 16:07 — added to the sheet
+- **Uldaman hotfix written into the November 19 + 20 hotfix entry (Zones & Dungeons → hotfix list):** **Obsidian Sentinel** no longer drops its **four blue items**, and the **Pendulum of Doom** cannot be made for now. Blizzard's own notes do not mention this fix, so this is something you only learn from the fan sites.
+- **What it means for you:** do not run Uldaman hoping for those four blues or for the Pendulum — the loot is gone for now. The rest of the dungeon is unchanged.
+- **No hunter number changed:** no ability, talent or racial value moved today. All racial text in the delta is still the old Oct 15/26 beta wording (Mace Specialization → Earth Fury, Human Ruthless 2%, Skyborne Wind Blessed 1%) — the Oct 26 final pass numbers on the sheet stand.
+- **NOT added (already on the sheet):** Nov 19 + 20 hotfix list, Nov 6–17 hotfixes, Blackmaw Hold gold removal, Questie v12.12.0 and the Nov 21–22 commits, build 1.60.1.71037, the gamepad Auto Shot line.
+- **NOT added (not hunter news):** Blizzard news (Midnight: Echoes of the Worldcore and Talebound on December 1, 22nd anniversary, Grim Goods, poster signing), wowf.io ranking movement (#3 BM), wow-ui-source Midnight branch.
+- **Still in Queue:** the Tarnished Undermine Real guide (daily boss payouts, Pix Xizzix, reward prices) — headline only, no numbers readable yet; the dungeon part of the Nov 19 hotfix; the Ogre dungeon set details.
+- **Dates:** header and footer already read 23.11.2026; section ids, CSS and structure untouched; index.html refreshed and identical.
+- Source: wow_digest/dane/2026-11-23_delta.txt (wowclassicforever Latest updates, stillsixty, wowclassicforever Hunter, wowf.io, Blizzard news)
