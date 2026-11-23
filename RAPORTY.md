@@ -998,3 +998,11 @@ Entries appear here when the server adds something to the sheet.
 - **Not hunter news:** the December 1 Midnight / Talebound posts, the 22nd anniversary, the Year of Warcraft and the Grim Goods cosmetics. The damage ranks on wowf.io moved a little (Beast Mastery #5) — that is a ranking, not a class change.
 - **Dates:** header and footer already read 22.11.2026; section ids, CSS and structure untouched; index.html refreshed and identical.
 - Source: wow_digest/dane/2026-11-22_delta.txt (Questie commits Nov 22, Blizzard news, stillsixty, wowclassicforever, wowf.io, wowforeverbuilds)
+
+## 2026-11-23 00:07 — added to the sheet
+- **Two dungeon levels were wrong on the sheet and are now fixed.** In the dungeon list, **Excavation Site: Wetlands** is **24–29** (the sheet said 26–31) and **Krol'dok Stronghold** is **40–45** (the sheet said 40–55). The old text made Krol'dok look like it lasted all the way to the endgame, which would have sent you there at the wrong level. Source text now matches the name the guides use: "Excavation Site: Wetlands".
+- **No hunter news in the game itself.** No ability, talent or racial number changed. The hotfixes for November 19 and 20 (dungeon resets now 5 per hour, Stormshroud Armor set bonus nerfed, Skyborne riding discount back, Seed Hybridizer back with a fail chance) were already on the sheet since yesterday, so nothing was doubled.
+- **Questie:** still **v12.12.0**, nothing new to install. The November 22 commits are fixes only and are already listed on the sheet.
+- **Careful with old guide pages:** some fan sites still print the old beta racial numbers (Dwarf "Mace Specialization becomes Earth Fury", Human Ruthless 2%, Skyborne Wind Blessed 2%). Blizzard's **October 26 final pass** is what the sheet shows and what the game uses.
+- **Dates:** header and footer set to 23.11.2026; section ids, CSS and structure untouched; index.html refreshed and identical.
+- Source: wow_digest/dane/2026-11-23_delta.txt (stillsixty dungeon list, wowforeverbuilds, Questie commits)
