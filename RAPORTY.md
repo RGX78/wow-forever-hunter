@@ -1039,3 +1039,16 @@ Entries appear here when the server adds something to the sheet.
 - **Still in Queue:** the unnamed November 11 hunter bug, the dungeon part of the November 19 post, the Ogre set details, and the Tarnished Undermine Real numbers.
 - **Dates:** header and footer set to 24.11.2026; section ids, CSS and structure untouched; index.html refreshed and identical.
 - Source: wow_digest/dane/2026-11-24_delta.txt (wowforeverbuilds, Blizzard news, stillsixty Hunter 1-60, wowf.io BM leveling, Questie commits)
+
+## 2026-11-24 08:07 — added to the sheet
+- **Newest hotfix is November 23, and one line is worth knowing:** **world buffs survive loading screens again**. A buff you pick up in a capital city (Razor Hill, Goldshire, Lakeshire, Sentinel Hill) is no longer lost when you fly, take a boat or enter a dungeon. It sits in the hotfix list on the Zones tab.
+- **The same post also reworks every world buff,** but the full list is not readable in our sources yet — so only the loading-screen fix is written down, nothing invented. The rest goes to the Queue.
+- **New travel guide: getting to Riverglades and Mount Hyjal** — first visit by road or by ship, and once you have the flight points, the shortest route from each city with the fares. Useful before **Hyjal Summit** (20 players) opens on **December 9**. Added to the Zones tab.
+- **One old line updated so the sheet does not contradict itself:** the November 19 hotfix bullet used to say "the newest one is Nov 20" — it now points to the Nov 23 post.
+- **No hunter number changed today.** No ability, talent or racial value moved. All racial text in the sources is still the old beta wording (Dwarf Mace Specialization → Earth Fury, Skyborne Wind Blessed 1%) — the **October 26 final pass** numbers on the sheet stand: **Artisan's Precision +1% hit**, **Big Game Hunter 5% vs Beasts**, **Command +5% pet damage**, **Berserking 15 s**, **Touch of the Grave 15 s**, **Wind Blessed 3% haste**.
+- **Not added, already on the sheet:** the November 19 + 20 hotfixes, the Uldaman hotfix, the November 9–17 hotfixes, the Blackmaw Hold gold removal, Questie **v12.12.0**, build **1.60.1.71037**, the Lone Wolf pet bug, the gamepad Auto Shot option and the Sunday fishing tournament.
+- **Not added, not hunter news:** December 1 Midnight: Echoes of the Worldcore and Talebound, the 22nd anniversary, Grim Goods cosmetics, the poster signing. Wowf.io's Beast Mastery rank moved to **#3** — a ranking, not a class change. Wowhead and the blue tracker are still unreadable from this server, and wow-forever.gg returned an error.
+- **Your gun plan is untouched:** rotation, talents and gear advice are the same as yesterday.
+- **Still in Queue:** the unnamed November 11 hunter bug, the dungeon part of the November 19 post, the Ogre set details, the Tarnished Undermine Real numbers, and now the full world-buff list from the November 23 post.
+- **Dates:** header and footer already read 24.11.2026; section ids, CSS and structure untouched; index.html refreshed and identical.
+- Source: wow_digest/dane/2026-11-24_delta.txt (Blizzard news, wowclassicforever Latest updates / patch notes, wowforeverbuilds, stillsixty, wowf.io)
