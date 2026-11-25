@@ -1083,3 +1083,13 @@ Entries appear here when the server adds something to the sheet.
 - **Queue:** Tarnished Undermine Real is still waiting (headline only, no readable numbers), plus the unnamed November 11 hunter bug and the unnamed November 23 hunter fix.
 - **Dates:** header and footer already read 25.11.2026 — nothing else in the sheet was edited; index.html checked against sciaga-hunter.html.
 - Source: wow_digest/dane/2026-11-25_delta.txt (Blizzard news + blog, wowforeverbuilds, stillsixty, The Forever Era, wowclassicforever, wowf.io, Questie commits)
+
+## 2026-11-25 16:08 — added to the sheet
+- **One small Questie update today.** The newest Questie commit **hides Season of Discovery's replacement profession quests on Forever**, so those fake profession quests stop showing up on your map and you only see real Forever quests. Still **no new version** (newest is **v12.12.0**) — just update when the next release drops.
+- **Nothing about your gun changed.** No hunter ability, talent or racial number moved today. Your rotation, talents and gun plan are the same as this morning.
+- **Racials: checked, nothing new.** All the race tables in today's sources still repeat the older October 15/26 **beta** wording. The sheet keeps the **October 26 final numbers**: **Artisan's Precision +1% hit**, **Big Game Hunter 5% vs Beasts**, **Stoneform**, **Find Treasure**, **Command +5% pet damage**, **Berserking 15 s**, **Touch of the Grave 15 s**, **Wind Blessed 3% haste**. No race has a weapon racial, so your Dwarf gun-only build still gets hit from Artisan's Precision plus gear.
+- **Not added, already on the sheet:** the November 19 + 20 hotfixes, the November 23 world-buff fix with the unnamed hunter bugs, the Questie November 24 fixes, the camp Blueprint boss list, the Riverglades / Mount Hyjal route.
+- **Not added, not hunter news:** the Al'Aketh Rising comic, Talebound and Midnight: Echoes of the Worldcore on December 1, the 22nd anniversary, Grim Goods / Bound Silver cosmetics, the poster signing. Wowf.io's Beast Mastery rank is now **#6** — a ranking, not a class change.
+- **Still waiting:** Blizzard's "Hotfixes: November 24, 2026" post is still only a headline (it covers several games), so there is nothing to write about it yet. The Tarnished Undermine Real numbers, the unnamed November 11 hunter bug, the unnamed November 23 hunter fix and the Ogre set details stay in the Queue.
+- **Dates:** header and footer already read 25.11.2026; section ids, CSS and structure untouched; index.html refreshed and identical.
+- Source: wow_digest/dane/2026-11-25_delta.txt (Questie commits, stillsixty, wowclassicforever, wowf.io, Blizzard news list)
