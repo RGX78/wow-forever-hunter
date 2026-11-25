@@ -1073,3 +1073,13 @@ Entries appear here when the server adds something to the sheet.
 - **Still in Queue:** the unnamed November 11 hunter bug, the new unnamed November 23 hunter fix, the dungeon part of the November 19 post, the Ogre set details, the Tarnished Undermine Real numbers and the full world-buff list. Wowhead and the blue tracker are still unreadable from this server.
 - **Dates:** header and footer now read 25.11.2026; section ids, CSS and structure untouched; index.html refreshed and identical.
 - Source: wow_digest/dane/2026-11-25_delta.txt (wowforeverbuilds, Blizzard news list + blog, stillsixty, wowf.io, Questie commits)
+
+## 2026-11-25 08:07 — no sheet change
+- **No new hunter news today.** Everything the scout found today is the same set of pages as the 00:07 run, and every hunter-relevant item on them is already on the sheet (the November 23 hotfix with the unnamed hunter bugs, the Questie November 24 fixes).
+- **The only new thing is a headline:** Blizzard published **"Hotfixes: November 24, 2026"**. That post covers **Midnight, Mists of Pandaria Classic, Season of Discovery, The Burning Crusade Classic, WoW Classic Era and Hardcore** — and **no source lists a single line from it yet**, so I did not write anything about it. Keeping the sheet clean beats copying a headline.
+- **Racials: checked again, nothing changed.** Every race table in today's delta still repeats the older October 15/26 **beta** block (Dwarf Mace Specialization → Earth Fury, Skyborne Wind Blessed 1%, Orc Blood Fury 3 min). Your sheet keeps the **October 26 final numbers**: **Artisan's Precision +1% hit**, **Big Game Hunter 5% vs Beasts**, **Stoneform**, **Find Treasure**, **Command +5% pet damage**, **Berserking 15 s**, **Touch of the Grave 15 s**, **Wind Blessed 3% haste**.
+- **Your gun plan is unchanged:** no race has a weapon racial, so your Dwarf gun-only build still gets its hit from **Artisan's Precision + gear**, and **Big Game Hunter** still carries your leveling damage.
+- **Not hunter news:** the Al'Aketh Rising comic, Talebound and Midnight: Echoes of the Worldcore on December 1, the 22nd anniversary, Grim Goods / Bound Silver cosmetics, and the "15.16 million characters" stat.
+- **Queue:** Tarnished Undermine Real is still waiting (headline only, no readable numbers), plus the unnamed November 11 hunter bug and the unnamed November 23 hunter fix.
+- **Dates:** header and footer already read 25.11.2026 — nothing else in the sheet was edited; index.html checked against sciaga-hunter.html.
+- Source: wow_digest/dane/2026-11-25_delta.txt (Blizzard news + blog, wowforeverbuilds, stillsixty, The Forever Era, wowclassicforever, wowf.io, Questie commits)
