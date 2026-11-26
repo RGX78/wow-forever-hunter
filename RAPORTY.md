@@ -1113,3 +1113,12 @@ Entries appear here when the server adds something to the sheet.
 - **Still waiting:** the unnamed November 11 hunter bug fix, the unnamed November 23 hunter fix, the dungeon section of the November 19 post, the Ogre set details, the Tarnished Undermine Real numbers and the full world-buff list from the November 23 post.
 - Dates: header and footer already read 26.11.2026; section ids, CSS and structure untouched; index.html refreshed and identical.
 - Source: wow_digest/dane/2026-11-26_delta.txt (Blizzard news + blog, The Forever Era blue tracker, stillsixty, wowforeverbuilds, wowclassicforever, wowf.io)
+
+## 2026-11-26 16:07 — added to the sheet
+- Blizzard's news list now carries the **November 25 hotfix post** itself ("WoW: Forever Hotfixes - November 25, 2026"). Its own summary says it fixes "various issues related to World of Warcraft: Forever" and **names no class or ability**. The sheet now says that plainly, so the four known lines stand as the whole visible list: your Wind Serpent's **Hurricane now lands its final hit**, plus Druid Feralheart, Priest and Warlock — **no hunter ability change**.
+- **No new hunter news otherwise.** Racials in today's sources are still the old October beta text; the October 26 final numbers on your sheet stand (Artisan's Precision +1% hit, Big Game Hunter 5% vs Beasts, Command +5% pet damage). Stillsixty's race pages match the sheet.
+- **Not added, already there:** the Alterac Valley reward change, the November 23 world-buff fix, the raid openings on December 9 (Barrow Deeps 10, Hyjal Summit 20, Onyxia's Lair 40), Questie v12.15.0.
+- **Not hunter news:** Talebound and Midnight: Echoes of the Worldcore on December 1, the Celebration Pass, the Cuddly Seafoam Grrgle Twitch Drop (Dec 1 – Dec 29, 10:00 a.m. PST), the Al'Aketh Rising comic, the 22nd anniversary.
+- Wowf.io moved Beast Mastery to **#3** — a ranking, not a class change. Questie's Nov 26 commit is a quest-tag data fix only.
+- **Dates:** header and footer already read 26.11.2026; section ids, CSS and structure untouched; index.html refreshed and identical.
+- Source: wow_digest/dane/2026-11-26_delta.txt (Blizzard news list, stillsixty, wowf.io, Questie commits)
