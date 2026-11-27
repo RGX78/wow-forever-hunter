@@ -1122,3 +1122,14 @@ Entries appear here when the server adds something to the sheet.
 - Wowf.io moved Beast Mastery to **#3** — a ranking, not a class change. Questie's Nov 26 commit is a quest-tag data fix only.
 - **Dates:** header and footer already read 26.11.2026; section ids, CSS and structure untouched; index.html refreshed and identical.
 - Source: wow_digest/dane/2026-11-26_delta.txt (Blizzard news list, stillsixty, wowf.io, Questie commits)
+
+## 2026-11-27 00:07 — no sheet change
+- **No hunter news today.** Compare today's delta with yesterday's: the only thing that actually changed on Blizzard's news page is the **view counter** (Celebration Pass 91 → 102, and the Nov 25 hotfix post aged from "17 hours ago" to "a day ago"). That is traffic, not news.
+- **Your gun did not change.** No ability, talent or racial number moved. Rotation, talents and gun plan stay exactly as they were on your sheet.
+- **Racials: checked again, still nothing new.** Every race table in today's sources repeats the older October beta wording. The sheet keeps the **October 26 final numbers**: Artisan's Precision +1% hit, Big Game Hunter 5% vs Beasts, Stoneform, Find Treasure, Command +5% pet damage, Berserking 15 s, Touch of the Grave 15 s, Wind Blessed 3% haste. No race has a weapon racial, so your gun-only Dwarf build gets its hit from Artisan's Precision plus gear.
+- **Already on the sheet:** the Nov 25 hotfix (your Wind Serpent's Hurricane now lands its final hit; Druid/Priest/Warlock otherwise), the Alterac Valley reward change, the Nov 23 world-buff fix, Questie v12.15.0 plus the Nov 25 "fake profession quests hidden" commit, the raid openings on December 9.
+- **Not hunter news:** Talebound and Midnight: Echoes of the Worldcore on December 1, the Celebration Pass, the Cuddly Seafoam Grrgle Twitch Drop (Dec 1 – Dec 29, 10:00 a.m. PST), the Al'Aketh Rising comic, the 22nd anniversary. Wowf.io ranks moved slightly (BM #5, MM #18, SV #20) — a ranking, not a class change.
+- **Questie:** newest commits (Nov 26) are tooltip and settings fixes — game objects no longer show the wrong quests, a new option to turn off the minimap icon edge floating, and a note when a quest cannot be shared. No new version after v12.15.0.
+- **Still waiting:** the unnamed November 11 hunter bug, the unnamed November 23 hunter fix, the dungeon section of the November 19 post, the Ogre set details, the Tarnished Undermine Real numbers and the full world-buff list stay in the Queue.
+- **Sheet, dates and files:** sciaga-hunter.html untouched (header and footer still read 26.11.2026); section ids, CSS and structure untouched; index.html still identical.
+- Source: wow_digest/dane/2026-11-27_delta.txt (Blizzard news list, stillsixty, wowf.io, Questie commits)
