@@ -1133,3 +1133,12 @@ Entries appear here when the server adds something to the sheet.
 - **Still waiting:** the unnamed November 11 hunter bug, the unnamed November 23 hunter fix, the dungeon section of the November 19 post, the Ogre set details, the Tarnished Undermine Real numbers and the full world-buff list stay in the Queue.
 - **Sheet, dates and files:** sciaga-hunter.html untouched (header and footer still read 26.11.2026); section ids, CSS and structure untouched; index.html still identical.
 - Source: wow_digest/dane/2026-11-27_delta.txt (Blizzard news list, stillsixty, wowf.io, Questie commits)
+
+## 2026-11-27 08:07 — added to the sheet
+- **Sniper Shot cleaned up:** the wowclassicforever hunter page spells the ability out — 45-yard range, and it **adds 10 yards to your next 3 shots within 10 seconds**. The Abilities tab now says the 10-second window and explains what it means: open with Sniper Shot, then fire the next three shots from 10 yards further out.
+- **Racials:** no change today. The delta still shows the old Oct 15/26 beta text; the Oct 26 final numbers already on the sheet (Dwarf Artisan's Precision 1% hit, Big Game Hunter 5% vs Beasts, Orc Command +5% pet damage, Troll Berserking 15 s, Skyborne Wind Blessed 3% haste) stand.
+- **Not hunter news:** the Blizzard news page only moved view counters (Celebration Pass 102→118 and so on), and Wowf.io's damage ranks shifted (BM #2, MM #23, SV #24) — a ranking, not a class change. Its leveling advice is the same as on the sheet.
+- **Pets and traps:** pets getting Aggressive mode back (Oct 1 build), the shared 30-second trap cooldown and Sniper Shot's 45-yard range were already on the sheet, so nothing was duplicated.
+- **Still waiting** in the Queue: the unnamed Nov 11 hunter bug, the unnamed Nov 23 hunter fix, the dungeon part of the Nov 19 post, the Ogre set details, the Tarnished Undermine Real numbers and the full world-buff list.
+- **Sheet, dates and files:** header and footer still read 27.11.2026; section ids, CSS and structure untouched; index.html copied so it stays identical.
+- Source: wow_digest/dane/2026-11-27_delta.txt (wowclassicforever Hunter, Blizzard news list, wowf.io)
