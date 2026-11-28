@@ -1159,3 +1159,14 @@ Entries appear here when the server adds something to the sheet.
 - Questie added two small Tracker improvements (open the quest log from the tracker block, fade the tracker fully). Not worth a sheet line.
 - stillsixty and wowf.io re-read and they match the sheet. stillsixty still shows the old Wind Blessed 2% haste — the sheet keeps the final 3%.
 - Raids unchanged: Barrow Deeps opens Dec 9. November 25 is still the newest Forever hotfix.
+
+## 2026-11-28 16:07 — added to the sheet
+- **Questie has a new version: v12.16.0.** Your sheet said v12.15.0, so that is updated. Install it from CurseForge or Wago, then type `/reload`.
+- **The quest Tracker got easier to read.** Quests that have no zone of their own — the ones you pick up inside a dungeon, for example — are now listed under the zone of the NPC or object they belong to, so they stop disappearing from the Journey list while you are out questing.
+- **Two small Tracker buttons:** there is a new setting to fully fade the Tracker when you want it out of the way, and you can open Blizzard's hidden quest log panel straight from the Tracker block instead of hunting for it.
+- **Your gun and rotation did not change.** No hunter ability, talent or racial number moved today.
+- **Racials checked, nothing new.** stillsixty's race table matches your sheet — it still shows the old Wind Blessed 2%, so your sheet keeps the final 3% haste. Dwarf stays your pick: Artisan's Precision 1% hit and Big Game Hunter 5% vs Beasts.
+- **Not hunter news:** Blizzard's list only moved its view counters, Talebound arrives December 1, the Cuddly Seafoam Grrgle Twitch Drop runs December 1 – December 29 at 10:00 a.m. PST, and the Celebration Pass is valid through December 7. wowf.io's damage ranks moved again (#6 BM / #18 MM / #22 SV) — that is popularity, not a class change.
+- **Still waiting** in the Queue: the unnamed Nov 11 hunter bug, the unnamed Nov 23 hunter fix, the dungeon part of the Nov 19 post, the Ogre set details, the Tarnished Undermine Real numbers and the full world-buff list.
+- **Files:** header and footer read 28.11.2026; section ids, CSS and structure untouched; index.html copied so it stays identical.
+- Source: wow_digest/dane/2026-11-28_delta.txt (Questie GitHub commits, Blizzard news list, stillsixty Hunter, wowf.io BM leveling)
