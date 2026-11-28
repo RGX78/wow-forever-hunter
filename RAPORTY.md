@@ -1142,3 +1142,14 @@ Entries appear here when the server adds something to the sheet.
 - **Still waiting** in the Queue: the unnamed Nov 11 hunter bug, the unnamed Nov 23 hunter fix, the dungeon part of the Nov 19 post, the Ogre set details, the Tarnished Undermine Real numbers and the full world-buff list.
 - **Sheet, dates and files:** header and footer still read 27.11.2026; section ids, CSS and structure untouched; index.html copied so it stays identical.
 - Source: wow_digest/dane/2026-11-27_delta.txt (wowclassicforever Hunter, Blizzard news list, wowf.io)
+
+## 2026-11-28 00:10 — added to the sheet
+- **Fixed an error on your sheet.** The November 25 hotfix bullet said a "newer November 26 hotfix post" was on Blizzard's news list. There is no such post — no source on any day from Nov 25 to Nov 28 ever showed one, and Blizzard's list still shows **November 25** as the newest Forever hotfix. I deleted that line, so the sheet no longer sends you looking for a post that does not exist.
+- **The Nov 25 hotfix itself still stands:** your Wind Serpent's **Hurricane now lands its final hit**. Nothing else in it touches the hunter.
+- **Questie, made exact:** the Nov 27 work (still not in a release — newest is **v12.15.0**) also lets you **open quest details straight from the tracker**, even with Blizzard's quest log panel hidden, without breaking the map. Plus the separate minimap/world map icon toggles and the rest of the Forever dungeons in the Quest Journal. Keep v12.15.0, then `/reload`.
+- **Your gun and rotation did not change.** No ability, talent or racial number moved today. wowf.io's leveling guide says the same things as your sheet (Auto Shot, the 8-yard dead zone, buy ammo in town) — only its tier ranks moved (BM #1 / MM #21 / SV #26), which is a popularity ranking, not a class change.
+- **Racials checked, still nothing new.** Every race table in today's sources repeats the old October beta wording. Your sheet keeps the **October 26 final numbers**: Dwarf Artisan's Precision 1% hit and Big Game Hunter 5% vs Beasts — your best fit for a gun-only hunter.
+- **Not hunter news:** Talebound and Midnight: Echoes of the Worldcore on December 1, the Cuddly Seafoam Grrgle Twitch Drop (Dec 1 – Dec 29, 10:00 a.m. PST), the Celebration Pass, the 22nd anniversary. The new wowforeverbuilds page in today's delta only repeats the Nov 10–22 hotfixes already on your sheet.
+- **Still waiting** in the Queue: the unnamed Nov 11 hunter bug, the unnamed Nov 23 hunter fix, the dungeon part of the Nov 19 post, the Ogre set details, the Tarnished Undermine Real numbers and the full world-buff list.
+- **Files:** header and footer now read 28.11.2026; section ids, CSS and structure untouched; index.html copied so it stays identical.
+- Source: wow_digest/dane/2026-11-28_delta.txt (Blizzard news list, wowf.io BM leveling, Questie commits, wowforeverbuilds)
