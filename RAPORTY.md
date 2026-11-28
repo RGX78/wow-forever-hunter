@@ -1153,3 +1153,9 @@ Entries appear here when the server adds something to the sheet.
 - **Still waiting** in the Queue: the unnamed Nov 11 hunter bug, the unnamed Nov 23 hunter fix, the dungeon part of the Nov 19 post, the Ogre set details, the Tarnished Undermine Real numbers and the full world-buff list.
 - **Files:** header and footer now read 28.11.2026; section ids, CSS and structure untouched; index.html copied so it stays identical.
 - Source: wow_digest/dane/2026-11-28_delta.txt (Blizzard news list, wowf.io BM leveling, Questie commits, wowforeverbuilds)
+
+## 2026-11-28 08:07 — no sheet change
+- Read the 28.11 delta. Nothing new for your hunter: no ability, talent or racial number changed since this morning's run.
+- Questie added two small Tracker improvements (open the quest log from the tracker block, fade the tracker fully). Not worth a sheet line.
+- stillsixty and wowf.io re-read and they match the sheet. stillsixty still shows the old Wind Blessed 2% haste — the sheet keeps the final 3%.
+- Raids unchanged: Barrow Deeps opens Dec 9. November 25 is still the newest Forever hotfix.
